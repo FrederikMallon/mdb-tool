@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MOPS – Social-Media-Präsenz</title>
+<style>
+  :root {
+    --bg: #f5f6f8; --card: #ffffff; --text: #1d2330; --muted: #6a7385;
+    --border: #dfe3ea; --accent: #2f5bea; --accent-soft: #e8eefe; --row: #f8f9fb;
+    --err: #b3261e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12151c; --card: #1b202b; --text: #e8ebf2; --muted: #98a2b8;
+      --border: #2d3445; --accent: #7b9bff; --accent-soft: #232c47; --row: #202635;
+      --err: #ff8a80;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 900px; margin: 0 auto; padding: 32px 20px 60px; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 24px; }
+  .card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 20px; margin-bottom: 20px;
+  }
+  label { display: block; font-weight: 600; margin-bottom: 6px; font-size: .9rem; }
+  input[type="text"], input[type="number"], select {
+    width: 100%; padding: 10px 12px; font-size: 1rem;
+    border: 1px solid var(--border); border-radius: 10px;
+    background: var(--bg); color: var(--text);
+  }
+  #name { padding: 12px 14px; }
+  input:focus, select:focus { outline: 2px solid var(--accent); border-color: transparent; }
+  .hint { color: var(--muted); font-size: .85rem; margin-top: 8px; }
+  .filters {
+    display: grid; gap: 14px; margin-top: 18px; padding-top: 18px;
+    border-top: 1px solid var(--border);
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  }
+  .range { display: flex; gap: 8px; }
+  .or-sep { text-align: center; color: var(--muted); }
+  .or-sep hr { border: 0; border-top: 1px solid var(--border); margin: 10px 0; }
+  .filters-head { display: flex; justify-content: space-between; align-items: center; margin-top: 4px; }
+  .filters-head strong { font-size: .95rem; }
+  .linkbtn {
+    background: none; border: 0; color: var(--accent); cursor: pointer;
+    font-size: .9rem; padding: 0;
+  }
+  .drop {
+    border: 2px dashed var(--border); border-radius: 12px; padding: 28px;
+    text-align: center; color: var(--muted);
+  }
+  .drop.over { border-color: var(--accent); background: var(--accent-soft); }
+  .drop button {
+    margin-top: 10px; padding: 9px 16px; border-radius: 8px; border: 0;
+    background: var(--accent); color: #fff; font-size: .95rem; cursor: pointer;
+  }
+  .err { color: var(--err); }
+  .person-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+  .person-head h2 { margin: 0; font-size: 1.25rem; }
+  .badge {
+    background: var(--accent-soft); color: var(--accent);
+    padding: 2px 10px; border-radius: 999px; font-size: .8rem; font-weight: 600;
+  }
+  dl.info {
+    display: grid; gap: 10px 18px; margin: 14px 0 4px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+  dl.info div { min-width: 0; }
+  dl.info dt { font-size: .72rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  dl.info dd { margin: 0; overflow-wrap: anywhere; }
+  .terms { margin: 12px 0 4px; }
+  .terms-title { font-size: .72rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 6px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip {
+    border: 1px solid var(--border); background: var(--row);
+    border-radius: 999px; padding: 3px 12px; font-size: .88rem;
+  }
+  .chip b { font-weight: 600; }
+  table { width: 100%; border-collapse: collapse; margin-top: 14px; }
+  th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--border); }
+  th { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  tbody tr:nth-child(even) { background: var(--row); }
+  .wrap { overflow-x: auto; }
+  footer { color: var(--muted); font-size: .8rem; margin-top: 30px; }
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Social-Media-Präsenz von Abgeordneten</h1>
+  <p class="sub">Interne Abfrage auf Basis der CSV-Dateien im selben Ordner.</p>
+
+  <div id="loader" class="card hidden">
+    <div class="drop" id="drop">
+      <div>Die Dateien konnten nicht automatisch geladen werden<br>
+      (der Browser blockiert dies bei direkt geöffneten Dateien).</div>
+      <div style="margin-top:8px"><strong>persons.csv</strong>, <strong>social_media_matrix.csv</strong> und <strong>person_term_analysis.csv</strong> hierher ziehen oder auswählen:</div>
+      <button type="button" id="pick">Dateien auswählen …</button>
+      <input type="file" id="file" accept=".csv,text/csv" multiple hidden>
+    </div>
+    <p id="loadMsg" class="hint"></p>
+  </div>
+
+  <div id="search" class="card hidden">
+    <label for="name">Person auswählen</label>
+    <input type="text" id="name" list="names" placeholder="Name eingeben oder aus der Liste wählen …" autocomplete="off">
+    <datalist id="names"></datalist>
+
+    <div class="or-sep">
+      <br>
+      <hr>
+      <strong>ODER</strong>
+      <br>
+    </div>
+
+    <div class="filters-head">
+      <strong>Filter</strong>
+      <button type="button" class="linkbtn" id="reset">Filter zurücksetzen</button>
+    </div>
+    <div class="filters">
+      <div><label for="f_gender">Geschlecht</label><select id="f_gender"></select></div>
+      <div>
+        <label>Geburtsjahr</label>
+        <div class="range">
+          <input type="number" id="f_by_from" placeholder="von" aria-label="Geburtsjahr von">
+          <input type="number" id="f_by_to" placeholder="bis" aria-label="Geburtsjahr bis">
+        </div>
+      </div>
+      <div><label for="f_eastwest">Ost/West</label><select id="f_eastwest"></select></div>
+      <div><label for="f_state">Bundesland</label><select id="f_state"></select></div>
+      <div><label for="f_edu">Bildung (ISCED)</label><select id="f_edu"></select></div>
+      <div><label for="f_party">Partei (im BT)</label><select id="f_party"></select></div>
+    </div>
+    <div class="hint" id="count"></div>
+  </div>
+
+  <div id="results"></div>
+
+  <footer>
+    Datenquelle: Wallaschek, S. (2026). MOPS – Members of Parliament Social Media Presence
+    (ZA9147; Version 1.0.0) [Data set]. GESIS, Köln. https://doi.org/10.4232/1.14839
+  </footer>
+</main>
+
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const MAX_LIST = 50;     // max. Personen, die ohne Namensauswahl gleichzeitig angezeigt werden
+  let persons = [];
+  let matrix = [];
+  let termRows = [];
+  let partiesByPerson = new Map();   // person_id -> Set(party)
+  let termsByPerson = new Map();     // person_id -> [{term, party}]
+  const raw = {};
+
+  const esc = s => String(s).replace(/[&<>"']/g, c =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+  // ---------- CSV ----------
+  function parseCSV(text) {
+    text = text.replace(/^\uFEFF/, '');
+    const firstLine = text.split(/\r?\n/, 1)[0];
+    const delim = [',', ';', '\t'].map(d => [d, firstLine.split(d).length]).sort((a, b) => b[1] - a[1])[0][0];
+    const rows = []; let row = [], field = '', q = false;
+    for (let i = 0; i < text.length; i++) {
+      const c = text[i];
+      if (q) {
+        if (c === '"') { if (text[i + 1] === '"') { field += '"'; i++; } else q = false; }
+        else field += c;
+      } else if (c === '"') q = true;
+      else if (c === delim) { row.push(field); field = ''; }
+      else if (c === '\n' || c === '\r') {
+        if (c === '\r' && text[i + 1] === '\n') i++;
+        row.push(field); field = '';
+        if (row.length > 1 || row[0] !== '') rows.push(row);
+        row = [];
+      } else field += c;
+    }
+    if (field !== '' || row.length) { row.push(field); rows.push(row); }
+    const head = rows.shift().map(h => h.trim());
+    return rows.map(r => Object.fromEntries(head.map((h, i) => [h, (r[i] ?? '').trim()])));
+  }
+
+  // ---------- Daten laden ----------
+  async function tryFetch() {
+    try {
+      const get = f => fetch(f).then(r => { if (!r.ok) throw 0; return r.text(); });
+      const [p, m, t] = await Promise.all([
+        get('persons.csv'), get('social_media_matrix.csv'), get('person_term_analysis.csv')
+      ]);
+      init(p, m, t);
+      return true;
+    } catch (e) { return false; }
+  }
+
+  const ISCED = {
+    '2': 'Sekundarbereich I',
+    '3': 'Sekundarbereich II (z. B. Abitur)',
+    '4': 'Postsekundar, nicht tertiär',
+    '5': 'Kurzstudiengang (tertiär)',
+    '6': 'Bachelor oder gleichwertig',
+    '7': 'Master oder gleichwertig',
+    '8': 'Promotion'
+  };
+  function fillSelect(id, values, label, labeler) {
+    const sel = $(id);
+    sel.innerHTML = `<option value="">${label}</option>` +
+      values.map(v => `<option value="${esc(v)}">${esc(labeler ? labeler(v) : v)}</option>`).join('');
+  }
+  const iscedLabel = v => ISCED[v] ? `ISCED ${v} – ${ISCED[v]}` : v;
+  const uniq = key => [...new Set(persons.map(p => p[key]).filter(v => v !== ''))];
+  const numSort = (a, b) => a.localeCompare(b, 'de', { numeric: true });
+
+  function init(personsText, matrixText, termText) {
+    persons = parseCSV(personsText);
+    matrix = parseCSV(matrixText);
+    const needP = ['person_id', 'name', 'gender', 'birth_year', 'east_west', 'federal_state', 'education'];
+    const missP = needP.filter(c => !(c in (persons[0] || {})));
+    if (missP.length) throw new Error('persons.csv: Spalte(n) fehlen: ' + missP.join(', '));
+    const needM = ['person_id', 'term', 'platform', 'present', 'followers'];
+    const missM = needM.filter(c => !(c in (matrix[0] || {})));
+    if (missM.length) throw new Error('social_media_matrix.csv: Spalte(n) fehlen: ' + missM.join(', '));
+
+    termRows = parseCSV(termText);
+    const needT = ['person_id', 'term', 'party'];
+    const missT = needT.filter(c => !(c in (termRows[0] || {})));
+    if (missT.length) throw new Error('person_term_analysis.csv: Spalte(n) fehlen: ' + missT.join(', '));
+    partiesByPerson = new Map(); termsByPerson = new Map();
+    for (const r of termRows) {
+      if (r.term === '') continue;
+      if (!termsByPerson.has(r.person_id)) termsByPerson.set(r.person_id, []);
+      termsByPerson.get(r.person_id).push({ term: r.term, party: r.party });
+      if (r.party !== '') {
+        if (!partiesByPerson.has(r.person_id)) partiesByPerson.set(r.person_id, new Set());
+        partiesByPerson.get(r.person_id).add(r.party);
+      }
+    }
+    const parties = [...new Set(termRows.map(r => r.party).filter(v => v !== ''))]
+      .sort((a, b) => a.localeCompare(b, 'de'));
+    fillSelect('f_party', parties, 'Alle');
+
+    fillSelect('f_gender', uniq('gender').sort(numSort), 'Alle');
+    fillSelect('f_eastwest', uniq('east_west').sort(numSort), 'Alle');
+    fillSelect('f_state', uniq('federal_state').sort((a, b) => a.localeCompare(b, 'de')), 'Alle');
+    fillSelect('f_edu', uniq('education').sort(numSort), 'Alle', iscedLabel);
+
+    const years = persons.map(p => Number(p.birth_year)).filter(n => n > 0);
+    if (years.length) {
+      $('f_by_from').placeholder = 'von (' + Math.min(...years) + ')';
+      $('f_by_to').placeholder = 'bis (' + Math.max(...years) + ')';
+    }
+
+    $('loader').classList.add('hidden');
+    $('search').classList.remove('hidden');
+    update();
+    $('name').focus();
+  }
+
+  // ---------- Filter ----------
+  function filtered() {
+    const g = $('f_gender').value, ew = $('f_eastwest').value,
+          st = $('f_state').value, ed = $('f_edu').value, pa = $('f_party').value;
+    const from = $('f_by_from').value === '' ? null : Number($('f_by_from').value);
+    const to = $('f_by_to').value === '' ? null : Number($('f_by_to').value);
+    return persons.filter(p => {
+      if (g && p.gender !== g) return false;
+      if (ew && p.east_west !== ew) return false;
+      if (st && p.federal_state !== st) return false;
+      if (ed && p.education !== ed) return false;
+      if (pa && !(partiesByPerson.get(p.person_id) || new Set()).has(pa)) return false;
+      if (from !== null || to !== null) {
+        const by = Number(p.birth_year);
+        if (!p.birth_year || isNaN(by)) return false;
+        if (from !== null && by < from) return false;
+        if (to !== null && by > to) return false;
+      }
+      return true;
+    });
+  }
+  const filterActive = () =>
+    ['f_gender', 'f_eastwest', 'f_state', 'f_edu', 'f_party', 'f_by_from', 'f_by_to'].some(id => $(id).value !== '');
+
+  function update() {
+    const list = filtered();
+    const names = [...new Set(list.map(p => p.name).filter(Boolean))]
+      .sort((a, b) => a.localeCompare(b, 'de'));
+    $('names').innerHTML = names.map(n => `<option value="${esc(n)}">`).join('');
+    $('count').textContent = filterActive()
+      ? `${list.length.toLocaleString('de-DE')} von ${persons.length.toLocaleString('de-DE')} Personen entsprechen den Filtern`
+      : `${names.length.toLocaleString('de-DE')} Personen verfügbar`;
+    render(list);
+  }
+
+  // ---------- Anzeige ----------
+  const dash = v => v === '' || v == null ? '<span style="color:var(--muted)">–</span>' : esc(v);
+
+  function personCard(p) {
+    const entries = matrix
+      .filter(r => r.person_id === p.person_id && Number(r.present) === 1)
+      .sort((a, b) => a.term.localeCompare(b.term, 'de', { numeric: true })
+                   || a.platform.localeCompare(b.platform, 'de'));
+    const terms = [...(termsByPerson.get(p.person_id) || [])]
+      .sort((a, b) => a.term.localeCompare(b.term, 'de', { numeric: true }));
+    const rows = entries.map(r => {
+      const f = r.followers === '' || isNaN(Number(r.followers))
+        ? '<span style="color:var(--muted)">k. A.</span>'
+        : Number(r.followers).toLocaleString('de-DE');
+      return `<tr><td>${esc(p.name)}</td><td>${esc(r.term)}</td><td>${esc(r.platform)}</td><td class="num">${f}</td></tr>`;
+    }).join('');
+    return `
+      <section class="card">
+        <div class="person-head">
+          <h2>${esc(p.name)}</h2>
+          <span class="badge">person_id ${esc(p.person_id)} · ${entries.length} Einträge</span>
+        </div>
+        <dl class="info">
+          <div><dt>Partei</dt><dd>${dash([...(partiesByPerson.get(p.person_id) || [])].join(', '))}</dd></div>
+	  <div><dt>Geschlecht</dt><dd>${dash(p.gender)}</dd></div>
+          <div><dt>Geburtsjahr</dt><dd>${dash(p.birth_year)}</dd></div>
+          <div><dt>Bundesland</dt><dd>${dash(p.federal_state)}</dd></div>
+          <div><dt>Akademischer Titel</dt><dd>${dash(p.academic_title)}</dd></div>
+          <div><dt>Beruf vor Mandat</dt><dd>${dash(p.occupation_pre_mandate)}</dd></div>
+        </dl>
+        <div class="terms">
+          <div class="terms-title">Im Bundestag</div>
+          ${terms.length ? `<div class="chips">${terms.map(t =>
+            `<span class="chip">Legislatur <b>${esc(t.term)}</b> · ${t.party ? esc(t.party) : 'Partei k. A.'}</span>`).join('')}</div>`
+          : '<span class="hint">Keine Angaben in person_term_analysis.csv.</span>'}
+        </div>
+        ${entries.length ? `<div class="wrap"><table>
+          <thead><tr><th>Name</th><th>Term</th><th>Plattform</th><th class="num">Follower</th></tr></thead>
+          <tbody>${rows}</tbody></table></div>`
+        : '<p class="hint">Keine Plattform mit present = 1 gefunden.</p>'}
+      </section>`;
+  }
+
+  function render(list) {
+    const out = $('results');
+    const val = $('name').value.trim();
+    let show, note = '';
+    if (val) {
+      show = list.filter(p => p.name === val);
+      if (!show.length) {
+        out.innerHTML = '<p class="hint">Keine Person mit diesem Namen unter den aktuellen Filtern.</p>';
+        return;
+      }
+    } else if (filterActive()) {
+      show = list;
+      if (show.length > MAX_LIST) {
+        note = `<p class="hint">Es werden die ersten ${MAX_LIST} von ${show.length.toLocaleString('de-DE')} Personen angezeigt. Bitte Filter weiter eingrenzen oder eine Person auswählen.</p>`;
+        show = show.slice(0, MAX_LIST);
+      }
+      show = [...show].sort((a, b) => a.name.localeCompare(b.name, 'de'));
+      if (!show.length) {
+        out.innerHTML = '<p class="hint">Keine Person entspricht den Filtern.</p>';
+        return;
+      }
+    } else {
+      out.innerHTML = '';
+      return;
+    }
+    out.innerHTML = note + show.map(personCard).join('');
+  }
+
+  $('name').addEventListener('input', update);
+  ['f_gender', 'f_eastwest', 'f_state', 'f_edu', 'f_party', 'f_by_from', 'f_by_to']
+    .forEach(id => $(id).addEventListener('input', update));
+  $('reset').onclick = () => {
+    ['f_gender', 'f_eastwest', 'f_state', 'f_edu', 'f_party', 'f_by_from', 'f_by_to'].forEach(id => $(id).value = '');
+    update();
+  };
+
+  // ---------- Fallback: Dateiauswahl / Drag & Drop ----------
+  async function handleFiles(files) {
+    for (const f of files) {
+      const n = f.name.toLowerCase();
+      if (n.includes('persons')) raw.p = await f.text();
+      else if (n.includes('social_media_matrix')) raw.m = await f.text();
+      else if (n.includes('person_term_analysis')) raw.t = await f.text();
+    }
+    const msg = $('loadMsg'); msg.classList.remove('err');
+    if (raw.p && raw.m && raw.t) {
+      try { init(raw.p, raw.m, raw.t); } catch (e) { msg.textContent = e.message; msg.classList.add('err'); }
+    } else {
+      msg.textContent = 'Noch fehlt: ' + [!raw.p && 'persons.csv', !raw.m && 'social_media_matrix.csv', !raw.t && 'person_term_analysis.csv'].filter(Boolean).join(', ');
+    }
+  }
+  $('pick').onclick = () => $('file').click();
+  $('file').onchange = e => handleFiles(e.target.files);
+  const drop = $('drop');
+  ['dragenter', 'dragover'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add('over'); }));
+  ['dragleave', 'drop'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove('over'); }));
+  drop.addEventListener('drop', e => handleFiles(e.dataTransfer.files));
+
+  // ---------- Start ----------
+  tryFetch().then(ok => { if (!ok) $('loader').classList.remove('hidden'); });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,1000 @@
+person_id,name,last_name,gender,birth_year,academic_title,east_west,federal_state,education,isco88,occupation_pre_mandate,oesch_class,first_entry_term,homepage_url,homepage_present
+1,"Abdi, Sanae",Abdi,female,1986,NA,West,NRW,ISCED 7,2419,Projektmanagerin in der Entwicklungszusammenarbeit,Managerinnen,20. WP,https://sanae-abdi.spd.de/,1
+2,"Abel, Valentin",Abel,male,1991,NA,West,BW,ISCED 7,4121,Kaufmännische Angestellte,Büroangestellte,20. WP,https://vabel.abgeordnete.fdpbt.de/,1
+3,"Abraham, Knut",Abraham,male,1966,NA,Ost,BB,ISCED 7,1110,Diplomatin,Managerinnen,20. WP,https://knut-abraham.de/,1
+4,"Achelwilm, Doris",Achelwilm,female,1976,NA,West,HB,ISCED 7,2444,Sprachwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://www.doris-achelwilm.de/startseite/aktuelles/,1
+5,"Adler, Katja",Adler,female,1974,NA,West,HE,ISCED 7,3431,Beamtin im Ministerium,soziokulturelle (Semi-)Professionen,20. WP,https://kadler.abgeordnete.fdpbt.de/,1
+6,"Aeffner, Stephanie",Aeffner,female,1976,NA,West,BW,ISCED 6,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,20. WP,https://aeffnerstephanie.de/,1
+7,"Aeikens, Anna",Aeikens,female,1998,NA,Ost,ST,ISCED 7,2213,Agrarökonomin,Managerinnen,21. WP,https://anna-aeikens.de/,1
+8,"Ahmetovic, Adis",Ahmetovic,male,1993,NA,West,NI,ISCED 7,2470,Angestellte ö. D.,Managerinnen,20. WP,https://adis-ahmetovic.de/,1
+9,"Akbulut, Gökay",Akbulut,female,1982,NA,West,BW,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://goekay-akbulut.de/,1
+10,"van Aken, Jan",van Aken,male,1961,Dr.,West,HH,ISCED 8,2211,Biologin,technische Professionen,21. WP,NA,0
+11,"Alabali-Radovan, Reem",Alabali-Radovan,female,1990,NA,Ost,MV,ISCED 6,1232,Staatsministerin,soziokulturelle (Semi-)Professionen,20. WP,https://reem-alabali-radovan.spd.de/,1
+12,"Albani, Stephan",Albani,male,1968,NA,West,NI,ISCED 7,2111,Diplom Physikerin,technische Professionen,18. WP,https://stephan-albani.de/,1
+13,"Al-Dialami, Ali",Al-Dialami,male,1981,NA,West,HE,ISCED 4,2470,Wissenschaftler,Büroangestellte,20. WP,https://ali-al-dailami.de/,1
+14,"Al-Halak, Muhanad",Al-Halak,male,1989,NA,West,BY,ISCED 6,3152,Abwassermeisterin,technische Professionen,20. WP,https://www.fdp.de/,1
+15,"Alhamwi, Alaa",Alhamwi,male,1984,Dr.,West,NI,ISCED 8,2470,Wissenschaftler,technische Professionen,21. WP,https://alaa-alhamwi.de/,1
+16,"Alt, Renata",Alt,female,1965,NA,West,BW,ISCED 7,2146,Ingenieurin Chemie,technische Professionen,19. WP,https://www.renata-alt.de/,1
+17,"Altenkamp, Norbert Maria",Altenkamp,male,1972,NA,West,HE,ISCED 7,1110,Buchhändlerin,Managerinnen,19. WP,https://norbert-altenkamp.de,1
+18,"Al-Wazir, Tarek",Al-Wazir,male,1971,NA,West,HE,ISCED 7,2443,Diplom-Politologin,soziokulturelle (Semi-)Professionen,21. WP,https://www.al-wazir.de/,1
+19,"Amthor, Philipp",Amthor,male,1992,NA,Ost,MV,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,19. WP,https://www.philipp-amthor.de,1
+20,"Amtsberg, Luise",Amtsberg,female,1984,NA,West,SH,ISCED 7,2442,Islamwissenschaftlerin,Managerinnen,18. WP,https://luise-amtsberg.de/,1
+21,"Andres, Dagmar",Andres,female,1969,NA,West,NRW,ISCED 6,2419,Referentin,Managerinnen,20. WP,https://dagmar-andres.de/,1
+22,"Annen, Niels",Annen,male,1973,NA,West,HH,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,16. WP,https://www.nielsannen.de/,1
+23,"Arlt, Johannes",Arlt,lgbtqi,1984,NA,Ost,MV,ISCED 7,100,Soldatin,no class,20. WP,https://johannesarlt-mv.de/,1
+24,"Arndt, Michael",Arndt,male,1964,Dr.,West,SL,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+25,"Arpaschi, Alexander",Arpaschi,male,1970,NA,West,BW,ISCED 7,2145,Dipl.-Ing. Maschinenbau,technische Professionen,21. WP,arpaschi.de,1
+26,"Asar, Ayse",Asar,female,1975,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://ayse-asar.de/,1
+27,"Aschenberg-Dugnus, Christine",Aschenberg-Dugnus,female,1959,NA,West,SH,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://www.fdpbt.de/,1
+29,"Ataoglu, Tijen",Ataoglu,female,1989,NA,West,NRW,ISCED 7,2422,Richterin,soziokulturelle (Semi-)Professionen,21. WP,https://www.tijen-ataoglu.de/,1
+30,"Audretsch, Andreas",Audretsch,lgbtqi,1984,Dr.re.pol.,Ost,BE,ISCED 8,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://andreasaudretsch.de/,1
+31,"Auernhammer, Arthur",Auernhammer,male,1962,NA,West,BY,ISCED 5,1311,Landwirtschaftsmeisterin,Produktionsarbeiterinnen,15. WP,https://artur-auernhammer.de,1
+32,"Aumer, Peter",Aumer,male,1976,NA,West,BY,ISCED 6,2419,Dipl.-Betriebswirt (FH),Managerinnen,17. WP,peteraumer.de,1
+33,"Außendorf, Maik",Außendorf,male,1971,NA,West,NRW,ISCED 7,1317,IT-Unternehmerin,Managerinnen,20. WP,https://maik-aussendorf.de/,1
+34,"Babendererde, Cornell-Anette",Babendererde,female,1971,Dr.,West,NI,ISCED 8,2443,Historikerin,Managerinnen,21. WP,https://www.cducsu.de/abgeordnete/cornell-anette-babendererde,1
+35,"Bacherle, Tobias B.",Bacherle,male,1994,NA,West,BW,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://tbbacherle.eu/,1
+36,"Bachmann, Carolin",Bachmann,female,1988,NA,Ost,SN,ISCED 6,2470,wiss. Referentin MdL,Managerinnen,20. WP,https://carolinbachmann.de/,1
+37,"Badum, Lisa",Badum,female,1983,NA,West,BY,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://www.lisa-badum.de/,1
+38,"Baehrens, Heike",Baehrens,female,1955,NA,West,BW,ISCED 6,2460,Diakonin,soziokulturelle (Semi-)Professionen,18. WP,https://www.heike-baehrens.de/,1
+39,"Baerbock, Annalena",Baerbock,female,1980,NA,Ost,BB,ISCED 7,2429,Völkerrechtlerin,soziokulturelle (Semi-)Professionen,18. WP,https://annalena-baerbock.de/,1
+40,"Bahr, Ulrike",Bahr,male,1964,NA,West,BY,ISCED 7,2320,Mittelschullehrerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.ulrike-bahr.de/,1
+41,"Baldy, Daniel",Baldy,male,1994,NA,West,RP,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.daniel-baldy.de/,1
+42,"Balten, Malte",Balten,male,1983,NA,West,NRW,ISCED 7,2419,Produktmanager,technische Professionen,21. WP,adambalten.de,1
+43,"Banaszak, Felix",Banaszak,male,1989,NA,West,NRW,ISCED 6,1110,MdB,soziokulturelle (Semi-)Professionen,20. WP,https://www.felixbanaszak.de/,1
+44,"Bär, Dorothee",D. Bär,female,1978,NA,West,BY,ISCED 7,2443,Diplom-Politologin,soziokulturelle (Semi-)Professionen,15. WP,dorothee.baer.de,1
+45,"Bär, Karl",K. Bär,male,1985,NA,West,BY,ISCED 7,2213,Agrarökonomin,Managerinnen,20. WP,https://home.karl-baer.eu/,1
+46,"Baradari, Nezahat",Baradari,female,1965,NA,West,NRW,ISCED 7,2221,Fachärztin für Kinder-/Jugendmedizin,soziokulturelle (Semi-)Professionen,19. WP,https://www.nezahat-baradari.de/,1
+47,"Bareiß, Thomas",Bareiß,male,1975,NA,West,BW,ISCED 6,1236,Diplom-Betriebswirt (BA),Managerinnen,16. WP,https://www.thomas-bareiss.de/,1
+48,"Bartelt, Christian",Bartelt,male,1976,NA,Ost,MV,ISCED 7,2222,Zahnärztin,soziokulturelle (Semi-)Professionen,20. WP,NA,0
+49,"Bartol, Sören",Bartol,male,1974,NA,West,HE,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,15. WP,http://www.bartol.de/,1
+50,"Bartsch, Dietmar",Bartsch,male,1958,Dr.,Ost,MV,ISCED 8,2441,Wirtschaftswissenschaftlerin,soziokulturelle (Semi-)Professionen,14. WP,https://www.dietmar-bartsch.de/,1
+51,"Bartz, Alexander",Bartz,male,1984,NA,West,NI,ISCED 6,3151,Betriebswirtin,Managerinnen,20. WP,https://alexander-bartz.de/,1
+52,"Bas, Bärbel",Bas,female,1968,NA,West,NRW,ISCED 6,2412,Personalmanagementökonomin (VWA),Managerinnen,17. WP,https://www.baerbelbas.de/,1
+53,"Bauer, Marcel",M. Bauer,male,1992,NA,West,BW,ISCED 4,6141,Forstwirt,Produktionsarbeiterinnen,21. WP,https://ka.die-linke-bw.de/bundestagswahl-2025/marcel-bauer-wk-karlsruhe-stadt/,1
+54,"Bauer, Nicole",N. Bauer,female,1987,NA,West,BY,ISCED 6,2149,Wirtschaftsingeneurin,soziokulturelle (Semi-)Professionen,20. WP,https://www.fdp-nicole-bauer.de/,1
+55,"Baum, Christina",Baum,female,1956,Dr.,Ost,ST,ISCED 8,2222,Zahnärztin,soziokulturelle (Semi-)Professionen,20. WP,https://www.christina-baum.berlin/,1
+56,"Baumann, Bernd",Baumann,male,1958,Dr.,West,HH,ISCED 8,2419,Berater,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),19. WP,https://www.bernd-baumann.de/,1
+57,"Baumgartner, Günter",Baumgartner,male,1975,NA,West,BY,ISCED 6,3433,Bankbetriebswirtin,Managerinnen,21. WP,https://guenterbaumgartner.de/,1
+58,"Bayram, Canan",Bayram,female,1966,NA,Ost,BE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://bayram-gruene.de/,1
+59,"Beck, Katharina",Beck,female,1982,NA,West,HH,ISCED 7,2419,Unternehmensberaterin für Nachhaltigkeit,Managerinnen,20. WP,https://katharina-beck.de/,1
+60,"Beckamp, Roger",Beckamp,male,1975,NA,West,NRW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://beckamp.info/,1
+61,"Becker, Carsten",C. Becker,male,1990,NA,West,SL,ISCED 4,3113,Elektroniker,Produktionsarbeiterinnen,21. WP,NA,0
+62,"Becker, Desiree",D. Becker,female,1994,NA,West,HE,ISCED 6,1142,Gewerkschaftssekretärin,soziokulturelle (Semi-)Professionen,21. WP,https://www.die-linke.de/europawahl/europawahlliste/desiree-becker/,1
+63,"Becker, Holger",H. Becker,male,1964,Dr.,Ost,TH,ISCED 8,2111,Physikerin / wissenschaftliche Leiterin,technische Professionen,20. WP,https://holger-becker-spd.de/,1
+64,"Beeck, Jens",Beeck,male,1969,NA,West,NI,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.jensbeeck.de/,1
+65,"Beek, Sascha van",Beek,male,1983,NA,West,NRW,ISCED 7,3231,Gesundheits- und Krankenpfleger,Managerinnen,21. WP,https://www.saschavanbeek.de/,1
+66,"Behrens, Jens",Behrens,male,1978,NA,West,NRW,ISCED 5,1319,Filialleiter Sparkasse (Bankkaufmann),Managerinnen,21. WP,https://www.jens-behrens.de/,1
+67,"Benkstein, Barbara",Benkstein,female,1982,NA,Ost,SN,ISCED 7,2432,Bibliothekarin,soziokulturelle (Semi-)Professionen,20. WP,https://www.barbara-benkstein.de/,1
+68,"Benner, Lukas",Benner,male,1996,NA,West,NRW,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.lukas-benner.eu/,1
+69,"Berghahn, Jürgen",Berghahn,male,1960,NA,West,NRW,ISCED 4,7245,Elekroinstallateurin,Produktionsarbeiterinnen,20. WP,https://www.juergen-berghahn.de/,1
+70,"Berghegger, André (ausgeschieden)",Berghegger,male,1972,Dr.,West,NI,ISCED 8,2429,Juristin,soziokulturelle (Semi-)Professionen,18. WP,NA,0
+71,"Bergt, Bengt",Bergt,male,1982,NA,West,SH,ISCED 6,2451,Redakteurin,Managerinnen,20. WP,https://www.bengt-bergt.de/,1
+72,"Bernhard, Marc",Bernhard,male,1972,NA,West,BW,ISCED 7,2421,Rechtsanwältin,Managerinnen,19. WP,http://www.marcbernhard.de/,1
+73,"Bernstein, Melanie",Bernstein,female,1976,NA,West,SH,ISCED 7,2442,Kulturwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,melanie-bernstein.de,1
+74,"Bessin, Birgit",Bessin,female,1978,NA,Ost,BB,ISCED 6,2429,Wirtschaftsjuristin,soziokulturelle (Semi-)Professionen,21. WP,birgit-bessin.com,1
+75,"Bettermann, Daniel",Bettermann,male,1980,NA,West,HE,ISCED 7,2470,Angestellter,Managerinnen,21. WP,dabe.de,1
+76,"Beutin, Lorenz Gösta",Beutin,male,1978,NA,West,SH,ISCED 7,2443,Historikerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.lorenz-goesta-beutin.de/,1
+77,"Beyer, Peter",Beyer,male,1970,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,peter-beyer.info,1
+78,"Biadacz, Marc",Biadacz,male,1979,NA,West,BW,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,marc-biadacz.de,1
+79,"Bilger, Steffen",Bilger,male,1979,NA,West,BW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,17. WP,www.steffen-bilger.info,1
+80,"Bilic, Florian",Bilic,male,1994,NA,West,RP,ISCED 6,1143,Hauptgeschäftsführer,Managerinnen,21. WP,https://florianbilic.de/,1
+81,"Birghan, Christoph",Birghan,male,1970,Dr.,West,BY,ISCED 8,2421,Patentanwalt,soziokulturelle (Semi-)Professionen,21. WP,christoph-birghan.de,1
+82,"Birkwald, Matthias W.",Birkwald,male,1961,NA,West,NRW,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,16. WP,https://www.matthias-w-birkwald.de/,1
+83,"Blankenburg, Jakob",Blankenburg,male,1997,NA,West,NI,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://jakobblankenburg.de/,1
+84,"Bleck, Andreas",Bleck,male,1988,NA,West,RP,ISCED 6,2419,Büroleiterin,Managerinnen,19. WP,http://www.andreas-bleck.de/,1
+85,"Bloch, Joachim",Bloch,male,1963,NA,West,BW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://bloch-bundestag.de/,1
+86,"Blos, Michael",Blos,male,1976,Dr.,West,BW,ISCED 8,2114,Geologe,technische Professionen,21. WP,michael-blos.de,1
+87,"Bochmann, Rene",Bochmann,male,1969,NA,Ost,SN,ISCED 4,4190,Bürokauffrau,Managerinnen,20. WP,http://www.rene-bochmann.de/,1
+88,"Bock, Violetta",Bock,female,1987,NA,West,HE,ISCED 7,4190,Angestellte,Managerinnen,21. WP,https://www.violetta-bock.de/,1
+89,"Bodin, Leif Erik",Bodin,male,1996,NA,West,SH,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,21. WP,https://leif-bodin.de/,1
+90,"Bodtke, Ingo",Bodtke,male,1965,NA,Ost,ST,ISCED 6,2149,Ingenieurin Fleischwirtschaft,technische Professionen,20. WP,https://www.ingobodtke.de/,1
+91,"Boehringer, Peter",Boehringer,male,1969,NA,West,BY,ISCED 7,2451,Schriftstellerin,technische Professionen,19. WP,https://www.pboehringer.de/,1
+92,"Boginski, Friedhelm",Boginski,male,1955,NA,Ost,BB,ISCED 6,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://fboginski.abgeordnete.fdpbt.de/,1
+93,"Bohnhof, Peter",Bohnhof,male,1962,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,peter-bohnhof.de,1
+94,"Bollmann, Gereon",G. Bollmann,male,1953,NA,West,SH,ISCED 7,2422,Richterin,soziokulturelle (Semi-)Professionen,19. WP,http://www.gereon-bollmann.de/,1
+95,"Bollmann, Hendrik",H. Bollmann,male,1982,NA,West,NRW,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,21. WP,hendrikbollmann.de,1
+96,"Borchardt, Simone",Borchardt,female,1967,NA,Ost,MV,ISCED 7,1318,Geschäftsführerin in Pflegeeinrichtung,Managerinnen,20. WP,http://simone-borchardt.de/,1
+97,"Bosbach, Caroline",Bosbach,female,1989,NA,West,NRW,ISCED 7,2419,Regulierungsmanagerin,Managerinnen,21. WP,https://caroline-bosbach.de/,1
+98,"Bosch, Jorrit",Bosch,male,1997,NA,West,NI,ISCED 6,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+99,"Böttger, Janina",Böttger,female,1982,NA,Ost,ST,ISCED 7,2470,Referentin Landtagsfraktion,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+100,"Bouffier, Frederik",Bouffier,male,1990,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://www.frederik-bouffier.de/,1
+101,"Braga, Torben",Braga,male,1991,NA,Ost,TH,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+102,"Brand, Michael",Brand,male,1973,NA,West,HE,ISCED 7,2470,Angestellter,Managerinnen,16. WP,michael-brand.de,1
+103,"Brandenburg, Jens",J. Brandenburg,lgbtqi,1986,Dr.,West,BW,ISCED 8,2419,Unternehmensberaterin,Managerinnen,19. WP,https://www.jens-brandenburg.de/,1
+104,"Brandenburg, Mario",M. Brandenburg,male,1983,NA,West,RP,ISCED 7,2139,Wirtschaftsinformatikerin,technische Professionen,19. WP,https://www.mariobrandenburg.de/,1
+105,"Brandes, Dirk",Brandes,male,1974,NA,West,NI,ISCED 4,3415,Industriekauffrau,Managerinnen,20. WP,https://dirkbrandes.de/,1
+106,"Brandl, Rheinard",Brandl,male,1977,Dr.,West,BY,ISCED 8,2149,Wirtschaftsingenieurin,technische Professionen,17. WP,reinhard-brandl.de,1
+107,"Brandner, Stephan",Brandner,male,1966,NA,Ost,TH,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,http://www.stephan-brandner.de/,1
+108,"Brantner, Franziska",Brantner,female,1979,Dr.,West,BW,ISCED 8,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://franziska-brantner.de/,1
+109,"Braun, Helge",H. Braun,male,1972,Prof. Dr.,West,HE,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,15. WP,helge-braun.de,1
+110,"Braun, Jürgen",J. Braun,male,1961,NA,West,BW,ISCED 7,2419,Kommunikationsberaterin,Managerinnen,19. WP,http://juergen-braun.de/,1
+111,"Breher, Silvia",Breher,female,1973,NA,West,NI,ISCED 7,2429,Volljuristin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,19. WP,silvia-breher.de,1
+112,"Brehm, Sebastian",Brehm,male,1971,NA,West,BY,ISCED 7,2411,Steuerberaterin,Managerinnen,19. WP,sebastianbrehm.de,1
+113,"Brehmer, Heike",Brehmer,female,1962,NA,Ost,ST,ISCED 6,1110,Landrätin,Managerinnen,17. WP,heike-brehmer.de,1
+114,"Breilmann, Michael",Breilmann,male,1983,NA,West,NRW,ISCED 7,2429,Volljuristin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,20. WP,michael-breillmann.de,1
+115,"Bremer, Anne-Mieke",Bremer,female,1991,NA,West,NI,ISCED 6,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,21. WP,https://annemiekebremer.de/,1
+116,"Breymaier, Leni",Breymaier,female,1960,NA,West,BW,ISCED 4,1142,Einzelhandelskauffrau,Managerinnen,19. WP,http://www.breymaier.de/,1
+117,"Brinkhaus, Ralph",Brinkhaus,male,1968,NA,West,NRW,ISCED 7,2411,Steuerberaterin,Managerinnen,17. WP,ralph-brinkhaus.de,1
+118,"Brinkmann, Lutz",Brinkmann,male,1975,NA,West,NI,ISCED 7,1319,geschäftsführender Gesellschafter / selbständiger Dipl. Bauingenieur (FH),Managerinnen,21. WP,https://lutzbrinkmann.de/,1
+119,"Brodesser, Carsten",Brodesser,male,1967,Dr.,West,NRW,ISCED 8,2441,Volkswirtin / Ltd. Angestellter,Managerinnen,19. WP,carsten-brodesser.de,1
+120,"Bröhr, Marlon",Bröhr,male,1974,Dr.,West,RP,ISCED 8,2222,Zahnärztin,soziokulturelle (Semi-)Professionen,20. WP,marlonbroehr.info,1
+121,"Broßart, Victoria",Broßart,lgbtqi,1991,NA,West,BY,ISCED 6,2149,Ingenieurin,technische Professionen,21. WP,https://victoria-brossart.de/,1
+122,"Brucker, Erhard",Brucker,male,1972,NA,West,BY,ISCED 3,1319,Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,NA,0
+123,"Brückner, Maik",Brückner,male,1992,NA,West,NI,ISCED 7,3131,Mediengestalterin,soziokulturelle (Semi-)Professionen,21. WP,https://maik-brueckner.de/,1
+124,"Brugger, Agnieszka",Brugger,female,1985,NA,West,BW,ISCED 3,1110,Politikerin,Managerinnen,17. WP,https://www.agnieszka-brugger.de/,1
+125,"Bsirske, Frank",Bsirske,male,1952,NA,West,NI,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://bsirske.net/,1
+126,"Bubendorfer-Licht, Sandra",Bubendorfer-Licht,female,1969,NA,West,BY,ISCED 6,2444,Dolmetscherin,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+127,"Budde, Katrin",Budde,female,1965,NA,Ost,ST,ISCED 7,2149,Diplom-ing. für Arbeitsgestaltung,Managerinnen,19. WP,https://www.katrin-budde.de/,1
+128,"Büdenbender, Benedikt",Büdenbender,male,1989,NA,West,NRW,ISCED 7,2419,Kommunikationsberaterin,soziokulturelle (Semi-)Professionen,21. WP,https://www.benediktbuedenbender.de/,1
+129,"Bühl, Marcus",Bühl,male,1977,NA,Ost,TH,ISCED 6,2139,Informatikerin,technische Professionen,19. WP,http://www.marcus-buehl.de/,1
+130,"Bünger, Clara",Bünger,female,1986,NA,Ost,SN,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://clarabuenger.de/,1
+131,"Bury, Yannick",Bury,male,1990,Dr.,West,BW,ISCED 8,2441,Volkswirtin,Managerinnen,20. WP,yannick-bury.de,1
+132,"Buschmann, Marco",Buschmann,male,1977,Dr.,West,NRW,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://mbuschmann.abgeordnete.fdpbt.de/,1
+133,"Busen, Karlheinz",Busen,male,1951,NA,West,NRW,ISCED 6,2142,Bauingenieurin,technische Professionen,19. WP,https://karlheinz-busen.de/,1
+134,"Bystron, Petr (ausgeschieden)",Bystron,male,1972,NA,West,BY,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+135,"Cademartori, Isabel",Cademartori,female,1988,NA,West,BW,ISCED 7,2351,Wirtschaftspädagogin,soziokulturelle (Semi-)Professionen,20. WP,https://cademartori.de/,1
+136,"Carstensen, Sandra",Carstensen,female,1971,NA,West,SH,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,21. WP,https://sandra-carstensen.de/,1
+137,"Castellucci, Lars",Castellucci,lgbtqi,1974,Prof. Dr.,West,BW,ISCED 8,2310,Hochschulprofessorin,soziokulturelle (Semi-)Professionen,18. WP,http://www.lars-castellucci.de/,1
+138,"Cezanne, Jörg",Cezanne,male,1958,NA,West,HE,ISCED 6,2442,Soziologin,soziokulturelle (Semi-)Professionen,20. WP,https://www.joerg-cezanne.de/,1
+139,"Christmann, Anna",Christmann,female,1983,Dr.,West,BW,ISCED 8,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://annachristmann.de/,1
+140,"Chrupalla, Tino",Chrupalla,male,1975,NA,Ost,TH,ISCED 4,7141,Malermeisterin,Produktionsarbeiterinnen,19. WP,http://www.tinochrupalla.de/,1
+141,"Connemann, Gitta",Connemann,female,1964,NA,West,NI,ISCED 7,2429,Volljuristin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,15. WP,gitta-connemann.de,1
+142,"Conrad, Agnes",Conrad,female,1997,NA,West,BY,ISCED 6,2419,Referentin des Konzernbetriebsrats,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+143,"Coße, Jürgen",Coße,male,1969,NA,West,NRW,ISCED 3,4190,Angestellter,Managerinnen,18. WP,juergen-cosse.de,1
+144,"Cotar, Joana",Cotar,female,1973,NA,West,HE,ISCED 7,2419,"Veranstaltungsmanagerin, Projektmanagerin",Managerinnen,19. WP,https://joanacotar.de/,1
+145,"Cronenberg, Carl-Julius",Cronenberg,male,1962,NA,West,NRW,ISCED 6,1319,Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),20. WP,https://carlo-cronenberg.de/,1
+146,"Curio, Gottfried",Curio,male,1960,Dr.,Ost,BE,ISCED 8,2111,Physikerin,technische Professionen,19. WP,https://www.gottfried-curio.de/,1
+147,"Czaja, Mario",Czaja,male,1975,NA,Ost,BE,ISCED 6,1110,Landtagsabgeordnete,Managerinnen,20. WP,mario-czaja.de,1
+148,"Dagdelen, Sevim",Dagdelen,female,1975,NA,West,NRW,ISCED 3,2451,Journalistin,soziokulturelle (Semi-)Professionen,16. WP,https://www.sevimdagdelen.de/,1
+149,"Dahler, Wolfgang",Dahler,male,1975,NA,West,BW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://www.wolfgang-dahler.de/,1
+150,"Dahmen, Janosch",Dahmen,male,1981,Dr.,West,NRW,ISCED 8,2221,Ärztin/ Medizinaldirektorin a.D.,soziokulturelle (Semi-)Professionen,19. WP,https://www.janosch-dahmen.de/,1
+151,"Daldrup, Bernhard",Daldrup,male,1956,NA,West,NRW,ISCED 7,1142,Landesgeschäftsführer,soziokulturelle (Semi-)Professionen,18. WP,https://www.bernhard-daldrup.de/,1
+152,"Damerow, Astrid",Damerow,female,1958,NA,West,SH,ISCED 4,4212,Bankkauffrau,Managerinnen,19. WP,astrid-damerow.de,1
+153,"De Ridder, Daniela",De Ridder,female,1962,Dr.,West,NI,ISCED 8,2419,Unternehmensberaterin,Managerinnen,18. WP,http://www.daniela-de-ridder.de/,1
+154,"Deligöz, Ekin",Deligöz,female,1971,NA,West,BY,ISCED 7,2442,Diplom-Verwaltungswissenschaftlerin,Managerinnen,14. WP,https://ekin-deligoez.de/,1
+155,"Demir, Hakan",Demir,male,1984,NA,Ost,BE,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.hakan-demir.de/,1
+156,"Demuth, Ellen",Demuth,female,1982,NA,West,RP,ISCED 6,1110,Landtagsabgeordnete,Managerinnen,21. WP,https://ellendemuth.de/,1
+157,"Detzer, Sandra",Detzer,female,1980,Dr.,West,BW,ISCED 8,1110,MdB,soziokulturelle (Semi-)Professionen,20. WP,https://sandra-detzer.de/,1
+158,"Diaby, Karamba",Diaby,male,1961,Dr.,Ost,ST,ISCED 8,2113,Diplom-Chemikerin,technische Professionen,18. WP,https://www.karamba-diaby.de/,1
+159,"Diedenhofen, Martin",Diedenhofen,male,1995,NA,West,RP,ISCED 3,999,Studentin,no class,20. WP,https://martin-diedenhofen.de/,1
+160,"Dieren, Jan",Dieren,male,1991,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://jan-dieren.de/,1
+161,"Dietz, Thomas",Dietz,male,1967,NA,Ost,SN,ISCED 4,4190,Angestellter,Produktionsarbeiterinnen,20. WP,https://thomas-dietz-erzgebirge.de/,1
+162,"Dilcher, Esther",Dilcher,female,1965,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.estherdilcher.de/,1
+163,"Dillschneider, Jeanne",Dillschneider,lgbtqi,1995,NA,West,SL,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://jeanne-dillschneider.de/,1
+164,"Dittmar, Sabine",Dittmar,female,1964,NA,West,BY,ISCED 6,2221,Ärztin,soziokulturelle (Semi-)Professionen,18. WP,https://www.sabine-dittmar.com/,1
+165,"Djir-Saraai, Bijan",Djir-Saraai,male,1976,NA,West,NRW,ISCED 7,1239,Dezernentin für Informationstechnologie,Büroangestellte,20. WP,https://www.bijan-sarai.de/,1
+166,"Dobrindt, Alexander",Dobrindt,male,1979,NA,West,BY,ISCED 7,2442,Soziologin / Bundesministerin,soziokulturelle (Semi-)Professionen,15. WP,alexander-dobrindt.de,1
+167,"Domscheit-Berg, Anke",Domscheit-Berg,female,1968,NA,Ost,BB,ISCED 7,2451,Publizistin,soziokulturelle (Semi-)Professionen,19. WP,https://mdb.anke.domscheit-berg.de/,1
+168,"Donth, Michael",Donth,male,1967,NA,West,BW,ISCED 6,1110,Buchhändlerin,Managerinnen,18. WP,michael-donth.de,1
+169,"Döring, Felix",Döring,male,1991,NA,West,HE,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.felix-doering.de/,1
+170,"Dorn, Florian",Dorn,male,1986,Dr.,West,BY,ISCED 8,2441,Volkswirt,soziokulturelle (Semi-)Professionen,21. WP,https://btw2025.floriandorn.com/,1
+171,"Douglas, Christian",Douglas,male,1978,NA,West,HE,ISCED 7,3419,Finanzanalystin,soziokulturelle (Semi-)Professionen,21. WP,christiandouglas.de,1
+172,"Dröge, Katharina",Dröge,female,1984,NA,West,NRW,ISCED 7,2441,Volkswirtin,soziokulturelle (Semi-)Professionen,18. WP,https://katharina-droege.de/,1
+173,"Drößler, Christopher",Drößler,male,1955,NA,Ost,TH,ISCED 4,5162,Polizistin,Büroangestellte,21. WP,NA,0
+174,"Droßmann, Falko",Droßmann,lgbtqi,1973,NA,West,HH,ISCED 7,100,Soldatin,no class,20. WP,https://www.drossmann.hamburg/,1
+175,"Düber, Hülya",Düber,female,1978,Dr.,West,BY,ISCED 8,1110,Sozialreferentin,Managerinnen,21. WP,https://www.cducsu.de/abgeordnete/huelya-dueber,1
+176,"Düring, Deborah",Düring,female,1994,NA,West,HE,ISCED 6,999,Studentin,no class,20. WP,https://deborah-duering.de/,1
+177,"Dürr, Christian",Dürr,male,1977,NA,West,NI,ISCED 7,2441,Diplom-Ökonomin,Managerinnen,19. WP,https://cduerr.abgeordnete.fdpbt.de/,1
+178,"Durz, Hansjörg",Durz,male,1971,NA,West,BY,ISCED 7,1110,Bürgermeisterin,Managerinnen,18. WP,hansjoerg-duerz.de,1
+179,"Dzienus, Timon",Dzienus,male,1996,NA,West,NI,ISCED 6,2443,Politikwissenschafterin,soziokulturelle (Semi-)Professionen,21. WP,https://www.timon-dzienus.de/,1
+180,"Ebenberger, Tobias",Ebenberger,lgbtqi,1990,NA,West,NRW,ISCED 4,4190,Angestellter,Büroangestellte,21. WP,NA,0
+181,"Ebmeyer, Joachim",Ebmeyer,male,1985,NA,West,NRW,ISCED 7,2441,Volkswirt,soziokulturelle (Semi-)Professionen,21. WP,https://www.cdu-herford.de/joachimebmeyer,1
+182,"Ebner, Harald",Ebner,male,1964,NA,West,BW,ISCED 7,2213,Agraringenieurin,technische Professionen,17. WP,https://www.harald-ebner.de/,1
+183,"Echeverria, Axel",Echeverria,male,1980,NA,West,NRW,ISCED 7,2470,Wissenschaftlicher Mitarbeiter,Managerinnen,20. WP,https://axel-echeverria.de/,1
+184,"Eckert, Leon",Eckert,male,1995,NA,West,BY,ISCED 6,1141,Kommunalreferentin für Grünen,soziokulturelle (Semi-)Professionen,20. WP,https://leon-eckert.de/,1
+185,"Edelhäuser, Ralph",Edelhäuser,male,1973,NA,West,BY,ISCED 6,1110,Betriebswirtin,Managerinnen,20. WP,https://ralph-edelhaeusser.de/,1
+186,"Edis, Mirze",Edis,male,1972,NA,West,NRW,ISCED 4,7214,Stahlbauschlosser / Betriebsratsmitglied,Produktionsarbeiterinnen,21. WP,https://www.mirze-edis.de/politik/aktuell/,1
+187,"Ehm, Lars",Ehm,male,1976,NA,West,NRW,ISCED 7,2429,Volljuristin,Managerinnen,21. WP,https://lars-ehm.de/Ueber-mich_p_44.html,1
+188,"Ehrhorn, Thomas",Ehrhorn,male,1959,NA,West,NI,ISCED 7,3143,Pilotin,technische Professionen,19. WP,http://thomas-ehrhorn.de/,1
+189,"Eichwede, Sonja",Eichwede,female,1987,NA,Ost,BB,ISCED 7,2422,Richterin,soziokulturelle (Semi-)Professionen,20. WP,https://www.sonja-eichwede.de/,1
+190,"Eißing, Mandy",Eißing,female,1976,NA,Ost,TH,ISCED 4,5141,Friseurin,Büroangestellte,21. WP,Aktuelles: https://www.mandy-eissing.de/aktuelles/Die Linke Mandy Eißing,1
+191,"Emmerich, Marcel",Emmerich,male,1991,NA,West,BW,ISCED 7,2470,Wissenschaftliche Referentin,Managerinnen,20. WP,https://marcelemmerich.de/,1
+192,"Engelhard, Alexander",Engelhard,male,1972,NA,West,BY,ISCED 6,2149,Wirtschaftsingenieurin,Managerinnen,20. WP,https://www.alexander-engelhard.de/,1
+193,"Engelhardt, Heike",Engelhardt,female,1961,NA,West,BW,ISCED 7,2419,Dipl. Handelslehrerin (Univ.) / Studiendirektorin,Managerinnen,20. WP,https://heike-engelhardt.spd.de/,1
+194,"Engelhardt-Kopf, Martina",Engelhardt-Kopf,female,1981,NA,West,BY,ISCED 7,2310,Studiendirektorin a. D.,soziokulturelle (Semi-)Professionen,20. WP,https://www.englhardt-kopf.de/,1
+195,"Erndl, Thomas",Erndl,male,1974,NA,West,BY,ISCED 7,2143,Elektroingenieurin,technische Professionen,19. WP,https://www.thomas-erndl.de/,1
+196,"Ernst, Bastian",B. Ernst,male,1987,NA,West,NI,ISCED 6,1222,Betriebswirtin,Managerinnen,21. WP,https://bastianernst.de/,1
+197,"Ernst, Klaus",K. Ernst,male,1954,NA,West,BY,ISCED 6,2441,Diplom-Volkswirtin,Managerinnen,16. WP,https://www.mdb-klaus-ernst.de/,1
+198,"Esdar, Wiebke",Esdar,female,1984,Dr.,West,NRW,ISCED 8,2445,Diplom-Psychologin,soziokulturelle (Semi-)Professionen,19. WP,https://www.wiebke-esdar.de/,1
+199,"Esken, Saskia",Esken,female,1961,NA,West,BW,ISCED 4,2139,Informatikerin,technische Professionen,18. WP,https://www.saskiaesken.de/,1
+200,"Espendiller, Michael",Espendiller,male,1989,Dr.,West,NRW,ISCED 8,2121,Mathematikerin,technische Professionen,19. WP,https://afdbundestag.de/abgeordnete/dr-michael-espendiller/,1
+201,"Faber, Marcus",Faber,male,1984,Dr.,Ost,ST,ISCED 8,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://mfaber.abgeordnete.fdpbt.de/,1
+202,"Faeser, Nancy",Faeser,female,1970,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,nancy-faeser.de,1
+203,"Fahimi, Yasmin (ausgeschieden)",Fahimi,female,1967,NA,West,NI,ISCED 7,2113,Chemikerin,technische Professionen,19. WP,NA,0
+204,"Fahl, Fabian",Fahl,male,1993,Dr.,West,NRW,ISCED 8,2442,Geografin,soziokulturelle (Semi-)Professionen,21. WP,https://fabian-fahl.de/,1
+205,"Färber, Hermann",Färber,male,1963,NA,West,BW,ISCED 5,1311,Landwirtschaftsmeisterin,Managerinnen,18. WP,https://www.hermann-faerber.de/,1
+206,"Farle, Robert",Farle,male,1950,NA,Ost,ST,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.robert-farle.de/,1
+207,"Fäscher, Ariane",Fäscher,female,1968,NA,Ost,BB,ISCED 6,2451,Pressesprecherin,Managerinnen,20. WP,https://www.arianefaescher.de/,1
+208,"Fechner, Johannes",Fechner,male,1972,Dr.,West,BW,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://www.johannesfechner.de/,1
+209,"Fehre, Micha",Fehre,male,1997,NA,West,NI,ISCED 2,1319,Unternehmer,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,https://www.micha-fehre.de/,1
+210,"Feiler, Uwe",Feiler,male,1965,NA,Ost,BB,ISCED 6,1110,Finanzwirtin,Managerinnen,18. WP,https://www.uwe-feiler.de/,1
+211,"Felser, Peter",Felser,male,1969,NA,West,BY,ISCED 6,1319,Unternehmerin,Managerinnen,19. WP,http://www.peterfelser.de/,1
+212,"Ferlemann, Enak",Ferlemann,male,1963,NA,West,NI,ISCED 4,1319,Geschäftsführerin bei einer Beratungsgesellschaft,Managerinnen,15. WP,https://enak-ferlemann.de/,1
+213,"Ferschl, Susanne",Ferschl,female,1973,NA,West,BY,ISCED 4,3116,Chemielaborantin,Produktionsarbeiterinnen,20. WP,https://www.susanne-ferschl.de/,1
+214,"Feser, Jan",Feser,male,1985,NA,West,HE,ISCED 7,2429,Sozialjuristin,soziokulturelle (Semi-)Professionen,21. WP,https://www.janfeser.de/kopie-von-neue-seite-home,1
+215,"Fester, Emilia",Fester,lgbtqi,1998,NA,West,HH,ISCED 3,3472,Regieassistentin,soziokulturelle (Semi-)Professionen,20. WP,https://emiliafester.de/,1
+216,"Fetsch, Thomas",Fetsch,male,1969,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://thomas-fetsch.de/,1
+217,"Fey, Katrin",Fey,female,1967,NA,West,NRW,ISCED 7,2446,Dipl.-Sozialpädagogin,soziokulturelle (Semi-)Professionen,21. WP,https://katrin-fey.de/,1
+218,"Fiedler, Sebastian",Fiedler,male,1973,NA,West,NRW,ISCED 6,3450,Kriminalbeamtin,Dienstleistungsarbeiterinnen,20. WP,https://www.sebastianfiedler.ruhr/,1
+219,"Finger, Hauke",Finger,male,1968,NA,West,NRW,ISCED 6,3433,Bankbetriebswirtin,soziokulturelle (Semi-)Professionen,21. WP,hauke-finger.de,1
+220,"Fischer, Simone",Fischer,female,1979,NA,West,BW,ISCED 7,1110,Diplom-Verwaltungswirtin (Beauftragte Landesreg.),Managerinnen,21. WP,https://simone-fischer-stuttgart.de/ueber-mich/,1
+221,"Föhr, Alexander",Föhr,male,1980,NA,West,BW,ISCED 7,1234,Leitende Angestellte,Managerinnen,20. WP,https://alexander-foehr.de/,1
+222,"Föst, Daniel",Föst,male,1976,NA,West,BY,ISCED 3,1319,Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),19. WP,https://www.daniel-foest.de/,1
+223,"Foullong, Uwe (ausgeschieden)",Foullong,male,1957,NA,West,NRW,ISCED 7,1142,Dipl.-Kaufmann,Managerinnen,21. WP,NA,0
+224,"Franke, Edgar",Franke,male,1960,Prof. Dr.,West,HE,ISCED 8,2429,Juristin,soziokulturelle (Semi-)Professionen,17. WP,https://edgarfranke.de/,1
+225,"Frauenpreiß, Christoph",Frauenpreiß,male,1984,NA,West,NI,ISCED 6,2419,Dipl.-Bankbetriebswirt (FS),soziokulturelle (Semi-)Professionen,21. WP,https://christoph-frauenpreiss.de/,1
+226,"Frei, Thorsten",Frei,male,1973,NA,West,BW,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,18. WP,https://thorsten-frei.de/,1
+227,"Fricke, Otto",Fricke,male,1965,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://ofricke.abgeordnete.fdpbt.de/,1
+228,"Friedhoff, Dietmar",Friedhoff,male,1966,NA,West,NI,ISCED 7,2149,"Ingenieurin, Vertriebstrainerin",Managerinnen,19. WP,http://www.dietmar-friedhoff.de/,1
+229,"Friedrich, Hans-Peter",Friedrich,male,1957,Dr.,West,BY,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,14. WP,https://www.hans-peter-friedrich.de/,1
+230,"Frieser, Michael",Frieser,male,1964,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://www.michael-frieser.de/,1
+231,"Frohnmaier, Markus",Frohnmaier,male,1991,NA,West,BW,ISCED 4,2451,Pressesprecherin,Büroangestellte,19. WP,https://www.markusfrohnmaier.de/,1
+232,"Frömming, Götz",Frömming,male,1968,Dr.,Ost,BB,ISCED 8,2310,Studiendirektorin a. D.,soziokulturelle (Semi-)Professionen,19. WP,https://www.goetz-froemming.de/,1
+233,"Funke, Fabian",Funke,male,1997,NA,Ost,SN,ISCED 6,999,Studentin,no class,20. WP,https://www.fabian-funke.de/,1
+234,"Funke-Kaiser, Maximilian",Funke-Kaiser,male,1993,NA,West,BY,ISCED 6,1317,Geschäftsführerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.maximilianfunkekaiser.de/,1
+235,"Gädechens, Ingo",Gädechens,male,1960,NA,West,SH,ISCED 4,100,Soldatin,no class,17. WP,https://www.ingo-gaedechens.de/consent?dest=%2F,1
+236,"Galla, Rainer",Galla,male,1961,NA,Ost,BB,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,21. WP,rainer-galla.de,1
+237,"Gamanov, Boris",Gamanov,male,1986,NA,West,SL,ISCED 4,3419,Wirtschaftsfachwirt,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+238,"Gambir, Schahina",Gambir,female,1991,NA,West,NRW,ISCED 6,2443,Politikwisseschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://schahina-gambir.de/,1
+239,"Ganserer, Tessa",Ganserer,lgbtqi,1977,NA,West,BY,ISCED 6,2149,Ingenieurin Wald-/ Forstwirtschaft,technische Professionen,20. WP,https://tessa-ganserer.de/,1
+240,"Gassner-Herz, Martin",Gassner-Herz,male,1985,NA,West,BW,ISCED 7,3431,Verwaltungsangestellte,Büroangestellte,20. WP,https://www.gassner-herz.de/,1
+241,"Gastel, Matthias",Gastel,male,1970,NA,West,BW,ISCED 7,2442,Sozialpädagogin,soziokulturelle (Semi-)Professionen,18. WP,https://www.matthias-gastel.de/,1
+242,"Gauland, Alexander",Gauland,male,1941,Dr.,Ost,SN,ISCED 8,1232,Staatssekretär a. D.,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+243,"Gava, Manuel",Gava,male,1991,NA,West,NI,ISCED 2,1233,Vertriebleiterin,Managerinnen,20. WP,https://www.manuelgava.de/,1
+244,"Gebel, Kathrin",Gebel,female,1997,NA,West,NRW,ISCED 6,999,Studentin,no class,21. WP,https://www.kathrin-gebel.de/politik/aktuell/,1
+245,"Gebhard, Wilhelm",Gebhard,male,1976,NA,West,HE,ISCED 7,1110,Bürgermeister,Managerinnen,21. WP,https://www.wilhelmgebhard.de/,1
+246,"Gebhart, Thomas",Gebhart,male,1971,Dr.,West,RP,ISCED 8,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,17. WP,https://thomas-gebhart.de/,1
+247,"Gehring, Kai",Gehring,lgbtqi,1977,NA,West,NRW,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,15. WP,https://www.kai-gehring.de/,1
+248,"Geissler, Jonas",Geissler,male,1984,Dr.,West,BY,ISCED 8,1110,Regierungsrätin a.D,Managerinnen,20. WP,https://jonas-geissler.de/,1
+249,"Gelbhaar, Stefan",Gelbhaar,male,1976,NA,Ost,BE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.stefan-gelbhaar.de/,1
+250,"Gennburg, Katalin",Gennburg,female,1984,NA,Ost,BE,ISCED 7,1110,MdA Berlin,Managerinnen,21. WP,https://katalingennburg.dielinke.berlin/,1
+251,"Gerdes, Michael",Gerdes,male,1960,NA,West,NRW,ISCED 4,7111,Bergmann,Produktionsarbeiterinnen,17. WP,http://www.michaelgerdes-mdb.de/,1
+252,"Gerschau, Knut",Gerschau,male,1961,NA,West,NI,ISCED 3,1317,Geschäftsführerin,Managerinnen,20. WP,https://www.fdp.de/,1
+253,"Gerster, Martin",Gerster,male,1971,NA,West,BW,ISCED 7,2443,Politikwissenschaftlerin/Redakteurin,soziokulturelle (Semi-)Professionen,16. WP,https://www.martin-gerster.de/,1
+254,"Gesenhues, Jan-Niclas",Gesenhues,male,1990,Dr.,West,NRW,ISCED 8,2441,Volkswirtin,soziokulturelle (Semi-)Professionen,20. WP,https://gesenhues.eu/,1
+255,"Giersch, Alexis L.",Giersch,male,1963,NA,West,SH,ISCED 7,2147,Dipl.-Ingenieur (FH),technische Professionen,21. WP,https://alexis-giersch-bundestag.de/,1
+256,"Glaser, Albrecht",A. Glaser,male,1942,NA,West,HE,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,19. WP,http://www.albrecht-glaser.de/,1
+257,"Gläser, Ronald",Gläser,male,1973,NA,Ost,BE,ISCED 7,2451,Journalistin,soziokulturelle (Semi-)Professionen,21. WP,ronaldglaeser.de,1
+258,"Glaser, Vinzenz",V. Glaser,male,1992,NA,West,BW,ISCED 6,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+259,"Glöckner, Angelika",Glöckner,female,1962,NA,West,RP,ISCED 6,2470,Verwaltungsfachwirtin,Managerinnen,18. WP,https://www.angelika-gloeckner.info/,1
+260,"Glogowski-Merten, Aniko",Glogowski-Merten,female,1982,NA,West,NI,ISCED 7,2359,Lehrbeauftragte für Kunstwissenschaften,soziokulturelle (Semi-)Professionen,20. WP,https://amerten.abgeordnete.fdpbt.de/,1
+261,"Gnauck, Hannes",Gnauck,male,1991,NA,Ost,BB,ISCED 4,100,Soldatin,no class,20. WP,NA,0
+262,"Gohlke, Nicole",Gohlke,female,1975,NA,West,BY,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,17. WP,https://nicole-gohlke.de/,1
+263,"Göring-Eckardt, Katrin",Göring-Eckardt,female,1966,NA,Ost,TH,ISCED 3,1110,MdB,Managerinnen,14. WP,https://goering-eckardt.de/,1
+264,"Görke, Christian",Görke,male,1962,NA,Ost,BB,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.christian-goerke.de/herzlich-willkommen/,1
+265,"Goßner, Hans-Jürgen",Goßner,male,1970,NA,West,NI,ISCED 5,3113,Industriemeister für Elektrotechnik (IHK),Produktionsarbeiterinnen,21. WP,https://gossner-im-bundestag.de/,1
+266,"Gottschalk, Kay",Gottschalk,lgbtqi,1965,NA,West,NRW,ISCED 7,2419,Kauffrau,Managerinnen,19. WP,https://afd-gottschalk.de/,1
+267,"Gramling, Fabian",Gramling,male,1987,NA,West,BW,ISCED 7,2411,Prüfungsleiterin in der Wirtschaftsprüfung M.A,Managerinnen,20. WP,https://fabian-gramling.de/,1
+268,"Grasse, Adrian",Grasse,male,1975,NA,Ost,BE,ISCED 7,1110,MdL Berlin,Managerinnen,21. WP,https://adrian-grasse.berlin/,1
+269,"Gräßle, Inge",Gräßle,female,1961,Dr.,West,BW,ISCED 8,2451,Journalistin,soziokulturelle (Semi-)Professionen,20. WP,https://www.inge-graessle.de/,1
+270,"Grau, Armin",Grau,male,1959,Prof. Dr.,West,RP,ISCED 8,2221,"Ärztin, Klinikdirektorin",soziokulturelle (Semi-)Professionen,20. WP,https://armingrau.de/,1
+271,"Gregosz, David",Gregosz,male,1983,NA,Ost,TH,ISCED 7,2441,Volkswirtin,soziokulturelle (Semi-)Professionen,21. WP,https://www.david-gregosz.de/,1
+272,"Gremmels, Timon (ausgeschieden)",Gremmels,lgbtqi,1967,NA,West,HE,ISCED 7,2443,Politikwisseschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+273,"Griese, Kerstin",Griese,female,1966,NA,West,NRW,ISCED 7,2443,Historikerin,soziokulturelle (Semi-)Professionen,14. WP,https://www.kerstin-griese.de/,1
+274,"Griewel, Fabian",Griewel,male,1997,NA,West,NRW,ISCED 7,2442,Geografin,soziokulturelle (Semi-)Professionen,20. WP,NA,0
+275,"Grimm, Christoph",Grimm,male,1957,NA,Ost,MV,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://christoph-grimm.de/,1
+276,"Gröhe, Hermann",Gröhe,male,1961,NA,West,NRW,ISCED 7,2429,Juristin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,14. WP,https://www.hermann-groehe.de/,1
+277,"Gross, Rainer",Gross,male,1960,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://www.rainer-gross-mdb.de/,1
+278,"Grosse-Böhmer, Michael",Grosse-Böhmer,male,1960,NA,West,NI,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,15. WP,https://m-grosse-broemer.de/,1
+279,"Grötsch, Uli (ausgeschieden)",Grötsch,male,1975,NA,West,BY,ISCED 4,5162,Polizistin,Büroangestellte,20. WP,NA,0
+280,"Grübel, Markus",Grübel,male,1959,NA,West,BW,ISCED 7,2429,Notar,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,15. WP,https://www.markus-gruebel.de/,1
+281,"Grund, Manfred",Grund,male,1955,NA,Ost,TH,ISCED 7,2143,Elektroingenieurin,technische Professionen,13. WP,https://manfredgrund.de/,1
+282,"Gründer, Nils",Gründer,male,1997,NA,West,BY,ISCED 3,999,Studentin,no class,20. WP,https://www.nils-gruender.de/,1
+283,"Grundl, Erhard",Grundl,male,1963,NA,West,BY,ISCED 4,1233,Vertriebsmanagerin,Managerinnen,19. WP,https://www.erhard-grundl.de/,1
+284,"Grundmann, Oliver",Grundmann,male,1971,NA,West,NI,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://www.olivergrundmann.de/,1
+285,"Grünke, Julian",Grünke,male,1995,NA,West,BW,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.bundestag.de/abgeordnete/biografien/G/gruenke_julian-1016002,1
+286,"Grütters, Monika",Grütters,female,1962,Prof.,Ost,BE,ISCED 8,2443,Literatur- und Kunsthistorikerin,soziokulturelle (Semi-)Professionen,16. WP,https://www.monika-gruetters.de/,1
+287,"Grützmacher, Sabine",Grützmacher,female,1986,NA,West,NRW,ISCED 7,2442,Sozialpädagogin,soziokulturelle (Semi-)Professionen,20. WP,https://www.sabine-gruetzmacher.de/,1
+288,"Güler, Serap",Güler,female,1980,NA,West,NRW,ISCED 7,1110,"Beamtin, Staatssekretärin",Managerinnen,20. WP,https://www.serapgueler.de/,1
+289,"Gumnior, Lena",Gumnior,female,1992,Dr.,West,NI,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://lena-gumnior.fuer-die-gruenen.de/,1
+290,"Günther, Georg",Günther,male,1988,NA,Ost,MV,ISCED 6,2411,Dipl.-Finanzwirt (FH),Büroangestellte,21. WP,https://www.georgguenther.de/,1
+291,"Güntzler, Fritz",Güntzler,male,1966,NA,West,NI,ISCED 7,2411,"Wirtschaftsprüferin, Steuerberaterin",Managerinnen,18. WP,https://www.fritz-guentzler.de/,1
+292,"Gürpinar, Ates",Gürpinar,male,1984,NA,West,BY,ISCED 7,2432,Medienwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.ates-guerpinar.de/aktuell/,1
+293,"Gutting, Olav",Gutting,male,1970,NA,West,BW,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,15. WP,https://www.olav-gutting.de/,1
+294,"Gysi, Gregor",Gysi,male,1948,Dr.,Ost,BE,ISCED 8,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,16. WP,https://www.dielinkebt.de/abgeordnete/profil/dr-gregor-gysi/,1
+295,"Haase, Christian",Haase,male,1966,NA,West,NRW,ISCED 6,3432,Diplom-Verwaltungswirt,Managerinnen,19. WP,https://www.haase-christian.de/,1
+296,"Habeck, Robert",Habeck,male,1969,Dr.,West,SH,ISCED 8,2451,Schritstellerin / Politikerin,Managerinnen,20. WP,https://www.robert-habeck.de/,1
+297,"Hacker, Thomas",Hacker,male,1967,NA,West,BY,ISCED 4,1232,Diplom-Kaufmann,Büroangestellte,19. WP,https://thacker.abgeordnete.fdpbt.de/,1
+298,"Hagedorn, Bettina",Hagedorn,female,1955,NA,West,SH,ISCED 4,7313,Goldschmiedin,Produktionsarbeiterinnen,15. WP,https://www.bettinahagedorn.de/,1
+299,"Hagl-Kehl, Rita",Hagl-Kehl,female,1970,NA,West,BY,ISCED 7,2310,Studienrätin,soziokulturelle (Semi-)Professionen,18. WP,http://www.rita-hagl-kehl.de/,1
+300,"Hahn, André",A. Hahn,male,1963,Dr.,Ost,SN,ISCED 8,1110,Landtagsabgeordneter,soziokulturelle (Semi-)Professionen,18. WP,https://www.andre-hahn.eu/,1
+301,"Hahn, Florian",F. Hahn,male,1974,NA,West,BY,ISCED 6,2451,Mitarbeit in Presse- und Öffentlichkeitsarbeit eines Unternehmens,soziokulturelle (Semi-)Professionen,17. WP,https://www.florian-hahn.de/,1
+302,"Hahn, Ingo",I. Hahn,male,1971,Prof. Dr.,West,BY,ISCED 8,2310,Professorin für Geographie,soziokulturelle (Semi-)Professionen,21. WP,ingo-hahn-afd.de,1
+303,"Hain, Heiko",Hain,male,1982,NA,West,BY,ISCED 7,2470,Verwaltungsfachwirtin,soziokulturelle (Semi-)Professionen,21. WP,https://heikohain.de/,1
+304,"Haise, Lars",Haise,male,1989,NA,West,BW,ISCED 4,8311,Lokomotivführerin,Dienstleistungsarbeiterinnen,21. WP,NA,0
+305,"Hakverdi, Metin",Hakverdi,male,1969,NA,West,HH,ISCED 6,2429,Volljuristin,soziokulturelle (Semi-)Professionen,18. WP,https://metin-hakverdi.de/,1
+306,"Hanke, Reginald (ausgeschieden)",Hanke,male,1956,NA,Ost,TH,ISCED 6,7141,Malermeisterin,Produktionsarbeiterinnen,20. WP,NA,0
+307,"Hanker, Mirco",Hanker,male,1966,NA,West,NI,ISCED 7,2419,Diplom-Kaufmann,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+308,"Harder-Kühnel, Mariana Iris",Harder-Kühnel,female,1974,NA,West,HE,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,19. WP,http://www.mariana-harder-kuehnel.de/,1
+309,"Hardt, Jürgen",Hardt,male,1963,NA,West,NRW,ISCED 7,2441,Volkswirtin,Managerinnen,17. WP,https://www.juergenhardt.de/,1
+310,"Hartewig, Philipp",Hartewig,male,1994,NA,Ost,SN,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://phartewig.abgeordnete.fdpbt.de/,1
+311,"Hartmann, Sebastian",Hartmann,male,1977,NA,West,NRW,ISCED 6,2419,Organisationsberaterin,Managerinnen,18. WP,https://www.sebastian-hartmann.de/,1
+312,"Harzer, Ulrike",Harzer,female,1968,NA,Ost,SN,ISCED 4,1143,Geschäftsführerin,Managerinnen,20. WP,https://www.ulrike-harzer.de/,1
+313,"Haßelmann, Britta",Haßelmann,female,1961,NA,West,NRW,ISCED 6,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,16. WP,https://britta-hasselmann.de/,1
+314,"Hauer, Matthias",Hauer,male,1977,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://www.matthias-hauer.de/,1
+315,"Haug, Jochen",Haug,male,1973,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,19. WP,https://haug-bundestag.de/,1
+316,"Heck, Stefan",Heck,male,1982,Dr.,West,HE,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://www.stefan-heck.net/,1
+317,"Heidenblut, Dirk",Heidenblut,male,1961,NA,West,NRW,ISCED 3,1143,Geschäftsführerin,Managerinnen,18. WP,https://www.dirk-heidenblut.de/,1
+318,"Heidt, Peter",Heidt,male,1965,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.peter-heidt.de/,1
+319,"Heil, Hubertus",H. Heil,male,1972,NA,West,NI,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,14. WP,https://www.hubertus-heil.de/,1
+320,"Heil, Mechthild",M. Heil,female,1961,NA,West,RP,ISCED 7,2149,Architektin,technische Professionen,17. WP,https://www.mechthild-heil.de/,1
+321,"Heiligenstadt, Frauke",Heiligenstadt,female,1966,NA,West,NI,ISCED 6,1110,Landtagsabgeordnete,Managerinnen,20. WP,https://frauke-heiligenstadt.de/,1
+322,"Heilmann, Thomas",Heilmann,male,1964,NA,Ost,BE,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,19. WP,https://heilmann.berlin/,1
+323,"Heinrich, Gabriela",Heinrich,female,1963,NA,West,BY,ISCED 6,2451,Redakteurin,Managerinnen,18. WP,https://www.gabriela-heinrich.de/,1
+324,"Heitmann, Linda",Heitmann,female,1982,NA,West,HH,ISCED 6,1318,Geschäftsführerin in der Suchtkrankenhilfe,Managerinnen,20. WP,https://linda-heitmann.de/,1
+325,"Helferich, Matthias",Helferich,male,1988,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,matthiashelferich.de,1
+326,"Helfrich, Mark",Helfrich,male,1978,NA,West,SH,ISCED 6,3431,Betriebswirtin,Managerinnen,18. WP,https://mark-helfrich.de/,1
+327,"Helling-Plahr, Katrin",Helling-Plahr,female,1986,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://helling-plahr.de/,1
+328,"Hellmich, Wolfgang",Hellmich,male,1958,NA,West,NRW,ISCED 7,1141,Hauptamtlicher Geschäftsführer,Managerinnen,17. WP,https://www.wolfgang-hellmich.de/,1
+329,"Hemmelgarn, Udo",Hemmelgarn,male,1959,NA,West,NRW,ISCED 4,1315,selbstständige Kauffrau,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,19. WP,udo-hammelgarn.de,1
+330,"Henneberger, Kathrin",Henneberger,lgbtqi,1987,NA,West,NRW,ISCED 3,2451,Pressesprecherin,soziokulturelle (Semi-)Professionen,20. WP,https://kathrinhenneberger.de/,1
+331,"Hennig, Anke",Hennig,female,1964,NA,West,NI,ISCED 3,3320,Kindertagespflegeperson,soziokulturelle (Semi-)Professionen,20. WP,https://www.anke-hennig.de/,1
+332,"Hennig-Wellsow, Susanne",Hennig-Wellsow,female,1977,NA,Ost,TH,ISCED 7,2359,Pädagogin,soziokulturelle (Semi-)Professionen,20. WP,https://www.susannehennig.de/,1
+333,"Hennrich, Michael (ausgeschieden)",Hennrich,male,1965,NA,West,BW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,15. WP,NA,0
+334,"Henrichmann, Marc",Henrichmann,male,1976,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.marc-henrichmann.de/,1
+335,"Henze, Stefan",Henze,male,1965,NA,West,NI,ISCED 5,1319,EDV-Finanz/Bilanzbuchhalter,Managerinnen,21. WP,stefanhenze.de,1
+336,"Herbrand, Markus",Herbrand,male,1971,NA,West,NRW,ISCED 4,2411,Steuerberaterin,soziokulturelle (Semi-)Professionen,19. WP,https://mherbrand.abgeordnete.fdpbt.de/,1
+337,"Herbst, Torsten",Herbst,male,1973,NA,Ost,SN,ISCED 6,2419,Diplom-Kaufmann (FH),Büroangestellte,19. WP,https://www.torsten-herbst.de/,1
+338,"Herbstreuth, Diana",Herbstreuth,female,1981,NA,Ost,TH,ISCED 7,100,Soldatin,no class,21. WP,https://www.diana-herbstreuth.de/,1
+339,"Hermann, Bernhard",Hermann,male,1966,NA,Ost,SN,ISCED 7,2149,Diplom-Wasserbauingenieurin,technische Professionen,20. WP,https://bernhard-herrmann.de/,1
+340,"Hermeier, Mareike",Hermeier,female,1989,NA,West,NRW,ISCED 4,3433,Kauffrau/Buchhalterin,Büroangestellte,21. WP,https://mareike-hermeier.de/,1
+341,"Heselhaus, Nadine",Heselhaus,female,1978,NA,West,NRW,ISCED 6,2470,Verwaltungsbeamtin,Managerinnen,20. WP,https://www.nadine-heselhaus.de/,1
+342,"Hess, Martin",M. Hess,male,1971,NA,West,BW,ISCED 6,3450,Polizeibeamtin,Dienstleistungsarbeiterinnen,19. WP,https://martin-hess-klartext.de/,1
+343,"Hess, Nicole Claudia",N. Hess,female,1973,NA,West,HE,ISCED 4,5111,Industriekauffrau,Büroangestellte,21. WP,https://www.nicole-hess-mdb.de/,1
+344,"Hessel, Katja",Hessel,female,1972,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.katja-hessel.de/,1
+345,"Heubach, Heike",Heubach,female,1979,NA,West,BY,ISCED 4,4122,Industriekauffrau,Büroangestellte,20. WP,https://heike-heubach.de/,1
+346,"Heuberger, Moritz",Heuberger,male,1991,Dr.,Ost,BE,ISCED 8,2470,Verwaltungswissenschaftler,soziokulturelle (Semi-)Professionen,21. WP,https://gruene-ts.de/moritz-heuberger/,1
+347,"Heveling, Ansgar",Heveling,male,1972,NA,West,NRW,ISCED 7,1142,Oberregierungsrat a. D.,soziokulturelle (Semi-)Professionen,17. WP,https://ansgar-heveling.de/,1
+348,"Hierl, Susanne",Hierl,female,1973,NA,West,BY,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,20. WP,https://susanne-hierl.de/,1
+349,"Hiller, Matthias",Hiller,male,1985,Prof. Dr.,West,BW,ISCED 8,2411,Steuerberaterin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,21. WP,https://www.matthias-hiller.com/,1
+350,"Hilmer, Olaf",Hilmer,male,1972,NA,West,NI,ISCED 6,3431,Diplomlogistiker,Büroangestellte,21. WP,https://www.olafhilmer.de/,1
+351,"Hilse, Karsten",Hilse,male,1964,NA,Ost,SN,ISCED 4,5162,Polizistin (Einsatztrainer),Managerinnen,19. WP,https://karstenhilse.de/,1
+352,"Hirte, Christian",Hirte,male,1976,NA,Ost,TH,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,16. WP,https://www.christian-hirte.de/,1
+353,"Hitschler, Thomas",Hitschler,male,1982,NA,West,RP,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.thomas-hitschler.de/,1
+354,"Höchst, Nicole",Höchst,female,1970,NA,West,RP,ISCED 7,2310,Regierungsschuldirektorin a. D.,soziokulturelle (Semi-)Professionen,19. WP,https://nicole-hoechst.de/,1
+355,"Hocker, Gero Clemens",Hocker,male,1975,Dr.,West,NI,ISCED 8,2441,Diplom-Ökonomin,Managerinnen,19. WP,https://gero-hocker.abgeordnete.fdpbt.de/,1
+356,"Höferlin, Manuel",Höferlin,male,1973,NA,West,RP,ISCED 3,1142,IT-Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),17. WP,https://mhoeferlin.abgeordnete.fdpbt.de/,1
+357,"Hoffmann, Alexander",A. Hoffmann,male,1975,NA,West,BY,ISCED 7,1142,Oberrechtsrat,soziokulturelle (Semi-)Professionen,18. WP,https://www.alexander-hoffmann.org/startseite.html,1
+358,"Hoffmann, Bettina",B. Hoffmann,female,1960,Dr.,West,HE,ISCED 8,2211,Biologin,soziokulturelle (Semi-)Professionen,19. WP,http://www.bettina-hoffmann.info/,1
+359,"Hoffmann, Christoph",C. Hoffmann,male,1957,Dr.,West,BW,ISCED 8,2149,Diplom-Forstwissenschaftler,technische Professionen,19. WP,https://www.dr-christoph-hoffmann.de/,1
+360,"Hoffmann, Philip M.A.",P. Hoffmann,male,1988,NA,West,SL,ISCED 7,2441,Ökonomin,soziokulturelle (Semi-)Professionen,21. WP,https://www.cducsu.de/abgeordnete/philip-ma-hoffmann,1
+361,"Hofreiter, Anton",Hofreiter,male,1970,Dr.,West,BY,ISCED 8,2211,Biologin,soziokulturelle (Semi-)Professionen,16. WP,https://toni-hofreiter.de/,1
+362,"Hohmann, Angela",Hohmann,female,1963,NA,West,NI,ISCED 4,3443,Sozialversicherungsfachangestellte,Managerinnen,20. WP,https://angela-hohmann.de/,1
+363,"Holm, Leif-Erik",Holm,male,1970,NA,Ost,MV,ISCED 7,2441,Ökonomin,soziokulturelle (Semi-)Professionen,19. WP,https://www.leif-erik-holm.de/,1
+364,"Holtz, Ottmar von",Holtz,male,1961,NA,West,NI,ISCED 7,2441,Diplom-Ökonomin,Managerinnen,19. WP,NA,0
+365,"Hönel, Bruno",Hönel,lgbtqi,1996,NA,West,SH,ISCED 7,2445,Psychologin,soziokulturelle (Semi-)Professionen,20. WP,https://bruno-hoenel.de/,1
+366,"Hoppenstedt, Hendrik",Hoppenstedt,male,1972,Dr.,West,NI,ISCED 8,2429,Juristin,soziokulturelle (Semi-)Professionen,18. WP,https://www.hendrik-hoppenstedt.de/,1
+367,"Hoppermann, Franziska",Hoppermann,female,1982,NA,West,HH,ISCED 7,1110,Senatsdirektorin a. D. (Hamburg Verwaltung),Managerinnen,20. WP,https://franziska-hoppermann.de/,1
+368,"Hose, Michael",Hose,male,1984,NA,Ost,TH,ISCED 7,2310,Schulleiter,soziokulturelle (Semi-)Professionen,21. WP,https://michaelhose.de/,1
+369,"Hoß, Luke",Hoß,male,2001,NA,West,BY,ISCED 3,999,Studentin,no class,21. WP,https://www.luke-hoss.de/,1
+370,"Hostert, Jasmina",Hostert,female,1982,NA,West,BW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.jasmina-hostert.de/,1
+371,"Houben, Reinhard",Houben,male,1960,NA,West,NRW,ISCED 6,1319,Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),19. WP,https://www.reinhard-houben.de/,1
+372,"Huber, Johannes",Huber,male,1987,NA,West,BY,ISCED 7,3433,Finanzbuchhalterin,Büroangestellte,19. WP,http://www.johanneshuber.bayern/,1
+373,"Hubertz, Verena",Hubertz,female,1987,NA,West,RP,ISCED 7,1319,Unternehmerin,Managerinnen,20. WP,https://verena-hubertz.de/,1
+374,"Hümpfer, Markus",Hümpfer,male,1992,NA,West,BY,ISCED 6,2149,Ingenieurin,Managerinnen,20. WP,https://www.markus-huempfer.de/,1
+375,"Hunko, Andrej",Hunko,male,1963,NA,West,NRW,ISCED 4,3131,Mediengestalterin,Managerinnen,18. WP,https://andrej-hunko.de/,1
+376,"Hüppe, Hubert",Hüppe,male,1956,NA,West,NRW,ISCED 6,2470,Verwaltungswirtin,Managerinnen,12. WP,https://www.huberthueppe.de/,1
+377,"Huy, Gerrit",Huy,female,1953,NA,West,BY,ISCED 7,2121,Mathematikerin,technische Professionen,20. WP,https://gerrithuy.de/,1
+378,"in der Beek, Olaf",in der Beek,male,1967,NA,West,NRW,ISCED 3,1210,Geschäftsführende Gesellschafterin,Managerinnen,20. WP,https://oinderbeek.abgeordnete.fdpbt.de/,1
+379,"Ince, Cem Hamit",Ince,male,1993,NA,West,NI,ISCED 4,3113,Elektroniker,Produktionsarbeiterinnen,21. WP,https://www.die-linke-salzgitter.de/,1
+380,"Irlstorfer, Erich",Irlstorfer,male,1970,NA,West,BY,ISCED 4,4190,Bürokauffrau,Managerinnen,18. WP,irlstorfer.de,1
+381,"Jacobi, Fabian",Jacobi,male,1973,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.fabian-jacobi.de/,1
+382,"Janecek, Dieter",Janecek,male,1976,NA,West,BY,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://dieterjanecek.de/,1
+383,"Janich, Steffen",Janich,male,1971,NA,Ost,SN,ISCED 6,3450,Polizeibeamtin,Dienstleistungsarbeiterinnen,20. WP,steffenjanich.de,1
+384,"Janssen, Anne",Janssen,female,1982,NA,West,NI,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://annejanssen.de/,1
+385,"Jarzombek, Thomas",Jarzombek,male,1973,NA,West,NRW,ISCED 3,1317,Geschäftsführer IT Firma,technische Professionen,17. WP,https://www.jarzombek.com/,1
+386,"Jensen, Gyde",Jensen,female,1989,NA,West,SH,ISCED 7,2443,Politikwissenschaftlerin (M.A),soziokulturelle (Semi-)Professionen,19. WP,https://gjensen.abgeordnete.fdpbt.de/,1
+387,"Jongen, Marc (ausgeschieden)",Jongen,male,1968,Dr.,West,BW,ISCED 8,2443,Dozentin für Philosophie,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+388,"Jordan, Alexander",Jordan,male,1981,NA,West,NI,ISCED 6,2144,Dipl.-Ing. Elektro- und Informationstechnik (FH),technische Professionen,21. WP,https://www.cducsu.de/abgeordnete/alexander-jordan,1
+389,"Joswig, Julian",Joswig,male,1993,NA,West,RP,ISCED 7,2441,Wirtschaftswissenschaftlerin,soziokulturelle (Semi-)Professionen,21. WP,https://joswig.eu/,1
+390,"Jung, Andreas",A. Jung,male,1975,NA,West,BW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,16. WP,https://www.andreas-jung.info/,1
+391,"Jung, Ingmar (ausgeschieden)",I. Jung,male,1978,NA,West,HE,ISCED 7,1232,Staatssekretär im Landesministerium,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+392,"Junge, Frank",Junge,male,1967,NA,Ost,MV,ISCED 6,2320,Diplom-Sportlehrerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.frank-junge.de/,1
+393,"Jünger, Robin",Jünger,male,1966,NA,West,HE,ISCED 4,1319,Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,https://robin-juenger.de/,1
+394,"Juratovic, Josip",Juratovic,male,1959,NA,West,BW,ISCED 4,7231,Kfz-Mechanikerin,Produktionsarbeiterinnen,16. WP,https://www.josip-juratovic.de/,1
+395,"Jurisch, Ann-Veruschka",Jurisch,female,1972,Dr.,West,BW,ISCED 8,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.avjurisch.de/,1
+396,"Kaczmarek, Oliver",Kaczmarek,male,1970,NA,West,NRW,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,17. WP,https://www.oliver-kaczmarek.de/,1
+397,"Kaddor, Lamya",Kaddor,female,1978,NA,West,NRW,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.lamya-kaddor.de/,1
+398,"Kaiser, Elisabeth",Kaiser,female,1987,NA,Ost,TH,ISCED 7,2443,Politik-/Verwaltungswissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://elisabeth-kaiser.info/,1
+399,"Kaminski, Maren",Kaminski,female,1979,NA,West,NI,ISCED 7,1142,Gewerkschaftssekretärin,Managerinnen,21. WP,https://www.maren-kaminski.de/,1
+400,"Kappe, Nicklas",Kappe,male,1996,NA,West,NRW,ISCED 6,2146,Chemieingenieur,technische Professionen,21. WP,https://nicklaskappe.de/,1
+401,"Kappert-Gonther, Kirsten",Kappert-Gonther,female,1966,Dr.,West,HB,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,19. WP,https://kappert-gonther.de/,1
+402,"Karaahmetoglu, Macit",Karaahmetoglu,male,1968,NA,West,BW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://www.macit-mdb.de/,1
+403,"Karliczek, Anja",Karliczek,female,1971,NA,West,NRW,ISCED 7,1315,Leitende Angestellte Hotelerie,Managerinnen,18. WP,https://anja-karliczek.de/,1
+404,"Kasper, Carlos",Kasper,lgbtqi,1994,NA,Ost,SN,ISCED 6,3441,Zollbeamtin,Managerinnen,20. WP,https://carlos-kasper.spd.de/,1
+405,"Kassautzki, Anna",Kassautzki,female,1993,NA,Ost,MV,ISCED 7,2442,Staatswissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://annakassautzki.de/,1
+406,"Katzmarek, Gabriele",Katzmarek,female,1960,NA,West,BW,ISCED 4,1142,Gewerkschaftssekretärin,technische Professionen,18. WP,http://www.gabriele-katzmarek.de/,1
+407,"Kaufmann, Malte",M. Kaufmann,male,1976,Dr.,West,BW,ISCED 8,2441,Volkswirtin,soziokulturelle (Semi-)Professionen,20. WP,https://www.malte-kaufmann.de/,1
+408,"Kaufmann, Michael Heinz",M H. Kaufmann,male,1964,Prof.-Ing.habil,Ost,TH,ISCED 8,2149,Ingenieurin,soziokulturelle (Semi-)Professionen,20. WP,https://www.kaufmann-michael.de/,1
+409,"Kaufmann, Stefan",S. Kaufmann,lgbtqi,1969,Dr.,West,BW,ISCED 8,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,17. WP,https://stefan-kaufmann.de/,1
+410,"Kekeritz, Uwe",Kekeritz,male,1953,NA,West,BY,ISCED 7,2441,Diplom-Volkswirtin,Managerinnen,19. WP,NA,0
+411,"Keller, Rainer Johannes (verstorben)",Keller,male,1965,NA,West,NRW,ISCED 4,3231,Krankenpfleger und Notfallsanitäter,Dienstleistungsarbeiterinnen,20. WP,NA,0
+412,"Kellner, Michael",Kellner,male,1977,NA,Ost,BB,ISCED 7,1110,Politikerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.michael-kellner.info/,1
+413,"Kemmer, Ronja",Kemmer,female,1989,NA,West,BW,ISCED 7,2441,Volkswirtin,Managerinnen,18. WP,https://ronja-kemmer.de/,1
+414,"Kempf, Martina Rose-Marie",Kempf,female,1964,NA,West,BW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,21. WP,martina-kempf.eu,1
+415,"Kersten, Franziska",Kersten,female,1968,Dr.,Ost,ST,ISCED 8,2223,Tierärztin,soziokulturelle (Semi-)Professionen,20. WP,https://franziska-kersten.de/,1
+416,"Keul, Katja",Keul,female,1969,NA,West,NI,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://katja-keul.de/,1
+417,"Keuter, Stefan",Keuter,male,1972,NA,West,NRW,ISCED 4,4212,Bankkauffrau,Managerinnen,19. WP,NA,0
+418,"Kever, Rocco",Kever,male,1979,NA,West,NI,ISCED 6,1319,stv. Geschäftsführer,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,NA,0
+419,"Khan, Misbah",Khan,female,1989,NA,West,RP,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://misbah-khan.de/,1
+420,"Kiesewetter, Roderich",Kiesewetter,male,1963,NA,West,BW,ISCED 6,100,Soldatin,no class,17. WP,https://www.roderich-kiesewetter.de/startseite.html,1
+421,"Kießling, Michael",Kießling,male,1973,NA,West,BY,ISCED 6,2142,Bauingenieurin,Managerinnen,19. WP,https://www.kiessling-michael.de/,1
+422,"Kindler, Sven-Christian",Kindler,male,1985,NA,West,NI,ISCED 6,2419,Betriebswirtin,Managerinnen,17. WP,https://www.sven-kindler.de/,1
+423,"Kippels, Georg",Kippels,male,1959,Dr.,West,NRW,ISCED 8,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,18. WP,https://www.georg-kippels.de/,1
+425,"Kiziltepe, Cansel (ausgeschieden)",Kiziltepe,female,1975,NA,Ost,BE,ISCED 7,2441,Volkswirtin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,18. WP,NA,0
+426,"Kleebank, Helmut",Kleebank,male,1964,NA,Ost,BE,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.helmut-kleebank.de/,1
+427,"Klein, Karsten",K. Klein,male,1977,NA,West,BY,ISCED 6,1110,Politikerin,Managerinnen,20. WP,https://www.karsten-klein.de/,1
+428,"Klein, Ottilie",O. Klein,female,1984,Dr.,Ost,BE,ISCED 8,1110,Abteilungsdirektorin,Managerinnen,20. WP,https://www.ottilieklein.de/,1
+429,"Klein, Volkmar",V. Klein,male,1960,NA,West,NRW,ISCED 7,2441,Volkswirtin,Managerinnen,17. WP,https://www.volkmarklein.de/,1
+430,"Klein-Schmeink, Maria",Klein-Schmeink,female,1958,NA,West,NRW,ISCED 7,2442,Soziologin,soziokulturelle (Semi-)Professionen,17. WP,https://klein-schmeink.de/,1
+431,"Kleinschmidt, Kurt Klaus",Kleinschmidt,male,1967,NA,West,SH,ISCED 4,100,Soldatin,no class,21. WP,kleinschmidt-kurt.de,1
+432,"Kleinwächter, Norbert",Kleinwächter,male,1986,NA,Ost,BB,ISCED 6,2320,Lehrerin,soziokulturelle (Semi-)Professionen,19. WP,http://www.norbert-kleinwaechter.de/,1
+433,"Klinck, Kristian",Klinck,male,1979,Dr.,West,SH,ISCED 8,2443,Politikwisssenschaftlerin / Studienrat,soziokulturelle (Semi-)Professionen,20. WP,https://www.kristian-klinck.de/,1
+434,"Klingbeil, Lars",Klingbeil,male,1978,NA,West,NI,ISCED 7,2443,Politikwissenschaftler,soziokulturelle (Semi-)Professionen,15. WP,https://www.lars-klingbeil.de/,1
+435,"Klöckner, Julia",Klöckner,female,1972,NA,West,RP,ISCED 7,2451,Chefredakteurin,Managerinnen,15. WP,https://julia-kloeckner.de/,1
+436,"Klose, Annika",Klose,female,1992,NA,Ost,BE,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.annikaklose.de/,1
+437,"Kluckert, Daniela",Kluckert,female,1980,NA,Ost,BE,ISCED 7,2441,Diplom-Volkswirtin,Managerinnen,19. WP,https://www.daniela-kluckert.de/,1
+438,"Klüssendorf, Tim",Klüssendorf,male,1991,NA,West,SH,ISCED 7,2441,Volks-/Betriebswirtin,Managerinnen,20. WP,https://www.tim-kluessendorf.de/,1
+439,"Kneller, Maximilian",Kneller,male,1993,NA,West,NRW,ISCED 6,2419,Referent Politik,soziokulturelle (Semi-)Professionen,21. WP,https://maximiliankneller.de/,1
+440,"Knodel, Sieghard (seit 10.05.2025, vorher AfD)",Knodel,male,1961,NA,West,BW,ISCED 5,1319,Betriebswirtin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,NA,0
+441,"Knoerig, Axel",Knoerig,male,1967,NA,West,NI,ISCED 7,1234,Marketingfachmann,soziokulturelle (Semi-)Professionen,17. WP,https://www.axel-knoerig.de/,1
+442,"Kober, Pascal",Kober,male,1971,NA,West,BW,ISCED 6,2460,Militärseelsorgerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.pascal-kober.net/,1
+443,"Kocak, Ferat",Kocak,male,1979,NA,Ost,BE,ISCED 7,2441,Diplom-Volkswirtin,soziokulturelle (Semi-)Professionen,21. WP,https://teamferat.de/,1
+444,"Koch, Heinrich Friedrich",Koch,male,1962,NA,West,BW,ISCED 7,2147,Dipl.-Ingenieur,technische Professionen,21. WP,https://heinrich-koch-afd.de/,1
+445,"Koegel, Jürgen",Koegel,male,1958,NA,West,BW,ISCED 7,2419,Diplom-Bankbetriebswirt,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+446,"Koeppen, Jens",Koeppen,male,1962,NA,Ost,BB,ISCED 5,3113,Elektromeisterin,Produktionsarbeiterinnen,16. WP,https://jens-koeppen.de/,1
+447,"Kofler, Bärbel",Kofler,female,1967,Dr.,West,BY,ISCED 8,2444,Sprachlehrerin,soziokulturelle (Semi-)Professionen,15. WP,https://baerbel-kofler.de/,1
+448,"Köhler, Achim",A. Köhler,male,1964,NA,West,BW,ISCED 4,4190,Angestellter ö. D.,Büroangestellte,21. WP,https://achim-koehler-afd.de/,1
+449,"Köhler, Lukas",L. Köhler,male,1986,Dr.,West,BY,ISCED 8,2443,Philosophin,soziokulturelle (Semi-)Professionen,20. WP,https://www.lukaskoehler.de/,1
+450,"Köktürk, Cansin",Köktürk,female,1993,NA,West,NRW,ISCED 7,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,21. WP,https://cansinkoektuerk.de/,1
+451,"Kölbl, Daniel",Kölbl,male,1993,NA,West,SH,ISCED 7,4212,Bankkauffrau,soziokulturelle (Semi-)Professionen,21. WP,https://www.daniel-koelbl.de/,1
+452,"Koller, Johann",Koller,male,1971,NA,West,BY,ISCED 5,1225,Land- und Gastwirt,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,https://www.hans-koller.de/,1
+453,"Komning, Enrico",Komning,male,1968,NA,Ost,MV,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,http://www.enrico-komning.de/,1
+454,"König, Anne",A. König,female,1984,NA,West,NRW,ISCED 7,2320,Gesamtschuldirektorin,soziokulturelle (Semi-)Professionen,20. WP,https://www.annekoenig.de/,1
+455,"König, Jörn",J. König,male,1967,NA,West,NI,ISCED 7,2149,Ingenieurin,technische Professionen,19. WP,http://www.koenig-bundestag.de/,1
+456,"Konrad, Carina",Konrad,female,1982,NA,West,RP,ISCED 6,2213,Agaringenieurin,technische Professionen,19. WP,https://www.carinakonrad.de/,1
+457,"Koob, Markus",Koob,male,1977,NA,West,HE,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.markus-koob.de/,1
+458,"Kopf, Chantal",Kopf,female,1995,NA,West,BW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://chantal-kopf.de/,1
+459,"Korbach, Stefan",Korbach,male,1958,Dr.,West,HE,ISCED 8,1231,Dipl.-Kaufmann,Managerinnen,21. WP,https://www.stefan-korbach.de/,1
+460,"Körber, Carsten",Körber,male,1979,NA,Ost,SN,ISCED 7,2419,Betriebswirtin,Managerinnen,18. WP,https://www.carsten-koerber.de/,1
+461,"Korell, Thomas",Korell,male,1983,NA,Ost,ST,ISCED 4,7131,Dachdecker,Produktionsarbeiterinnen,21. WP,NA,0
+462,"Körner, Konrad",Körner,male,1992,Dr.,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://konrad-koerner.de/,1
+463,"Korte, Jan",Korte,male,1977,NA,Ost,ST,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,15. WP,https://www.jankorte.de/,1
+464,"Koß, Simona",Koß,female,1961,NA,Ost,BB,ISCED 7,2310,Schulrätin,soziokulturelle (Semi-)Professionen,20. WP,https://www.simona-koss.de/,1
+465,"Köstering, Jan Tobias",Köstering,male,1997,NA,West,NRW,ISCED 4,7231,Kfz-Mechatronikerin,Produktionsarbeiterinnen,21. WP,https://www.jan-koestering.de/politik/aktuell/,1
+466,"Kotré, Steffen",Kotré,male,1971,NA,Ost,BB,ISCED 7,2149,Ingenieurin,Managerinnen,19. WP,https://steffenkotre.de/,1
+467,"Kraft, Laura",L. Kraft,female,1990,NA,West,NRW,ISCED 7,2444,Literaturwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://laurakraft.de/,1
+468,"Kraft, Rainer",R. Kraft,male,1974,Dr.,West,BY,ISCED 8,2113,Chemikerin,technische Professionen,19. WP,http://www.rainer-kraft-mdb.de/,1
+469,"Krah, Maximilian Eugen",Krah,male,1977,Dr.,Ost,SN,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,maximilian-krah.eu,1
+470,"Krämer, Philip",Krämer,male,1992,NA,West,HE,ISCED 4,2470,Referent für MdL,soziokulturelle (Semi-)Professionen,20. WP,https://www.philip-kraemer.de/,1
+471,"Kramme, Anette",Kramme,female,1967,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,14. WP,https://www.anette-kramme.de/,1
+472,"Krauthausen, Manuel Johannes",Krauthausen,male,1992,NA,West,NRW,ISCED 4,7143,Schornsteigerfeger,Produktionsarbeiterinnen,21. WP,https://manuelkrauthausen.de/,1
+473,"Kreiser, Dunja",Kreiser,female,1971,NA,West,NI,ISCED 5,3152,Abwassermeisterin,technische Professionen,20. WP,https://www.dunja-kreiser.de/,1
+474,"Kretz, Jürgen",Kretz,male,1982,NA,West,BW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://juergen-kretz.de/,1
+475,"Krichbaum, Gunther",Krichbaum,male,1964,NA,West,BW,ISCED 7,2429,Wirtschaftsjuristin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,15. WP,https://www.gunther-krichbaum.de/,1
+476,"Krieger, Lukas Albrecht",Krieger,male,1987,NA,Ost,BE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://www.lukas-krieger.de/,1
+477,"Krings, Günther",Krings,male,1969,Dr.,West,NRW,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,15. WP,https://www.guenter-krings.de/,1
+478,"Krischer, Oliver",Krischer,male,1969,NA,West,NRW,ISCED 3,2470,wisschenschaftlicher Mitarbeiter,Dienstleistungsarbeiterinnen,17. WP,NA,0
+479,"Kröber, Martin",Kröber,male,1992,NA,Ost,ST,ISCED 6,1142,Geschäftsstellenleiterin,Managerinnen,20. WP,https://martin-kroeber.de/,1
+480,"Krumwiede-Steiner, Franziska",Krumwiede-Steiner,female,1985,Dr.,West,NRW,ISCED 8,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://krumwiede-steiner.de/,1
+481,"Kruse, Michael",Kruse,male,1983,NA,West,HH,ISCED 7,1319,Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),20. WP,https://www.kruse.hamburg/,1
+482,"Kuban, Tilman",Kuban,male,1987,NA,West,NI,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://www.tilmankuban.de/,1
+483,"Kubicki, Wolfgang",Kubicki,male,1952,NA,West,SH,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,12. WP,https://wkubicki.abgeordnete.fdpbt.de/,1
+484,"Kuhle, Konstantin",Kuhle,lgbtqi,1989,NA,West,NI,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.konstantinkuhle.de/,1
+485,"Kühn, Christian (ausgeschieden, 31.01.2024)",Kühn,male,1979,NA,West,BW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,NA,0
+486,"Kühnert, Kevin",Kühnert,lgbtqi,1989,NA,Ost,BE,ISCED 3,4190,Angestellte,Managerinnen,20. WP,https://kevin-kuehnert.berlin/,1
+487,"Künast, Renate",Künast,female,1955,NA,Ost,BE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,15. WP,https://www.renate-kuenast.de/,1
+488,"Kurth, Markus",Kurth,male,1966,NA,West,NRW,ISCED 7,2443,Politikwisseschaftlerin,soziokulturelle (Semi-)Professionen,15. WP,www.markus-kurth.de,1
+489,"Rathert, Anna Leonore Labitzke",Rathert,female,1977,Dr.,West,NRW,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,annarathert.de,1
+490,"Ladzinski, Thomas Max",Ladzinski,male,1989,NA,Ost,SN,ISCED 7,2145,Dipl.-Ingenieur Maschinenbau,technische Professionen,21. WP,thomas-ladzinski.de,1
+491,"Lahrkamp, Sarah",Lahrkamp,female,1981,NA,West,NRW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.sarah-lahrkamp.de/,1
+492,"Lambsdorff, Alexander Graf (ausgeschieden)",Lambsdorff,male,1966,NA,West,NRW,ISCED 7,1110,Diplomatin,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+493,"Lamely, Pierre",Lamely,male,1981,NA,West,HE,ISCED 4,8283,Heizungs- und Lüftungsmonteur,Dienstleistungsarbeiterinnen,21. WP,https://pierre-lamely.de/,1
+494,"Lang, Ricarda",Lang,lgbtqi,1994,NA,West,BW,ISCED 3,1110,Politikerin,Managerinnen,20. WP,https://ricarda-lang.de/ueber-mich/,1
+495,"Lange, Ulrich",Lange,male,1969,NA,West,BY,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,17. WP,https://www.ulrich-lange.info/,1
+496,"Larem, Andreas",Larem,male,1964,NA,West,HE,ISCED 4,1110,Bürgermeister,technische Professionen,20. WP,https://andreas-larem.de/,1
+497,"Laschet, Armin",Laschet,male,1961,NA,West,NRW,ISCED 6,1110,Ministerpräsidentin a.D,soziokulturelle (Semi-)Professionen,13. WP,https://armin-laschet.de/,1
+498,"Latendorf, Ina",Latendorf,female,1971,NA,Ost,MV,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.ina-latendorf.de/politik/neuigkeiten/,1
+499,"Launert, Silke",Launert,female,1976,Dr.,West,BY,ISCED 8,2422,Richterin,soziokulturelle (Semi-)Professionen,18. WP,https://silkelaunert.de/,1
+500,"Lauterbach, Karl",Lauterbach,male,1963,Prof. Dr.,West,NRW,ISCED 8,2310,Universitätsprofessorin,soziokulturelle (Semi-)Professionen,16. WP,https://www.karllauterbach.de/,1
+501,"Lay, Caren",Lay,female,1972,NA,Ost,SN,ISCED 7,2442,Soziologin,soziokulturelle (Semi-)Professionen,17. WP,https://www.caren-lay.de/,1
+502,"Lechte, Ulrich",Lechte,male,1977,NA,West,BY,ISCED 6,2419,Betriebswirtin (VWA),Managerinnen,19. WP,https://www.ulrich-lechte.de/,1
+503,"Lehmann, Jens",J. Lehmann,male,1967,NA,Ost,SN,ISCED 4,3320,Erzieherin,soziokulturelle (Semi-)Professionen,19. WP,https://www.jenslehmannleipzig.de/,1
+504,"Lehmann, Sven",S. Lehmann,lgbtqi,1979,NA,West,NRW,ISCED 7,2470,Angestellte ö. D.,soziokulturelle (Semi-)Professionen,19. WP,https://www.sven-lehmann.eu/,1
+505,"Lehmann, Sylvia",Sy. Lehmann,female,1954,NA,Ost,BB,ISCED 4,2149,Ingenieurökonomin,Managerinnen,19. WP,https://sylvia-lehmann.de/,1
+506,"Lehrieder, Paul",Lehrieder,male,1959,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,16. WP,https://www.paul-lehrieder.de/,1
+507,"Leikert, Katja",Leikert,female,1975,Dr.,West,HE,ISCED 8,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://katja-leikert.com/,1
+508,"Leiser, Kevin",Leiser,male,1993,NA,West,BW,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.kevin-leiser.de/,1
+509,"Lemke, Sonja Janet",S. J. Lemke,female,1991,NA,West,NRW,ISCED 7,2139,Informatikerin,technische Professionen,21. WP,NA,0
+510,"Lemke, Steffi",S. Lemke,female,1968,NA,Ost,ST,ISCED 7,2213,Agraringenieurin,technische Professionen,18. WP,https://steffi-lemke.com/,1
+511,"Lenders, Jürgen",Lenders,lgbtqi,1966,NA,West,HE,ISCED 4,1319,Geschäftsführende Gesellschafterin,Büroangestellte,20. WP,https://jlenders.abgeordnete.fdpbt.de/,1
+512,"Lenhard, Rebecca",Lenhard,female,1995,NA,West,BY,ISCED 6,2419,selbstständige IT-Beraterin,technische Professionen,21. WP,https://rebecca-lenhard.de/,1
+513,"Lenkert, Ralph",Lenkert,male,1967,NA,Ost,TH,ISCED 4,3115,Maschinenbautechnikerin,technische Professionen,18. WP,https://www.ralph-lenkert.de/aktuell/,1
+514,"Lensing, Sascha",Lensing,male,1973,NA,West,NRW,ISCED 5,3450,Polizeibeamter,Dienstleistungsarbeiterinnen,21. WP,https://sascha-lensing.de/,1
+515,"Lenz, Andreas",Lenz,male,1981,Dr.,West,BY,ISCED 8,2419,Betriebswirtin,Managerinnen,18. WP,https://www.andreas-lenz.info/,1
+516,"Leye, Christian",Leye,male,1981,NA,West,NRW,ISCED 7,4222,Wahlkreismitarbeiterin,soziokulturelle (Semi-)Professionen,20. WP,https://christian-leye.de/,1
+517,"Licina-Bode, Luiza",Licina-Bode,male,1972,NA,West,NRW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.luizalicinabode.de/,1
+518,"Lieb, Thorsten",Lieb,male,1973,Dr.,West,HE,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://www.thorsten-lieb.de/,1
+519,"Liebert, Anja",Liebert,female,1969,NA,West,NRW,ISCED 7,3431,Verwaltungsangestellte,Büroangestellte,20. WP,https://anjaliebert.de/,1
+520,"Limbacher, Esra",Limbacher,female,1989,NA,West,SL,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://esra-limbacher.de/,1
+521,"Limburg, Helge",Limburg,female,1982,NA,West,NI,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,20. WP,https://helge-limburg.de/,1
+522,"Lindemann, Lars (ausgeschieden)",Lindemann,male,1971,NA,Ost,BE,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,NA,0
+523,"Lindh, Helge",Lindh,male,1976,NA,West,NRW,ISCED 7,2470,wissenschaftliche Mitarbeiterin,Managerinnen,19. WP,https://www.helge-lindh.de/,1
+524,"Lindholz, Andrea",Lindholz,female,1970,NA,West,BY,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,18. WP,https://www.lindholz.de/,1
+525,"Lindner, Christian",C. Lindner,male,1979,NA,West,NRW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,17. WP,https://www.christian-lindner.de/,1
+526,"Lindner, Tobias",T. Lindner,male,1982,Dr.,West,RP,ISCED 8,2441,Wirtschaftswissenschaftlerin,soziokulturelle (Semi-)Professionen,17. WP,https://tobias-lindner.de/,1
+527,"Link, Michael Georg",Link,male,1963,NA,West,BW,ISCED 6,2444,Übersetzerin,soziokulturelle (Semi-)Professionen,16. WP,https://www.michael-georg-link.de/,1
+528,"Linnemann, Carsten",Linnemann,male,1977,Dr.,West,NRW,ISCED 8,2441,Volkswirtin,Managerinnen,17. WP,https://carsten-linnemann.de/,1
+529,"Lips, Patricia",Lips,female,1963,NA,West,HE,ISCED 4,1224,Handelsfachwirtin,Managerinnen,15. WP,https://patricia-lips.de/,1
+530,"Loop, Denise",Loop,female,1994,NA,West,SH,ISCED 6,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,20. WP,https://denise-loop.de/,1
+531,"Loos, Bernhard",Loos,male,1955,NA,West,BY,ISCED 7,1319,Unternehmerin,Managerinnen,19. WP,https://bernhard-loos.de/,1
+532,"Lötzsch, Gesine",Lötzsch,female,1961,Dr.,Ost,BE,ISCED 8,2444,Philologin,soziokulturelle (Semi-)Professionen,16. WP,https://www.gesine-loetzsch.de/willkommen/aktuelles-1/,1
+533,"Lucassen, Rüdiger",Lucassen,male,1951,NA,West,NRW,ISCED 7,1319,Geschäftsführerin,Managerinnen,19. WP,https://www.ruediger-lucassen.de/,1
+534,"Lucks, Max",Lucks,lgbtqi,1997,NA,West,NRW,ISCED 6,2442,Sozialwissenschaftlerin,Büroangestellte,20. WP,https://maxlucks.de/,1
+535,"Luczak, Jan-Marco",Luczak,male,1975,Dr.,Ost,BE,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://www.luczak-berlin.de/,1
+536,"Ludwig, Daniela",D. Ludwig,female,1975,NA,West,BY,ISCED 6,2429,Juristin,soziokulturelle (Semi-)Professionen,15. WP,https://www.daniela-ludwig.de/,1
+537,"Ludwig, Saskia",S. Ludwig,female,1968,Dr.,Ost,BB,ISCED 7,1110,Diplomkauffrau,Managerinnen,19. WP,https://saskia-ludwig.de/,1
+538,"Lugk, Bettina",Lugk,female,1982,NA,West,NRW,ISCED 6,2114,Geowissenschaftlerin,Managerinnen,20. WP,https://www.bettina-lugk.de/,1
+539,"Lührmann, Anna",Lührmann,female,1983,Dr.,West,HE,ISCED 8,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://anna-luehrmann.de/,1
+540,"Luksic, Oliver",Luksic,male,1979,NA,West,SL,ISCED 7,2419,Unternehmensberaterin,Managerinnen,19. WP,https://oliver-luksic.de/,1
+541,"Lütke, Kristine",Lütke,female,1982,NA,West,BY,ISCED 7,1318,Pflegeunternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),20. WP,https://www.kristine-luetke.de/,1
+542,"Lutze, Thomas",Lutze,male,1969,NA,West,SL,ISCED 7,4190,Bürokauffrau,Managerinnen,20. WP,https://www.thomas-lutze.de/,1
+543,"Maack, Sebastian",Maack,male,1969,NA,Ost,BE,ISCED 7,2149,Diplom-Wirtschaftsingenieur,technische Professionen,21. WP,maack.berlin,1
+544,"Maas, Heiko (ausgeschieden)",Maas,male,1966,NA,West,SL,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+545,"Machalet, Tanja",Machalet,female,1974,Dr.,West,RP,ISCED 7,1110,Politikerin; Diplom-Volkswirtin,Managerinnen,20. WP,https://www.tanja-machalet.de/,1
+546,"Mack, Klaus",Mack,male,1973,NA,West,BW,ISCED 6,1110,Buchhändlerin,Managerinnen,20. WP,https://www.klausmack.de/,1
+547,"Mackensen-Geis, Isabel",Mackensen-Geis,female,1986,NA,West,RP,ISCED 7,2470,Fachreferentin Landtagsfraktion,Managerinnen,19. WP,https://isabel-mackensen.de/,1
+548,"Magwas, Yvonne",Magwas,female,1979,NA,Ost,SN,ISCED 7,2442,Soziologin,soziokulturelle (Semi-)Professionen,18. WP,https://www.magwas.de/,1
+549,"von Malotti, Erik",von Malotti,male,1986,NA,Ost,MV,ISCED 7,1142,Gewerkschafterin,Managerinnen,20. WP,https://www.erikvonmalottki.de/,1
+550,"Mann, Holger",Mann,male,1979,NA,Ost,SN,ISCED 7,2443,Politikwissenschaftlerin,Managerinnen,20. WP,https://holger-mann.de/,1
+551,"Mannes, Astrid",Mannes,female,1967,Dr.,West,HE,ISCED 8,2443,Historikerin,soziokulturelle (Semi-)Professionen,19. WP,https://www.astrid-mannes.de/,1
+552,"Mansmann, Till",Mansmann,male,1968,NA,West,HE,ISCED 7,2451,Redakteurin,soziokulturelle (Semi-)Professionen,20. WP,https://tmansmann.abgeordnete.fdpbt.de/,1
+553,"Mansoori, Kaweh (ausgeschieden)",Mansoori,male,1988,NA,West,HE,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,NA,0
+554,"Martel, Johann",Martel,male,1979,NA,West,BW,ISCED 5,3119,Technischer Fachwirt,technische Professionen,21. WP,https://johann-martel.de/,1
+555,"Martens, Zanda",Martens,female,1984,Dr.,West,NRW,ISCED 8,1142,Gewerkschaftsführerin,Managerinnen,20. WP,https://zanda-martens.spd.de/,1
+556,"Martin, Dorothee",Martin,female,1978,NA,West,HH,ISCED 7,2443,Politikwissenschaftlerin,Managerinnen,19. WP,https://www.dorotheemartin.de/,1
+557,"Marvi, Parsa",Marvi,male,1982,NA,West,BW,ISCED 6,2419,Produktmanagerin Breitband,Managerinnen,20. WP,https://parsa-marvi.de/,1
+558,"Mascheck, Franziska",Mascheck,female,1979,NA,Ost,SN,ISCED 7,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,20. WP,https://franziska-mascheck.de/,1
+559,"Mast, Katja",Mast,female,1971,NA,West,BW,ISCED 6,2419,Referentin für Personalstrategie,Managerinnen,16. WP,http://www.katja-mast.de/,1
+560,"Mattfeldt, Andreas",Mattfeldt,male,1969,NA,West,NI,ISCED 4,1319,Industriekauffrau,Managerinnen,17. WP,https://www.andreas-mattfeldt.de/,1
+561,"Matzerath, Markus",Matzerath,male,1970,NA,West,NRW,ISCED 4,5162,Polizistin,Büroangestellte,21. WP,https://markusmatzerath.de/,1
+562,"Mayer, Andreas",A. Mayer,male,1995,NA,West,BY,ISCED 6,2149,Luft- und Raumfahrttechnikingenieur,technische Professionen,21. WP,NA,0
+563,"Mayer, Stephan",S. Mayer,male,1973,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,15. WP,https://www.mayer-stephan.de/,1
+564,"Mayer, Zoe",Z. Mayer,female,1995,Dr.,West,BW,ISCED 8,2149,Wirtschaftsingenieurin,technische Professionen,20. WP,https://zoe-mayer.de/,1
+565,"Mayer-Lay, Volker",Mayer-Lay,male,1981,NA,West,BW,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,20. WP,https://mayer-lay-bundestag.de/,1
+566,"Mazzi, Tamara Ursula Katharina",Mazzi,female,1992,NA,West,SH,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,21. WP,https://linke-kiel.de/tamara-mazzi/,1
+567,"Mehltretter, Andreas",Mehltretter,male,1991,NA,West,BY,ISCED 7,2441,Volkswirtin,Managerinnen,20. WP,https://www.andreas-mehltretter.de/,1
+568,"Mehmet Ali, Takis",Mehmet Ali,lgbtqi,1991,NA,West,BW,ISCED 7,1231,Verwaltungsleiterin,Managerinnen,20. WP,https://takis-mehmetali.de/,1
+569,"Meiners, Danny",Meiners,male,1979,NA,West,NI,ISCED 5,7214,Metallbaumeister,Produktionsarbeiterinnen,21. WP,NA,0
+570,"Meiser, Pascal (ausgeschieden)",Meiser,male,1975,NA,Ost,BE,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.pascal-meiser.de/,1
+571,"Meister, Michael",Meister,male,1961,Dr.,West,HE,ISCED 8,2121,Mathematikerin,technische Professionen,13. WP,https://www.meister-schafft.de/,1
+572,"Mende, Dirk-Ulrich",Mende,male,1957,NA,West,NI,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://dirk-ulrich-mende.de/,1
+573,"Menge, Susanne",Menge,female,1960,NA,West,NI,ISCED 7,2310,Studienrätin,soziokulturelle (Semi-)Professionen,20. WP,https://susanne-menge.de/?ltclid=f43ca42d-ebf6-46c8-b1c7-313fedf3f06b,1
+575,"Merendino, Ottavia Stella",Merendino,female,1994,NA,Ost,BE,ISCED 6,3231,Gesundheits- und Krankenpflegerin,Dienstleistungsarbeiterinnen,21. WP,https://stella-merendino.de/,1
+576,"Merz, Friedrich",Merz,male,1955,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,13. WP,https://www.friedrich-merz.de/,1
+577,"Mesarosch, Robin",Mesarosch,male,1991,NA,West,BW,ISCED 6,2419,Kommunikationsberaterin,Managerinnen,20. WP,https://robin-mesarosch.de/,1
+578,"Metzler, Jan",Metzler,male,1981,NA,West,RP,ISCED 6,1319,"Winzerin, Betriebswirtin",Managerinnen,18. WP,https://www.janmetzler.de/,1
+579,"Meyer, Christoph",Meyer,male,1975,NA,Ost,BE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.christoph-meyer.berlin/,1
+580,"Meyer-Soltau, Knuth Hans-Peter",Meyer-Soltau,male,1965,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://meyer-soltau.de/,1
+581,"Miazga, Corinna (verstorben)",Miazga,female,1983,NA,West,BY,ISCED 3,4190,Angestellte,Dienstleistungsarbeiterinnen,19. WP,NA,0
+582,"Michaelsen, Swantje Henrike",Michaelsen,female,1979,NA,West,NI,ISCED 7,1143,Geschäftsstellenleiterin,Managerinnen,20. WP,https://www.swantje-michaelsen.de/,1
+583,"Michel, Kathrin",Michel,female,1963,NA,Ost,SN,ISCED 4,1232,Industriekauffrau,Managerinnen,20. WP,https://www.michel-kathrin.de/,1
+584,"Middelberg, Mathias",Middelberg,male,1964,Dr.,West,NI,ISCED 8,2429,Volljuristin,soziokulturelle (Semi-)Professionen,17. WP,https://www.mathias-middelberg.de/,1
+585,"Miersch, Matthias",Miersch,lgbtqi,1968,Dr.,West,NI,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,16. WP,https://www.matthias-miersch.de/,1
+586,"Mieves, Matthias",Mieves,lgbtqi,1985,NA,West,RP,ISCED 7,1318,Geschäftsführerin,Managerinnen,20. WP,https://www.matthiasmieves.de/,1
+587,"Mihalic, Irene",Mihalic,female,1976,Dr.,West,NRW,ISCED 8,3450,Polizeibeamtin,Dienstleistungsarbeiterinnen,18. WP,https://irene-mihalic.de/,1
+588,"Mijatovic, Boris",Mijatovic,male,1974,NA,West,HE,ISCED 7,2470,Angestellter,Büroangestellte,20. WP,https://www.boris-mijatovic.de/,1
+589,"Minich, Sergej",Minich,male,1978,NA,West,HB,ISCED 6,2149,Wirtschaftsingenieurin,technische Professionen,21. WP,NA,0
+590,"Mirow, Sahra",Mirow,female,1984,NA,West,BW,ISCED 7,2470,wissenschaftliche Mitarbeiterin,soziokulturelle (Semi-)Professionen,21. WP,https://dielinke-hd.de/kreisverband/direktkandidatinnen/sahra-mirow/,1
+591,"Mittag, Susanne",Mittag,female,1958,NA,West,NI,ISCED 4,5162,Polizistin,Büroangestellte,18. WP,https://www.susanne-mittag.info/,1
+592,"Mixl, Reinhard Willhelm",Mixl,male,1961,NA,West,BY,ISCED 6,2419,Dipl.-Betriebswirt (FH),soziokulturelle (Semi-)Professionen,21. WP,Reinhard Mixl Mitglied des Deutschen Bundestages,1
+593,"Mohamed Ali, Amira",Mohamed Ali,female,1980,NA,West,NI,ISCED 6,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.amira-mohamed-ali.de/category/aktuelles/,1
+594,"Möhring, Cornelia",Möhring,female,1960,NA,West,SH,ISCED 7,2441,Diplom-Sozialökonomin,Managerinnen,17. WP,https://www.cornelia-moehring.de/,1
+595,"Mohrs, Falko (ausgeschieden)",Mohrs,male,1984,NA,West,NI,ISCED 6,1239,Kauffrau,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+596,"Moll, Claudia",Moll,female,1968,NA,West,NRW,ISCED 4,3231,Altenpflegerin,soziokulturelle (Semi-)Professionen,19. WP,http://www.claudiamoll.de/,1
+597,"Möller, Siemtje",S. Möller,female,1983,NA,West,NI,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,19. WP,https://siemtje-moeller.de/,1
+598,"Möller, Stefan",St. Möller,male,1975,NA,Ost,TH,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+599,"Moncsek, Mike",Moncsek,male,1964,NA,Ost,SN,ISCED 4,7231,Kfz-Mechanikerin,Produktionsarbeiterinnen,20. WP,https://mikemoncsek.de/,1
+600,"Monstadt, Dietrich",Monstadt,male,1957,NA,Ost,MV,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,17. WP,https://www.dietrich-monstadt.de/,1
+601,"Moosdorf, Matthias",Moosdorf,male,1965,NA,Ost,SN,ISCED 7,2453,Musikerin,soziokulturelle (Semi-)Professionen,20. WP,http://www.moosdorf21.de/,1
+602,"Mordhorst, Maximilian",Mordhorst,male,1996,NA,West,SH,ISCED 3,999,Studentin,no class,20. WP,https://max-mordhorst.de/,1
+603,"Mörseburg, Maximilian",Mörseburg,male,1992,NA,West,BW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.maximilian-moerseburg.de/,1
+604,"Moser, Christian",Moser,male,1989,NA,West,BY,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,21. WP,https://www.moser-christian.de/,1
+605,"Müller, Alexander",Al. Müller,male,1969,NA,West,HE,ISCED 7,2139,Informatikerin,technische Professionen,19. WP,https://amueller.abgeordnete.fdpbt.de/,1
+606,"Müller, Axel",Ax. Müller,male,1963,NA,West,BW,ISCED 7,2422,Richterin,soziokulturelle (Semi-)Professionen,19. WP,https://www.cduaxelmueller.de/,1
+607,"Müller, Bettina",B. Müller,female,1959,NA,West,HE,ISCED 7,2421,Rechtsanwältin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),18. WP,http://www.muellerbettina.com/,1
+608,"Müller, Carsten",Ca. Müller,male,1970,NA,West,NI,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,16. WP,https://carsten-mueller.com/,1
+609,"Müller, Claudia",Cl. Müller,female,1981,NA,Ost,MV,ISCED 6,3414,Betriebswirtin,Managerinnen,19. WP,https://claudia-mueller.de/,1
+610,"Müller, Detlef",D. Müller,male,1964,NA,Ost,SN,ISCED 4,8311,Lokomotivführerin,Dienstleistungsarbeiterinnen,16. WP,https://www.spd-mueller.de/,1
+611,"Müller, Florian",F. Müller,male,1987,NA,West,NRW,ISCED 7,2419,Referentin für Strategie und Regulierung,soziokulturelle (Semi-)Professionen,20. WP,https://florian-mueller.de/,1
+612,"Müller, Michael",M. Müller,male,1964,NA,Ost,BE,ISCED 4,1110,Politikerin; Kauffrau,Managerinnen,20. WP,https://michael-mueller.de/,1
+613,"Müller, Sascha",Sa. Müller,male,1970,NA,West,BY,ISCED 3,2451,Sportjournalistin,soziokulturelle (Semi-)Professionen,20. WP,https://mueller-sascha.de/,1
+614,"Müller, Sepp",Se. Müller,lgbtqi,1989,NA,Ost,ST,ISCED 6,3433,Bankbetriebswirtin,Managerinnen,19. WP,https://www.xn--sepp-mller-feb.de/,1
+615,"Müller, Stefan (ausgeschieden)",St. Müller,male,1975,NA,West,BY,ISCED 4,4212,Bankkauffrau,Büroangestellte,15. WP,NA,0
+616,"Müller-Gemmeke, Beate",Müller-Gemmeke,female,1960,NA,West,BW,ISCED 6,2442,Sozialpädagogin,soziokulturelle (Semi-)Professionen,17. WP,https://www.mueller-gemmeke.de/,1
+617,"Müller-Rosentritt, Frank",Müller-Rosentritt,male,1982,NA,Ost,SN,ISCED 6,1319,Betriebswirtin,Büroangestellte,19. WP,https://fmueller-rosentritt.abgeordnete.fdpbt.de/,1
+618,"Müntefering, Michelle",Müntefering,female,1980,NA,West,NRW,ISCED 6,2451,Journalistin,soziokulturelle (Semi-)Professionen,18. WP,https://www.michelle-muentefering.de/,1
+619,"Münz, Volker",Münz,male,1964,NA,West,BW,ISCED 7,1319,Verlagsinhaberin,Managerinnen,19. WP,NA,0
+620,"Münzenmaier, Sebastian",Münzenmaier,male,1989,NA,West,RP,ISCED 3,3412,Versicherung- und Finanzanlagenfachfrau,Managerinnen,19. WP,http://www.sebastian-muenzenmaier.de/,1
+621,"Mützenich, Rolf",Mützenich,male,1959,Dr.,West,NRW,ISCED 8,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,15. WP,https://www.rolfmuetzenich.de/,1
+622,"Nacke, Stefan",Nacke,male,1976,Dr.,West,NRW,ISCED 8,2442,"Soziologin, Sozialethikerin",soziokulturelle (Semi-)Professionen,20. WP,https://stefan-nacke.nrw/,1
+623,"Nanni, Sara",Nanni,female,1987,NA,West,NRW,ISCED 7,1110,MdB,soziokulturelle (Semi-)Professionen,20. WP,https://sara-nanni.de/,1
+624,"Nasr, Rasha",Nasr,female,1992,NA,Ost,SN,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://rasha-nasr.spd.de/,1
+625,"Nastic, Zaklin",Nastic,female,1980,NA,West,HH,ISCED 3,5133,Angehörigenpflegerin,Dienstleistungsarbeiterinnen,19. WP,https://zaklinnastic.de/,1
+626,"Naujok, Edgar",Naujok,male,1960,NA,Ost,SN,ISCED 4,1317,selbstständig,Managerinnen,20. WP,NA,0
+627,"Nestle, Ingrid",Nestle,female,1977,Dr.,West,SH,ISCED 8,2149,Wirtschaftsingenieurin,technische Professionen,19. WP,https://www.ingrid-nestle.de/,1
+628,"Neuhäuser, Charlotte Antonia",Neuhäuser,female,1998,NA,West,NRW,ISCED 6,999,Studentin,no class,21. WP,https://www.charlotte-neuhaeuser.de/politik/aktuell/,1
+629,"Nick, Ophelia",Nick,female,1973,Dr.,West,NRW,ISCED 8,2223,Tierärztin,soziokulturelle (Semi-)Professionen,20. WP,https://ophelia-nick.de/,1
+630,"Nickholz, Brian",Nickholz,male,1989,NA,West,NRW,ISCED 4,1141,Industriekauffrau,Managerinnen,20. WP,https://www.brian-nickholz.de/,1
+631,"Nicolaisen, Petra",Nicolaisen,female,1965,NA,West,SH,ISCED 4,3433,Industriekauffrau,Managerinnen,19. WP,https://petra-nicolaisen.de/,1
+632,"Nieland, Iris",Nieland,female,1960,NA,West,RP,ISCED 4,4212,Bankkauffrau,soziokulturelle (Semi-)Professionen,21. WP,https://iris-nieland.de/,1
+633,"Nietan, Dietmar",Nietan,male,1964,NA,West,NRW,ISCED 3,4190,Angestellter,Büroangestellte,14. WP,https://www.dietmar-nietan.de/,1
+634,"Nolte, Jan-Ralf",Nolte,male,1988,NA,West,HE,ISCED 4,100,Soldatin,no class,19. WP,https://www.jan-nolte.de/,1
+635,"Notz, Konstantin von",Notz,male,1971,Dr.,West,SH,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://von-notz.de/,1
+636,"Nouripour, Omid",Nouripour,male,1975,NA,West,HE,ISCED 3,2419,Selbstständiger Berater,Managerinnen,16. WP,https://www.nouripour.com/,1
+637,"Nürnberger, Jörg",Nürnberger,male,1967,NA,West,BY,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://joerg-nuernberger.de/,1
+638,"Oehl, Lennard",Oehl,male,1993,NA,West,HE,ISCED 7,2441,Volkswirtin,Managerinnen,20. WP,https://www.lennard-oehl.de/,1
+639,"Oellers, Wilfried",Oellers,male,1975,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://www.wilfried-oellers.de/,1
+640,"Oest, Florian",Oest,male,1987,NA,Ost,SN,ISCED 7,2470,Betriebswirtin,soziokulturelle (Semi-)Professionen,21. WP,florianoest.de,1
+641,"Oppelt, Moritz",Oppelt,male,1989,NA,West,BW,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,20. WP,https://moritz-oppelt.de/,1
+642,"Orthey, Harald Stefan",Orthey,male,1968,NA,West,RP,ISCED 5,1141,CDU-Geschäftsführer,Managerinnen,21. WP,https://www.harald-orthey.de/,1
+643,"Ortleb, Josephine",Ortleb,female,1986,NA,West,SL,ISCED 5,2470,Fachwirtin,Büroangestellte,19. WP,https://www.josephine-ortleb.de/,1
+644,"Oßner, Florian",Oßner,male,1980,NA,West,BY,ISCED 7,2441,Volkswirtin,Managerinnen,18. WP,https://www.florian-ossner.de/startseite.html,1
+645,"Oster, Josef",Oster,male,1971,NA,West,RP,ISCED 6,2470,Verwaltungswirtin,Managerinnen,19. WP,https://www.josef-oster.de/,1
+646,"Otte, Henning",H. Otte,male,1968,NA,West,NI,ISCED 6,2429,"Juristin, Prokuristin",soziokulturelle (Semi-)Professionen,15. WP,https://www.henning-otte.de/,1
+647,"Otte, Karoline",K. Otte,female,1996,NA,West,NI,ISCED 6,2470,Verwaltungsinspektorin,technische Professionen,20. WP,https://karolineotte.wordpress.com/,1
+648,"Otten, Gerold",Otten,male,1955,NA,West,BY,ISCED 7,100,Soldatin,no class,19. WP,https://mdb-otten.de/,1
+649,"Özdemir, Cansu",Ca.Özdemir,female,1988,NA,West,HH,ISCED 3,1110,MdHB (Abgeordnete Hamburg),Managerinnen,21. WP,NA,0
+650,"Özdemir, Cem",Ce. Özdemir,male,1965,NA,West,BW,ISCED 6,2442,Sozialpädagogin,soziokulturelle (Semi-)Professionen,18. WP,https://www.oezdemir.de/,1
+651,"Özdemir, Mahmut",M. Özdemir,male,1987,NA,West,NRW,ISCED 6,2429,Rechtsreferendar,soziokulturelle (Semi-)Professionen,18. WP,https://www.oezdemir-fuer-duisburg.de/,1
+652,"Özogüz, Aydan",Özogüz,female,1967,NA,West,HH,ISCED 7,2444,Philologin,soziokulturelle (Semi-)Professionen,17. WP,https://www.oezoguz.de/,1
+653,"Pahlke, Julian",Pahlke,male,1991,NA,West,NI,ISCED 7,2419,Referentin für Öffentlichkeitsarbeit,Managerinnen,20. WP,https://julianpahlke.de/,1
+654,"Pahlmann, Ingrid",Pahlmann,female,1957,NA,West,NI,ISCED 5,5121,Hauswirtschaftsleiterin,Dienstleistungsarbeiterinnen,18. WP,NA,0
+655,"Pantazis, Christos",Pantazis,male,1975,Dr.,West,NI,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,20. WP,https://www.christos-pantazis.de/,1
+656,"Pantisano, Luigi",Pantisano,male,1979,NA,West,BW,ISCED 7,2141,Stadtplaner,technische Professionen,21. WP,https://www.kv-stuttgart.die-linke-bw.de/gemeinderat-region-bundestag/wir-im-bundestag/,1
+657,"Papenbrock, Wiebke",Papenbrock,female,1979,NA,Ost,BB,ISCED 7,2419,Referentin; Mitarbeiterin im Presse- und Infromationszentrum,Managerinnen,20. WP,https://www.wiebke-papenbrock.de/,1
+658,"Papendieck, Mathias",Papendieck,male,1982,NA,Ost,BB,ISCED 4,2139,Informatikerin,technische Professionen,20. WP,https://mathias-papendieck.de/,1
+659,"Pau, Petra",Pau,female,1963,NA,Ost,BE,ISCED 6,2320,Lehrerin,soziokulturelle (Semi-)Professionen,14. WP,https://petra-pau.eu/,1
+660,"Paul, Andreas",Paul,male,1978,NA,West,NI,ISCED 4,100,Soldatin,no class,21. WP,https://andreaspaulafd.de/,1
+661,"Pauli, Denis",Pauli,male,1978,NA,West,NRW,ISCED 6,2142,Bauingenieurin,technische Professionen,21. WP,NA,0
+662,"Pauls, Thomas",Pauls,male,1986,Dr.,West,HE,ISCED 8,2441,Wirtschaftswissenschaftlerin,soziokulturelle (Semi-)Professionen,21. WP,https://www.thomas-pauls.de/,1
+663,"Paus, Lisa",Paus,female,1968,NA,Ost,BE,ISCED 7,2441,Diplom-Volkswirtin,Managerinnen,17. WP,https://lisa-paus.de/,1
+664,"Pawlik, Nathalie",Pawlik,female,1992,NA,West,HE,ISCED 7,2443,Geschichts- und Kulturwissenschaftlerin,Managerinnen,20. WP,https://natalie-pawlik.spd.de/,1
+665,"Peick, Jens",Peick,male,1981,NA,West,NRW,ISCED 6,2470,Verwaltungswirtin,Managerinnen,20. WP,https://www.jenspeick.de/,1
+666,"Pellmann, Sören",Pellmann,male,1977,NA,Ost,SN,ISCED 7,2331,Grund- / Förderschullehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.soeren-pellmann.de/home/home/,1
+667,"Perli, Victor",Perli,male,1982,NA,West,NI,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://perli.de/,1
+668,"Peterka, Tobias Matthias",Peterka,male,1982,NA,West,BY,ISCED 6,2429,Juristin,soziokulturelle (Semi-)Professionen,19. WP,https://tobias-matthias-peterka.de/,1
+669,"Petry, Christian",Petry,male,1965,NA,West,SL,ISCED 7,2470,Verwaltungswirtin,Managerinnen,18. WP,https://www.christianpetry.de/,1
+670,"Philippi, Andreas (ausgeschieden)",Phillippi,male,1965,Dr.,West,NI,ISCED 8,2221,Fachärztin für Chirurgie,soziokulturelle (Semi-)Professionen,20. WP,NA,0
+671,"Piechotta, Paula",Piechotta,female,1986,Dr. med.,Ost,SN,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,20. WP,https://paulapiechotta.de/,1
+672,"Pilsinger, Stephan",Pilsinger,male,1987,Dr. med.,West,BY,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,19. WP,https://stephan-pilsinger.de/,1
+673,"Pistorius, Boris Ludwig",Pistorius,male,1960,NA,West,NI,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,21. WP,Boris Pistorius – Ihr Abgeordneter für den Süden Hannovers,1
+674,"Plobner, Jan",Plobner,lgbtqi,1992,NA,West,BY,ISCED 6,3431,Standesbeamte,Managerinnen,20. WP,http://www.janplobner.de/,1
+675,"Ploß, Christoph",Ploß,male,1985,Dr.,West,HH,ISCED 8,2443,Historikerin,soziokulturelle (Semi-)Professionen,19. WP,https://www.christoph-ploss.de/,1
+676,"Plum, Martin",Plum,male,1982,Dr.,West,NRW,ISCED 8,2422,Richterin,soziokulturelle (Semi-)Professionen,20. WP,https://martin-plum.de/,1
+677,"Pohl, Jürgen",Pohl,male,1964,NA,Ost,TH,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,19. WP,https://afdbundestag.de/abgeordnete/juergen-pohl/,1
+678,"Pohlmann, Jan-Wilhelm",Pohlmann,male,1986,NA,West,HE,ISCED 6,1229,Teamleiter Jobcenter,Managerinnen,21. WP,Jan-Wilhelm Pohlmann,1
+679,"Polat, Filiz",Polat,female,1978,NA,West,NI,ISCED 7,2441,Diplom-Volkswirtin,Managerinnen,19. WP,https://www.filiz-polat.de/,1
+680,"Pöpsel, Oliver",Pöpsel,male,1973,NA,West,NRW,ISCED 5,1232,Versicherungsbezirksdirektor,Managerinnen,21. WP,https://www.oliverpoepsel.de/,1
+681,"Poschmann, Sabine",Poschmann,female,1968,NA,West,NRW,ISCED 6,1229,Betriebswirtin,Managerinnen,18. WP,https://www.sabine-poschmann.de/,1
+682,"Post, Achim",Post,male,1959,NA,West,NRW,ISCED 7,2442,Soziologin,soziokulturelle (Semi-)Professionen,18. WP,https://www.achim-post.de/,1
+683,"Preisendanz, David Sebastian",Preisendanz,male,1984,Dr.,West,BW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://www.david-preisendanz.de/,1
+684,"Protschka, Stephan",Protschka,male,1977,NA,West,BY,ISCED 4,3412,selbstständig,Managerinnen,19. WP,https://www.stephan-protschka.de/,1
+685,"Przygodda, Kerstin",Przygodda,female,1962,NA,West,SH,ISCED 5,4190,Angestellte,Managerinnen,21. WP,NA,0
+686,"Queckenmeyer, Marcel",Queckenmeyer,male,1980,NA,West,NI,ISCED 4,1233,Vertriebleiterin,Managerinnen,21. WP,https://www.marcel-queckemeyer.de/,1
+687,"Rabanus, Martin",Rabanus,male,1971,NA,West,HE,ISCED 7,1110,Ministrialrat,Managerinnen,18. WP,http://www.martin-rabanus.de/,1
+688,"Rachel, Thomas",Rachel,male,1962,NA,West,NRW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,13. WP,https://www.thomas-rachel.de/,1
+689,"Radomski, Kerstin",Radomski,female,1974,NA,West,NRW,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.kerstinradomski.net/,1
+690,"Radwan, Alexander",Radwan,male,1964,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://www.alexander-radwan.de/,1
+691,"Raffelhüschen, Claudia",Raffelhüschen,female,1968,NA,West,BW,ISCED 6,2359,Lehrbeauftragte für Sozialpolitik,soziokulturelle (Semi-)Professionen,20. WP,https://www.claudia-raffelhueschen.de/,1
+692,"Rainer, Alois",Rainer,male,1965,NA,West,BY,ISCED 5,7411,Metzgermeisterin,Produktionsarbeiterinnen,18. WP,https://www.alois-rainer.de/,1
+693,"Ramelow, Bodo",Ramelow,male,1956,NA,Ost,TH,ISCED 5,1110,Ministerpräsidentin a.D,Managerinnen,16. WP,https://www.bodo-ramelow.de/startseite/,1
+694,"Ramsauer, Peter",Ramsauer,male,1954,Dr.,West,BY,ISCED 8,7414,Müllermeisterin,soziokulturelle (Semi-)Professionen,12. WP,https://peter-ramsauer.de/,1
+695,"Raue, Arne",Raue,male,1970,NA,Ost,BB,ISCED 6,1110,Buchhändlerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,NA,0
+696,"Reck, Christian",Reck,male,1987,NA,Ost,SN,ISCED 6,2470,Mitarbeiter Landtagsfraktion,soziokulturelle (Semi-)Professionen,21. WP,Startseite - Christian Reck | MdB,1
+697,"Redder, Volker",Redder,male,1959,Dr.,West,HB,ISCED 8,1319,Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),20. WP,https://vredder.abgeordnete.fdpbt.de/,1
+698,"Reddig, Pascal",Reddig,male,1995,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://pascalreddig.de/,1
+699,"Rehbaum, Henning",Rehbaum,male,1973,NA,West,NRW,ISCED 6,1226,Betriebswirtin,Managerinnen,20. WP,https://henning-rehbaum.de/,1
+700,"Rehm, Lukas",Rehm,male,1990,NA,West,BY,ISCED 4,4190,Personalsachbearbeiter,Büroangestellte,21. WP,https://lukas-rehm-afd.de/,1
+701,"Reichardt, Martin",M. Reichardt,male,1969,NA,Ost,ST,ISCED 6,2470,Angstellte,technische Professionen,19. WP,https://martin-reichardt.de/,1
+702,"Reichardt, Truels",T. Reichardt,male,1994,NA,West,SH,ISCED 4,2442,Sozialpädagogin,soziokulturelle (Semi-)Professionen,21. WP,truels-reichardt.de,1
+703,"Reichel, Markus",Reichel,male,1968,Dr.,Ost,SN,ISCED 8,2121,Mathematikerin,Managerinnen,20. WP,https://www.markus-reichel.de/,1
+704,"Reichinnek, Heidi",Reichinnek,female,1988,NA,West,NI,ISCED 7,2359,pädagogische Mitarbeiterin Jugendhilfe,soziokulturelle (Semi-)Professionen,20. WP,https://heidi-reichinnek.de/,1
+705,"Reinalter, Anja",Reinalter,female,1970,Dr.,West,BW,ISCED 8,2310,Professorin für soziale Arbeit,soziokulturelle (Semi-)Professionen,20. WP,https://reinalter.info/,1
+706,"Reinhold, Hagen (ausgeschieden)",Reinhold,male,1978,NA,Ost,MV,ISCED 5,7122,Mauerin-/Betonhandwerkerin,Produktionsarbeiterinnen,20. WP,NA,0
+707,"Reisner, Lea Valeska Anissia",Reisner,female,1989,NA,West,NRW,ISCED 4,3231,Gesundheits- und Krankenpflegerin,Dienstleistungsarbeiterinnen,21. WP,https://leareisner.de/,1
+708,"Renner, Martin Erwin",M. E. Renner,male,1954,NA,West,NRW,ISCED 7,1317,Betriebswirtin,Managerinnen,19. WP,http://www.martin-e-renner.de/,1
+709,"Renner, Martina",M. Renner,female,1967,NA,Ost,TH,ISCED 6,2470,Mitarbeiterin in Landtagsfraktion,soziokulturelle (Semi-)Professionen,18. WP,https://www.martinarenner.de/startseite/,1
+710,"Rentzsch, Matthias",Rentzsch,male,1977,NA,Ost,SN,ISCED 4,2470,wiss. Referentin MdL,soziokulturelle (Semi-)Professionen,21. WP,https://matthias-rentzsch.de/,1
+711,"Reuther, Bernd",Reuther,male,1971,NA,West,NRW,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://bernd-reuther.de/,1
+712,"Rhie, Ye-One",Rhie,female,1987,NA,West,NRW,ISCED 7,2442,Kommunikationswissenschaftlerin,Managerinnen,20. WP,https://yeonerhie.de/,1
+713,"Rief, Josef",Rief,male,1960,NA,West,BW,ISCED 5,1311,Landwirtschaftsmeisterin,Managerinnen,17. WP,https://www.josef-rief.de/,1
+714,"Rietenberg, Sylvia",Rietenberg,female,1965,NA,West,NRW,ISCED 4,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,21. WP,https://sylvia-rietenberg.de/,1
+715,"Riexinger, Bernd",Riexinger,male,1955,NA,West,BW,ISCED 4,4212,Bankkauffrau,Büroangestellte,18. WP,https://www.bernd-riexinger.de/,1
+716,"Rimkus, Andreas",Rimkus,male,1962,NA,West,NRW,ISCED 6,3113,Elektromeisterin der Energiewirtschaft,Produktionsarbeiterinnen,18. WP,https://www.andreas-rimkus.de/,1
+717,"Rinck, Frank",Rinck,male,1986,NA,West,NI,ISCED 4,1311,Landwirtin,Managerinnen,20. WP,https://frank-rinck.de/,1
+718,"Rinkert, Daniel",Rinkert,male,1987,NA,West,NRW,ISCED 7,1142,Regionalleiterin beim VDE,Managerinnen,20. WP,https://www.daniel-rinkert.de/,1
+719,"Rix, Sönke",Rix,male,1975,NA,West,SH,ISCED 4,3320,Erzieherin,soziokulturelle (Semi-)Professionen,16. WP,https://www.soenke-rix.de/,1
+720,"Rohde, Dennis",Rohde,male,1986,NA,West,NI,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,http://www.dennis-rohde.de/,1
+721,"Rohwer, Lars",Rohwer,male,1972,NA,Ost,SN,ISCED 4,4212,Bankkauffrau,Managerinnen,20. WP,https://www.lars-rohwer.de/,1
+722,"Roloff, Sebastian",Roloff,male,1983,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://www.roloff-direkt.de/,1
+723,"Rosemann, Martin",Rosemann,male,1976,Dr.,West,BW,ISCED 8,2441,Volkswirtin,Managerinnen,18. WP,https://martin-rosemann.de/,1
+724,"Rosenthal, Jessica",Rosenthal,female,1992,NA,West,NRW,ISCED 7,2320,Gesamtschullehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://jessicarosenthal.de/,1
+725,"Rößner, Tabea",Rößner,female,1966,NA,West,RP,ISCED 7,2451,Journalistin,soziokulturelle (Semi-)Professionen,17. WP,https://www.tabea-roessner.de/,1
+726,"Roth, Claudia",C. Roth,female,1955,NA,West,BY,ISCED 3,2453,Dramaturgin,Managerinnen,15. WP,https://claudia-roth.de/,1
+727,"Roth, Michael",M. Roth,lgbtqi,1970,NA,West,HE,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,14. WP,https://www.michaelroth.eu/,1
+728,"Rothenberger, Johannes",Rothenberger,male,1980,NA,West,BW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://johannes-rothenberger.de/,1
+729,"Rothfuß, Rainer",Rothfuß,male,1971,Dr.,West,BY,ISCED 8,2442,Geopolitik-Analystin,Managerinnen,20. WP,https://www.rainer-rothfuss.de/,1
+730,"Röttgen, Norbert",Röttgen,male,1965,Dr.,West,NRW,ISCED 8,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,13. WP,https://www.norbert-roettgen.de/,1
+731,"Rottmann, Manuela (ausgeschieden am 01.12.2014)",Rottmann,female,1972,Dr.,West,BY,ISCED 8,2429,Juristin,soziokulturelle (Semi-)Professionen,19. WP,https://manuela-rottmann.de/,1
+732,"Rottwilm, Philipp",Rottwilm,male,1984,Dr.,West,HE,ISCED 8,1110,Buchhändlerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,phillip-rottwilm.de,1
+733,"Rouenhoff, Stefan",Rouenhoff,male,1978,NA,West,NRW,ISCED 7,2441,Volkswirtin,Managerinnen,19. WP,https://www.stefan-rouenhoff.de/,1
+734,"Röwekamp, Thomas",Röwekamp,male,1966,NA,West,HB,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,20. WP,https://www.thomasroewekamp.de/,1
+735,"Rüddel, Erwin (gestorben 03.02.2025)",Rüddel,male,1955,NA,West,RP,ISCED 7,1210,Betriebswirtin,Managerinnen,17. WP,https://www.erwin-rueddel.de/,1
+736,"Rudolph, Thorsten",Th. Rudolph,male,1974,Dr.,West,RP,ISCED 8,1110,Abteilungsleiter Ministerium,Managerinnen,20. WP,https://thorsten-rudolph.spd.de/,1
+737,"Rudolph, Tina",Ti. Rudolph,female,1991,NA,Ost,TH,ISCED 7,2221,Ärztin,soziokulturelle (Semi-)Professionen,20. WP,https://www.tina-rudolph.de/,1
+738,"Rudzka, Angela",Rudzka,female,1984,NA,West,NI,ISCED 4,2419,Referentin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+739,"Ruf, Nadine",Ruf,female,1978,NA,West,HE,ISCED 6,4190,Betriebswirtin,Managerinnen,20. WP,https://www.nadine-ruf.de/,1
+740,"Rüffer, Corinna",Rüffer,female,1975,NA,West,RP,ISCED 3,1110,Politikerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.corinna-rueffer.de/,1
+741,"Rump, Daniela",Rump,female,1996,NA,West,NI,ISCED 3,999,Studentin,no class,21. WP,danielarump.de,1
+742,"Rupp, Ruben",Rupp,male,1990,NA,West,BW,ISCED 6,2470,Referentin für Landtagsfraktion,soziokulturelle (Semi-)Professionen,21. WP,https://ruben-rupp.de/,1
+743,"Rupprecht, Albert",Rupprecht,male,1968,NA,West,BY,ISCED 7,2441,Volkswirtin,Managerinnen,15. WP,https://www.albert-rupprecht.com/,1
+744,"Rützel, Bernd",Rützel,male,1968,NA,West,BY,ISCED 4,1110,Technischer Oberamtsrat a. D.,Produktionsarbeiterinnen,18. WP,https://bernd-ruetzel.de/,1
+745,"Ryglewski, Sarah",Ryglewski,female,1983,NA,West,HB,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.sarah-ryglewski.de/,1
+746,"Saathoff, Johann",Saathoff,male,1967,NA,West,NI,ISCED 6,2470,Verwaltungswirtin,Managerinnen,18. WP,https://www.johann-saathoff.de/,1
+747,"Sacher, Michael",Sacher,male,1964,NA,West,NRW,ISCED 6,5220,Buchhändlerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),20. WP,NA,0
+748,"Salihovic, Zada",Salihovic,female,2000,NA,Ost,SN,ISCED 4,1142,Fachkauffrau Büromanagement,Managerinnen,21. WP,https://www.zadasalihovic.de/,1
+749,"Santos-Wintz, Catharina dos",Santos-Wintz,female,1994,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://catarinadossantos.de/,1
+750,"Sassenrath, Carl-Phillip",Sassenrath,male,1990,NA,West,NRW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,21. WP,https://www.cpsassenrath.de/ueber-mich,1
+751,"Sattelberger, Thomas (ausgeschieden)",Sattelberger,lgbtqi,1949,Dr. h.c.,West,BY,ISCED 8,1232,Betriebswirtin,Büroangestellte,19. WP,NA,0
+752,"Sauter, Christian",Sauter,male,1980,NA,West,NRW,ISCED 6,2149,Wirtschaftsingenieurin,technische Professionen,19. WP,https://csauter.abgeordnete.fdpbt.de/,1
+753,"Schäfer, Axel",A. Schäfer,male,1952,NA,West,NRW,ISCED 4,1142,Leiterin Volkshochschule,Managerinnen,15. WP,https://axelschaefer-mdb.de/,1
+754,"Schäfer, Ingo",I. Schäfer,male,1965,NA,West,NRW,ISCED 4,5161,Feuerwehrfrau,Büroangestellte,20. WP,https://www.ingo-schäfer.de/,1
+755,"Schäfer, Jamila",J. Schäfer,female,1993,NA,West,BY,ISCED 3,999,Studentin,no class,20. WP,https://jamila-schaefer.de/,1
+756,"Schäfer, Sebastian",S. Schäfer,male,1979,Dr.,West,BW,ISCED 8,2441,Wirtschaftswissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://sebastian-es.de/,1
+757,"Schäffler, Frank",Schäffler,male,1968,NA,West,NRW,ISCED 6,1142,Geschäftsführerin,soziokulturelle (Semi-)Professionen,20. WP,https://frank-schaeffler.de/,1
+758,"Schamber, Rebecca",Schamber,female,1975,NA,West,NI,ISCED 6,2429,Juristin,soziokulturelle (Semi-)Professionen,15. WP,https://rebecca-schamber.de/,1
+759,"Schanbacher, Lucia",Schanbacher,female,1989,NA,West,BW,ISCED 7,2470,Wissenschaftliche Mitarbeiterin,Managerinnen,20. WP,https://www.lucia-schanbacher.de/,1
+760,"Schattner, Bernd",Schattner,male,1968,NA,West,RP,ISCED 4,1319,Geschäftsführerin,Managerinnen,20. WP,http://bernd-schattner.de/,1
+761,"Schätzl, Johannes",Schätzl,male,1993,NA,West,BY,ISCED 7,2139,Informatikerin,technische Professionen,20. WP,http://schaetzl-johannes.de/,1
+762,"Schäuble, Wolfgang (verstorben)",Schäuble,male,1942,Dr.,West,BW,ISCED 6,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,07. WP,NA,0
+763,"Schauws, Ulle",Schauws,lgbtqi,1966,NA,West,NRW,ISCED 7,2442,Film- und Fernsehwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://ulle-schauws.de/,1
+764,"Scheer, Nina",Scheer,female,1971,Dr.,West,SH,ISCED 8,2429,Juristin,soziokulturelle (Semi-)Professionen,18. WP,https://www.nina-scheer.de/,1
+765,"Scheirich, Raimond",Scheirich,male,1990,NA,West,BY,ISCED 7,2149,Umweltingenieur,technische Professionen,21. WP,raimond-scheirich.de,1
+766,"Schenderlein, Christiane",Schenderlein,female,1981,Dr.,Ost,SN,ISCED 8,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://christiane-schenderlein.de/,1
+767,"Scheuer, Andreas (ausgeschieden)",Scheuer,male,1974,NA,West,BY,ISCED 7,2443,"Politikwissenschaftlerin, Lehrerin",soziokulturelle (Semi-)Professionen,15. WP,NA,0
+768,"Scheurell, Volker",Scheurell,male,1967,NA,Ost,ST,ISCED 4,7124,Tischler,Produktionsarbeiterinnen,21. WP,NA,0
+769,"Schieder, Marianne",Schieder,female,1962,NA,West,BY,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,16. WP,https://marianne-schieder.de/,1
+770,"Schiefner, Udo",Schiefner,male,1959,NA,West,NRW,ISCED 4,3152,Qualitätssicherungstechnikerin,technische Professionen,18. WP,http://udo-schiefner.de/,1
+771,"Schielke-Ziesing, Ulrike",Schielke-Ziesing,female,1969,NA,Ost,MV,ISCED 4,3431,Verwaltungsangestellte,Managerinnen,19. WP,https://ulrike-schielke-ziesing.de/,1
+772,"Schierenbeck, Peggy",Schierenbeck,female,1970,NA,West,NI,ISCED 2,2419,Coach Führung und Verantwortung,Managerinnen,20. WP,https://www.peggy-schierenbeck.de/,1
+773,"Schieske, Lars",Schieske,male,1977,NA,Ost,BB,ISCED 4,5161,Feuerwehrbeamter,Büroangestellte,21. WP,lars-schieske.de,1
+774,"Schießl, Carina",Schießl,female,1990,NA,West,BY,ISCED 4,3229,med.-techn. Laborassistentin,Produktionsarbeiterinnen,21. WP,NA,0
+775,"Schiller, Manfred",Schiller,male,1961,NA,West,BY,ISCED 4,3132,Radio- und Fernsehtechnikerin,Managerinnen,20. WP,https://manfred-schiller.de/,1
+776,"Schimke, Jana",Schimke,female,1979,NA,Ost,BB,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.jana-schimke.de/,1
+777,"Schisanowski, Timo",Schisanowski,male,1981,NA,West,NRW,ISCED 7,2429,Wirtschaftsjuristin,soziokulturelle (Semi-)Professionen,20. WP,https://timo-schisanowski.de/,1
+778,"Schliesing, David",Schliesing,male,1983,NA,Ost,ST,ISCED 7,2453,Dramaturgin,soziokulturelle (Semi-)Professionen,21. WP,https://davidschliesing.de/,1
+779,"Schmid, Christoph",C. Schmid,male,1976,NA,West,BY,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.christoph-schmid-spd.de/,1
+780,"Schmidt, Jan Wenzel",J. W. Schmidt,male,1991,NA,Ost,ST,ISCED 5,1314,Handelsfachwirtin,Managerinnen,20. WP,https://jan-wenzel-schmidt.de/,1
+781,"Schmid, Nils",N. Schmid,male,1973,Dr.,West,BW,ISCED 8,2429,Juristin,soziokulturelle (Semi-)Professionen,19. WP,https://www.nils-schmid.de/,1
+782,"Schmidt, Dagmar",D. Schmidt,female,1973,NA,West,HE,ISCED 7,2443,Historikerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.dagmarschmidt.de/,1
+783,"Schmidt, Eugen",E. Schmidt,male,1975,NA,West,NRW,ISCED 7,2139,Informatikerin,technische Professionen,20. WP,https://eugen-schmidt-mdb.de/,1
+784,"Schmidt, Henri",H. Schmidt,male,1983,NA,West,SH,ISCED 6,1319,"Diplom-Kaufmann, Geschäftsführer IT",kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,https://henri-schmidt.de/,1
+785,"Schmidt, Julian",J. Schmidt,male,1989,NA,West,HE,ISCED 6,2149,Wirtschaftsingenieurin,technische Professionen,21. WP,julian-schmidt-mdb.de,1
+786,"Schmidt, Paul",P. Schmidt,male,1966,Dr.,West,BW,ISCED 8,2111,Physikerin,technische Professionen,21. WP,https://schmidt-afd.de/,1
+787,"Schmidt, Sebastian",Se. Schmidt,male,1993,NA,West,SH,ISCED 6,4212,Bankkauffrau,soziokulturelle (Semi-)Professionen,21. WP,https://www.cdu-sebastian-schmidt.de/,1
+788,"Schmidt, Stefan",St. Schmidt,male,1981,NA,West,BY,ISCED 6,2470,wissenschaftlicher Angestellter,soziokulturelle (Semi-)Professionen,19. WP,https://www.schmidt-oberpfalz.de/,1
+789,"Schmidt, Uwe",U. Schmidt,male,1966,NA,West,HB,ISCED 4,1142,Gesamtbetriebsratsvorsitzender,Produktionsarbeiterinnen,19. WP,https://www.uwe-schmidt-mdb.de/,1
+790,"Schneider, Carsten",C. Schneider,male,1976,NA,Ost,TH,ISCED 4,4212,Bankkauffrau,Büroangestellte,14. WP,carsten-schneider.de,1
+791,"Schneider, Daniel",D. Schneider,male,1976,NA,West,NI,ISCED 6,1210,Kulturveranstalterin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),20. WP,https://www.schneider-cuxhaven.de/,1
+792,"Schneider, Jörg",Jö. Schneider,male,1964,NA,West,NRW,ISCED 6,2149,Wirtschaftsingenieurin,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+793,"Schneider, Julia",Ju. Schneider,female,1990,NA,Ost,BE,ISCED 7,1110,Regierungsrätin,Managerinnen,21. WP,https://www.juliaschneider.info/,1
+794,"Schnieder, Patrick",Schnieder,male,1968,NA,West,RP,ISCED 7,1110,Buchhändlerin,Managerinnen,17. WP,https://www.patrick-schnieder.de/,1
+795,"Scholz, Olaf",Scholz,male,1958,NA,Ost,BB,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,14. WP,http://www.olafscholz.de/,1
+796,"Schön, Nadine",Schön,male,1983,NA,West,SL,ISCED 6,1110,Landtagsabgeordnete,soziokulturelle (Semi-)Professionen,17. WP,https://www.nadine-schoen.de/,1
+797,"Schönberger, Marlene",Schönberger,lgbtqi,1990,NA,West,BY,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.marlene-schoenberger.de/,1
+798,"Schötz, Evelyn",Schötz,female,1961,NA,West,BY,ISCED 4,3231,Altenpflegerin,soziokulturelle (Semi-)Professionen,21. WP,Aktuell: Evelyn Schötz,1
+799,"Schraps, Johannes",Schraps,male,1983,NA,West,NI,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://www.johannes-schraps.de/,1
+800,"Schreider, Christian",Schreider,male,1971,NA,West,RP,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://christian-schreider.de/,1
+801,"Schreiner, Felix",Schreiner,male,1986,NA,West,BW,ISCED 6,1110,MdL (Abgeordneter),soziokulturelle (Semi-)Professionen,19. WP,https://www.felix-schreiner.de/felix-schreiner,1
+802,"Schröder, Chrisina-Johanne",C. Schröder,female,1983,NA,West,NI,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.cjschroeder.de/,1
+803,"Schröder, Ria",R. Schröder,female,1992,NA,West,HH,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://rschroeder.abgeordnete.fdpbt.de/,1
+804,"Schröder, Stefan",S. Schröder,male,1983,NA,Ost,TH,ISCED 7,2443,Historikerin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+805,"Schrodi, Michael",Schrodi,male,1977,NA,West,BY,ISCED 7,2310,Studienrätin,soziokulturelle (Semi-)Professionen,19. WP,https://michael-schrodi.de/,1
+806,"Schubert, Lisa",Schubert,female,2002,NA,West,NRW,ISCED 3,999,Studentin,no class,21. WP,https://lizzyschubert.de/,1
+807,"Schroeter, Georg",Schroeter,male,1950,NA,West,NRW,ISCED 7,2149,Diplom-Ingenieur,technische Professionen,21. WP,https://www.georg-schroeter.de/,1
+808,"Schuhmann, Bernd",Schuhmann,male,1964,NA,West,BY,ISCED 4,6112,Gartenbautechniker,Produktionsarbeiterinnen,21. WP,NA,0
+809,"Schulz, Anja",A. Schulz,female,1985,NA,West,NI,ISCED 4,3419,Finanzberaterin,soziokulturelle (Semi-)Professionen,20. WP,https://aschulz.abgeordnete.fdpbt.de/,1
+810,"Schulz, Marvin",M. Schulz,male,1994,NA,Ost,BE,ISCED 6,1142,Angestellte ö. D. (Referatsleiter),Managerinnen,21. WP,https://www.schulz-marvin.de/,1
+811,"Schulz, Uwe",U. Schulz,male,1961,NA,West,HE,ISCED 3,1236,Leitender Angestellter,Managerinnen,19. WP,https://zukunftistblau.de/,1
+812,"Schulz-Asche, Kordula",Schulz-Asche,female,1956,NA,West,HE,ISCED 7,2442,Kommunikationswissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://schulz-asche.de/,1
+813,"Schulze, Svenja",Schulze,female,1968,NA,West,NRW,ISCED 7,1110,MdB (Politikerin),Managerinnen,20. WP,https://svenja-schulze.de/,1
+814,"Schwabe, Frank",Schwabe,male,1970,NA,West,NRW,ISCED 5,5111,Gästefüher,soziokulturelle (Semi-)Professionen,16. WP,https://www.frank-schwabe.de/,1
+815,"Schwartze, Stefan",Schwartze,male,1974,NA,West,NRW,ISCED 4,7233,Industriemechanikerin,Produktionsarbeiterinnen,17. WP,https://www.stefan-schwartze.de/,1
+816,"Schwarz, Andreas",An. Schwarz,male,1965,NA,West,BY,ISCED 6,1319,Betriebswirtin,Managerinnen,18. WP,https://www.spd-schwarz.de/,1
+817,"Schwarz, Armin (ausgeschieden)",A. Schwarz,male,1968,NA,West,HE,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,17. WP,NA,0
+818,"Schwarzelühr-Sutter, Rita",Schwarzelühr-Sutter,female,1962,NA,West,BW,ISCED 7,2470,Betriebswirtin,Managerinnen,16. WP,https://www.schwarzeluehr-sutter.de/,1
+819,"Schwerdtner, Ines",Schwerdtner,female,1989,NA,Ost,BE,ISCED 7,2451,Publizistin,soziokulturelle (Semi-)Professionen,21. WP,https://inesschwerdtner.de/,1
+820,"Seestern-Pauly, Matthias",Seestern-Pauly,male,1984,NA,West,NI,ISCED 7,2320,Gymnasiallehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.seestern-pauly.de/,1
+821,"Seidler, Stefan",Seidler,male,1979,NA,West,SH,ISCED 7,1239,Deutsch-Dänische Koordinatorin,soziokulturelle (Semi-)Professionen,20. WP,https://stefan-seidler.info/,1
+822,"Seif, Detlef",Seif,male,1962,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://www.detlef-seif-cdu.de/,1
+823,"Seifert, Dario",Seifert,male,1994,NA,Ost,MV,ISCED 4,4141,Kauffrau,Büroangestellte,21. WP,darioseifert.de,1
+824,"Seiter, Stephan",Seiter,male,1963,Prof. Dr.,West,BW,ISCED 8,2310,Professorin für Volkswirtschaftslehre,soziokulturelle (Semi-)Professionen,20. WP,https://sseiter.abgeordnete.fdpbt.de/,1
+825,"Seitz, Nora",N. Seitz,female,1984,NA,Ost,SN,ISCED 5,7411,Fleischermeisterin,Produktionsarbeiterinnen,21. WP,https://nora-seitz-bundestag.de/,1
+826,"Seitz, Thomas",T. Seitz,male,1967,NA,West,BW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,19. WP,http://thomas-seitz.net/,1
+827,"Seitzl, Lina",Seitzl,female,1989,Dr.,West,BW,ISCED 8,2443,Politikwissenschaftlerin,Managerinnen,20. WP,https://www.lina-seitzl.de/,1
+828,"Sekmen, Melis",Sekmen,female,1993,NA,West,BW,ISCED 3,999,Studentin,no class,20. WP,https://melis-sekmen.de/,1
+829,"Semet, Rainer",Semet,male,1957,NA,West,BW,ISCED 7,2149,Wirtschaftsingenieurin,technische Professionen,20. WP,https://www.fdp.de/,1
+830,"Sichert, Martin",Sichert,male,1980,NA,West,NI,ISCED 7,2419,Kauffrau,Managerinnen,19. WP,https://afdbundestag.de/abgeordnete/martin-sichert,1
+831,"Silberhorn, Thomas",Silberhorn,male,1968,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,15. WP,https://www.thomas-silberhorn.de/,1
+832,"Simon, Björn",Simon,male,1981,NA,West,HE,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://www.xn--bjrn-simon-fcb.de/,1
+833,"Sitte, Petra",Sitte,female,1960,Dr.,Ost,ST,ISCED 8,2441,Diplom-Ökonomin,Managerinnen,16. WP,https://www.petra-sitte.de/,1
+834,"Skudelny, Judith",Skudelny,female,1975,NA,West,BW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.judith-skudelny.de/,1
+835,"Slawik, Nyke",Slawik,lgbtqi,1994,NA,West,NRW,ISCED 6,1110,MdB (Politikerin),Büroangestellte,20. WP,https://nyke-slawik.de/,1
+836,"Sorge, Tino",Sorge,male,1975,NA,Ost,SN,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://www.tino-sorge.de/,1
+837,"Spahn, Jens",Spahn,lgbtqi,1980,NA,West,NRW,ISCED 7,4212,Bankkauffrau,Managerinnen,15. WP,https://www.jens-spahn.de/,1
+838,"Spallek, Anne Monika",Spallek,female,1968,Dr.,West,NRW,ISCED 8,2419,Unternehmensberaterin / Leiterin Pferdebetrieb,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),20. WP,https://www.annemonikaspallek.de/,1
+839,"Spaniel, Dirk",Spaniel,male,1971,Dr.,West,BW,ISCED 8,2149,Ingenieurin,technische Professionen,19. WP,http://www.dirkspaniel.de/,1
+840,"Spellerberg, Merle",Spellerberg,female,1996,NA,Ost,SN,ISCED 3,999,Studentin,no class,20. WP,https://www.merlespellerberg.de/,1
+841,"Springer, René",Springer,male,1979,NA,Ost,BB,ISCED 7,3113,Meister Elektrotechnik,Produktionsarbeiterinnen,19. WP,http://rene-springer.info/,1
+842,"Stadler, Svenja",Stadler,female,1976,NA,West,NI,ISCED 4,2419,Senior-PR-Beraterin,Managerinnen,18. WP,https://svenja-stadler.de/,1
+843,"Staffler, Katrin",Staffler,female,1981,NA,West,BY,ISCED 7,2113,Biochemikerin,technische Professionen,19. WP,https://katrin-staffler.de/,1
+844,"Stahr, Nina (ausgeschieden 04.03.2024)",Stahr,female,1982,NA,Ost,BE,ISCED 6,2320,Lehrerin,soziokulturelle (Semi-)Professionen,20. WP,NA,0
+845,"Stamm-Fibich, Martina",Stamm-Fibich,female,1965,NA,West,BY,ISCED 4,1234,Marketing-/ Kommunikationsmanagerin,Managerinnen,18. WP,http://stamm-fibich.de/,1
+846,"Stange, Julia-Christina",Stange,female,1978,NA,West,RP,ISCED 4,3231,Fachkinderkrankenschwester,Dienstleistungsarbeiterinnen,21. WP,https://www.juliacstange.de/aktuell/,1
+847,"Stark-Watzinger, Bettina",Stark-Watzinger,female,1968,NA,West,HE,ISCED 7,2441,Diplom-Volkswirtin,soziokulturelle (Semi-)Professionen,19. WP,https://www.stark-watzinger.de/,1
+848,"Steffen, Till",Steffen,male,1973,Dr.,West,HH,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://www.tillsteffen.de/,1
+849,"Stefinger, Wolfgang",Stefinger,lgbtqi,1985,Dr.,West,BY,ISCED 8,3431,Betriebswirtin,Managerinnen,18. WP,https://wolfgang-stefinger.de/,1
+850,"Stegemann, Albert",Stegemann,male,1976,NA,West,NI,ISCED 5,1311,Landwirtschaftsmeisterin,Managerinnen,18. WP,https://www.albert-stegemann.de/,1
+851,"Stegner, Ralf",Stegner,male,1959,Dr.,West,SH,ISCED 8,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.ralf-stegner.de/,1
+852,"Stein, Mathias",M. Stein,male,1970,NA,West,SH,ISCED 4,3112,Bautechnikerin,Managerinnen,19. WP,https://www.mathias-stein.de/,1
+853,"Stein, Sandra",S. Stein,female,1986,NA,West,NRW,ISCED 6,1319,Unternehmerin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),21. WP,https://sandra-stein.com/,1
+854,"Steineke, Sebastian",Steineke,male,1973,NA,Ost,BB,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://sebastian-steineke.de/,1
+855,"Steiniger, Johannes",Steiniger,male,1987,NA,West,RP,ISCED 7,2320,Gymnasiallehrerin,soziokulturelle (Semi-)Professionen,18. WP,https://www.johannes-steiniger.de/,1
+856,"Steinmüller, Hanna",Steinmüller,female,1993,NA,Ost,BE,ISCED 6,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://hanna-steinmueller.de/,1
+857,"Stephan, Thomas",Stephan,male,1970,NA,West,RP,ISCED 4,1317,selbstständig,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,21. WP,afd-thomas-stephan.de,1
+859,"Stetten, Christian Freiherr von",Stetten,male,1970,NA,West,BW,ISCED 6,1319,Betriebswirtin,Managerinnen,15. WP,https://www.christian-stetten.de/,1
+860,"Sthamer, Nadja",Sthamer,female,1990,NA,Ost,SN,ISCED 7,2470,wissenschaftliche Mitarbeiterin,Managerinnen,20. WP,https://nadja-sthamer.de/,1
+861,"Stier, Dieter",Stier,male,1964,NA,Ost,SN,ISCED 7,2213,Agraringenieurin,technische Professionen,17. WP,https://www.dieterstier.de/,1
+862,"Stöber, Klaus",Stöber,male,1961,NA,Ost,TH,ISCED 6,2411,Steuerberaterin,Managerinnen,20. WP,https://www.klausstoeber.de/,1
+863,"Stöcker, Diana (ausgeschieden)",Stöcker,female,1970,NA,West,BW,ISCED 7,1110,Buchhändlerin,Managerinnen,20. WP,NA,0
+864,"Stockmeier, Konrad",Stockmeier,male,1977,NA,West,BW,ISCED 7,2442,Marktforscherin,soziokulturelle (Semi-)Professionen,20. WP,https://www.konradstockmeier.de/,1
+865,"Storch, Beatrix von",Storch,female,1971,NA,Ost,BE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://beatrixvonstorch.de/,1
+866,"Storjohann, Gero (verstorben)",Storjohann,male,1958,NA,West,SH,ISCED 6,1110,Betriebswirtin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,15. WP,NA,0
+867,"Stracke, Stephan",Stracke,male,1974,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://www.stephan-stracke.de/,1
+868,"Strack-Zimmermann, Marie-Agnes (ausgeschieden)",Strack-Zimmermann,female,1958,Dr.,West,NRW,ISCED 8,2451,Publizistin,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+869,"Strasser, Benjamin",Strasser,male,1987,NA,West,BW,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.benjamin-strasser.de/,1
+870,"Straubinger, Max",Straubinger,male,1954,NA,West,BY,ISCED 4,1311,Landwirtschaftsmeisterin,Managerinnen,13. WP,https://www.max-straubinger.de/,1
+871,"Strauß, Otto",Strauß,male,1954,NA,West,NRW,ISCED 5,7131,Dachdeckermeister,Produktionsarbeiterinnen,21. WP,NA,0
+872,"Strauss-Köster, Katja",Strauss-Köster,female,1970,Dr.,West,NRW,ISCED 8,2148,Dr.-Ing. Raumplanung,technische Professionen,21. WP,https://www.katja-strauss-koester.de/ueber-mich,1
+873,"Streeck, Hendrik",Streeck,lgbtqi,1977,Prof. Dr.,West,NRW,ISCED 8,2310,Universitätsprofessorin,soziokulturelle (Semi-)Professionen,21. WP,https://hendrikstreeck.de/,1
+874,"Strengmann-Kuhn, Wolfgang",Strengmann-Kuhn,male,1964,Dr.,West,HE,ISCED 8,2441,Volkswirtin,Managerinnen,18. WP,https://strengmann-kuhn.de/,1
+875,"Stumpp, Christina",Stumpp,female,1987,NA,West,BW,ISCED 6,2411,Steuerrechtlerin,Managerinnen,20. WP,https://christina-stumpp.de/,1
+876,"Stüwe, Ruppert",Stüwe,male,1978,NA,Ost,BE,ISCED 7,2441,Volkswirtin,Managerinnen,20. WP,https://www.ruppert-stuewe.de/,1
+877,"Taher Saleh, Kassem",Taher Saleh,male,1993,NA,Ost,SN,ISCED 7,2142,Bauingenieurin,technische Professionen,20. WP,https://www.kassem-taher-saleh.de/,1
+878,"Tatti, Jessica",Tatti,female,1981,NA,West,BW,ISCED 6,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,19. WP,https://jessica-tatti.de/,1
+879,"Tauschwitz, Vivian",Tauschwitz,female,1997,NA,West,NI,ISCED 7,100,Soldatin,no class,21. WP,https://vivian-tauschwitz.de/,1
+880,"Tausend, Claudia",Tausend,female,1964,NA,West,BY,ISCED 7,2442,Geografin,Managerinnen,18. WP,https://claudia-tausend.de/,1
+881,"Tebroke, Hermann-Josef",Tebroke,male,1964,Dr.,West,NRW,ISCED 7,1110,Betriebswirtin,Managerinnen,19. WP,https://www.hermannjosef-tebroke.de/,1
+882,"Teich, Tobias",Teich,male,1984,NA,West,BY,ISCED 4,2419,Referent,soziokulturelle (Semi-)Professionen,21. WP,https://www.tobiasteich.com/,1
+883,"Tesfaiesus, Awet",Tesfaiesus,female,1974,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://awet-tesfaiesus.de/,1
+884,"Teske, Robert",Teske,male,1990,NA,Ost,TH,ISCED 4,2419,Büroleiterin,Managerinnen,21. WP,NA,0
+885,"Teuteberg, Linda",Teuteberg,female,1981,NA,Ost,BB,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,NA,0
+886,"Teutrine, Jens",Teutrine,male,1993,NA,West,NRW,ISCED 3,999,Studentin,no class,20. WP,https://www.jensteutrine.de/,1
+887,"Theis, Roland",Theis,male,1980,NA,West,SL,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,21. WP,https://rolandtheis.de/,1
+888,"Theiss, Hans",Theiss,male,1977,Dr.,West,BY,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,21. WP,https://www.hans-theiss.de/,1
+889,"Theurer, Michael",Theurer,male,1967,NA,West,BW,ISCED 7,2441,Volkswirtin,Managerinnen,19. WP,https://www.michaeltheurer.eu/,1
+890,"Thews, Michael",Thews,male,1964,NA,West,NRW,ISCED 6,2146,Chemieingenieurin,technische Professionen,18. WP,michaelthews.de,1
+891,"Thies, Hans-Jürgen",Thies,male,1955,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,19. WP,https://www.hans-juergen-thies.de/,1
+892,"Thoden, Ulrich",Thoden,male,1973,NA,West,NRW,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+893,"Thomae, Stephan",Thomae,male,1968,NA,West,BY,ISCED 7,2429,Volljuristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.stephan-thomae.de/,1
+894,"Throm, Alexander",Throm,male,1968,NA,West,BW,ISCED 7,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,19. WP,https://www.alexander-throm.de/,1
+895,"Tillmann, Antje",Tillmann,female,1964,NA,Ost,TH,ISCED 6,3419,Finanzwirtin,Managerinnen,15. WP,https://www.antje-tillmann.de/,1
+896,"Timmermann-Fechter, Astrid",Timmermann-Fechter,female,1963,NA,West,NRW,ISCED 7,2419,Referentin,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),18. WP,https://www.timmermann-fechter.de/,1
+897,"Tippelt, Nico",Tippelt,male,1967,NA,Ost,SN,ISCED 6,2359,Musikpädagogin,soziokulturelle (Semi-)Professionen,20. WP,https://www.nicotippeltmdb.de/,1
+898,"Todtenhausen, Manfred",Todtenhausen,male,1950,NA,West,NRW,ISCED 5,3113,Elektromeisterin,Produktionsarbeiterinnen,20. WP,https://mtodtenhausen.abgeordnete.fdpbt.de/,1
+899,"Toncar, Florian",Toncar,male,1979,Dr.,West,BW,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,16. WP,https://www.toncar.de/,1
+900,"Töns, Markus",Töns,male,1964,NA,West,NRW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,19. WP,https://www.markus-toens.de/,1
+901,"Trabert, Gerhard",Trabert,male,1956,Prof. Dr.,West,RP,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,21. WP,https://gerhardtrabert.de/,1
+902,"Träger, Carsten",Träger,male,1973,NA,West,BY,ISCED 6,2419,Kommunikationswirtin,soziokulturelle (Semi-)Professionen,18. WP,https://www.carsten-traeger.de/,1
+903,"Trasnea, Ana-Maria (ausgeschieden)",Trasnea,female,1994,NA,Ost,BE,ISCED 6,2442,Kulturwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,NA,0
+904,"Treuheit, Bastian",Treuheit,male,1998,NA,West,BY,ISCED 4,3415,Groß- und Außenhandelskaufmann,soziokulturelle (Semi-)Professionen,21. WP,bastian-treuheit.de,1
+905,"Trittin, Jürgen",Trittin,male,1954,NA,West,NI,ISCED 6,3443,Sozialwirtin,soziokulturelle (Semi-)Professionen,14. WP,NA,0
+906,"Troff-Schaffarzyk, Anja",Troff-Schaffarzyk,female,1969,NA,West,NI,ISCED 7,3419,Diplom-Pädagogin,Managerinnen,20. WP,https://www.anja-troff-schaffarzyk.de/,1
+907,"Türk-Nachbaur, Derya",Türk-Nachbaur,female,1973,NA,West,BW,ISCED 6,3412,Versicherungsfachfrau,soziokulturelle (Semi-)Professionen,20. WP,https://www.tuerk-nachbaur.de/,1
+908,"Uhl, Markus",Uhl,male,1979,NA,West,SL,ISCED 6,1110,Kauffrau,Managerinnen,18. WP,https://www.markusuhl.de/,1
+909,"Uhlig, Katrin",Uhlig,female,1982,NA,West,NRW,ISCED 7,2442,Diplom Kulturwirtin,Managerinnen,20. WP,https://katrin-uhlig.de/,1
+910,"Uhr, Martina",Uhr,female,1961,NA,West,NI,ISCED 4,3229,med. Fachangestellte,Produktionsarbeiterinnen,21. WP,NA,0
+911,"Ullmann, Andrew",Ullmann,male,1963,Prof. Dr.,West,BY,ISCED 8,2221,"Fachärztin für Innere Medizin, Universitätsprofessorin",soziokulturelle (Semi-)Professionen,19. WP,https://www.andrew-ullmann.de/,1
+912,"Ullrich, Frank",F. Ullrich,male,1958,NA,Ost,TH,ISCED 6,2320,Sportlehrerin,soziokulturelle (Semi-)Professionen,20. WP,https://frank-ullrich-mdb.de/,1
+913,"Ullrich, Gerald",G. Ullrich,male,1962,NA,Ost,TH,ISCED 6,2149,Ingenieurin,technische Professionen,20. WP,https://www.gerald-ullrich.de/,1
+914,"Ullrich, Volker",V. Ullrich,male,1975,Dr.,West,BY,ISCED 8,1110,Berufsmäßiger Stadtrat,soziokulturelle (Semi-)Professionen,18. WP,https://volker-ullrich.de/,1
+915,"Ulrich, Alexander",Ulrich,male,1971,NA,West,RP,ISCED 4,1142,Geschäftsführerin Gewerkschaft,Managerinnen,16. WP,NA,0
+916,"Valent, Aaron",Valent,male,1997,NA,West,BY,ISCED 4,999,Auszubildender,no class,21. WP,https://aaron-valent.de/,1
+917,"Vandre, Isabelle",Vandre,female,1989,NA,Ost,BB,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,21. WP,https://isabelle-vandre.de/,1
+918,"Verlinden, Julia",Verlinden,female,1979,Dr.,West,NI,ISCED 8,2149,Umweltwissenschaftlerin,soziokulturelle (Semi-)Professionen,18. WP,https://julia-verlinden.de/,1
+919,"Vieregge, Kerstin",Vieregge,male,1976,NA,West,NRW,ISCED 4,3419,Betriebswirtin,Managerinnen,19. WP,https://www.kerstin-vieregge.de/,1
+920,"Vogel, Ingo",I. Vogel,male,1976,NA,West,NRW,ISCED 6,3450,Polizeibeamter,Dienstleistungsarbeiterinnen,21. WP,spdfraktion-de/abgeordnete/vogel,1
+921,"Vogel, Johannes",J. Vogel,male,1982,NA,West,NRW,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,17. WP,https://johannes-vogel.de/,1
+922,"Vogler, Kathrin",Vogler,female,1963,NA,West,NRW,ISCED 3,1143,Geschäftsführerin NGO,Managerinnen,17. WP,https://www.kathrin-vogler.de/start/aktuell/,1
+923,"Vogt, Oliver",Vogt,male,1977,Dr.,West,NRW,ISCED 8,2111,Physikerin,technische Professionen,20. WP,http://www.olivervogt.de/,1
+924,"Vogtschmidt, Donata",Vogtschmidt,female,1998,NA,Ost,TH,ISCED 7,2442,Staatswissenschaftlerin,soziokulturelle (Semi-)Professionen,21. WP,https://www.donatavogtschmidt.de/,1
+925,"Volkmann, Johannes",Volkmann,male,1996,NA,West,HE,ISCED 7,2441,Volkswirtin,soziokulturelle (Semi-)Professionen,21. WP,https://www.johannes-volkmann.de/,1
+926,"Vollath, Sarah",Vollath,female,1995,NA,West,BY,ISCED 7,2446,Sozialarbeiterin,soziokulturelle (Semi-)Professionen,21. WP,https://sarah-vollath.de/,1
+927,"Völlers, Marja-Liisa",Völlers,female,1984,NA,West,NI,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,19. WP,https://www.marjavoellers.de/,1
+928,"Vontz, Emily",Vontz,female,2000,NA,West,SL,ISCED 3,999,Studentin,no class,20. WP,https://emily-vontz.de/,1
+929,"Vöpel, Dirk",Vöpel,male,1971,NA,West,NRW,ISCED 3,1317,selbstständige Kauffrau,kleine Unternehmerinnen (mit weniger als 10 Beschäftigten),18. WP,https://www.dirk-voepel.de/,1
+930,"Vries, Christoph de",Vries,male,1974,NA,West,HH,ISCED 7,2442,Soziologin,Managerinnen,19. WP,https://www.christophdevries.de/,1
+931,"Wadephul, Johann David",Wadephul,male,1963,Dr.,West,SH,ISCED 8,2421,Rechtsanwältin,große Unternehmerinnen (mit 10 und mehr Beschäftigten) und selbstständige Professionen,17. WP,https://www.johann-wadephul.de/,1
+932,"Wagener, Niklas",N. Wagener,male,1998,NA,West,BY,ISCED 7,2211,Forstwissenschaftler,technische Professionen,20. WP,https://www.niklas-wagener.de/,1
+933,"Wagener, Robin",R. Wagener,male,1980,NA,West,NRW,ISCED 7,2422,Richterin,soziokulturelle (Semi-)Professionen,20. WP,https://robin-wagener.de/,1
+934,"Wagenknecht, Sahra",Wagenknecht,female,1969,Dr.,West,NRW,ISCED 8,2441,Ökonomin,Managerinnen,17. WP,https://www.sahra-wagenknecht.de/,1
+935,"Wagner, Carolin",C. Wagner,female,1982,Dr.,West,BY,ISCED 8,1110,Referatsleiterin,Managerinnen,20. WP,https://carolinwagner.bayern/,1
+936,"Wagner, Johannes",J. Wagner,male,1991,NA,West,BY,ISCED 7,2221,Ärztin,soziokulturelle (Semi-)Professionen,20. WP,https://www.johannes-wagner.org/,1
+937,"Wagner, Sascha",S. Wagner,male,1980,NA,West,NRW,ISCED 4,1141,Partei Fraktionsgeschäftsführer,Managerinnen,21. WP,https://www.sascha-h-wagner.de/,1
+938,"Wagner, Tim",T. Wagner,male,1981,NA,Ost,TH,ISCED 3,2419,Vermögensberaterin,soziokulturelle (Semi-)Professionen,20. WP,wagner.abgeordnete.fdpbt.de,1
+939,"Walch, Siegfried",Walch,male,1984,NA,West,BY,ISCED 6,1110,Landrat,Managerinnen,21. WP,https://www.siegfriedwalch.de/,1
+940,"Wallstein, Maja",Wallstein,female,1986,NA,Ost,BB,ISCED 7,2470,Wissenschaftsmanagerin,Managerinnen,20. WP,https://maja-wallstein.eu/,1
+941,"Walter, Daniel",D. Walter,male,1991,NA,West,NRW,ISCED 7,2419,Referent,soziokulturelle (Semi-)Professionen,21. WP,walter-waehlen.de,1
+942,"Walter, Hannes",H. Walter,male,1984,NA,Ost,BB,ISCED 7,1319,Betriebswirtin,Managerinnen,20. WP,https://hannes-walter.spd.de/,1
+943,"Walter-Rosenheimer, Beate",Walter-Rosenheimer,female,1964,NA,West,BY,ISCED 7,2445,Psychologin,soziokulturelle (Semi-)Professionen,17. WP,https://www.beate-walter-rosenheimer.de/,1
+944,"Wanderwitz, Marco",Wanderwitz,male,1975,NA,Ost,SN,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,15. WP,https://www.wanderwitz.de/,1
+945,"Warken, Nina",Warken,female,1979,NA,West,BW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://nina-warken.de/,1
+946,"Weeser, Sandra",Weeser,female,1969,NA,West,RP,ISCED 4,1210,Vizepräsidentin eines Konzerns,soziokulturelle (Semi-)Professionen,19. WP,https://www.sandra-weeser.de/,1
+947,"Wegge, Carmen",Wegge,female,1989,NA,West,BY,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,20. WP,https://www.carmen-wegge.de/,1
+948,"Wegling, Melanie",Wegling,female,1990,NA,West,HE,ISCED 7,1233,Managerin im strategischen Vertrieb,Managerinnen,20. WP,http://www.melanie-wegling.de/,1
+949,"Weidel, Alice",Weidel,lgbtqi,1979,Dr.,West,BW,ISCED 8,2441,Volkswirtin,Managerinnen,19. WP,https://www.alice-weidel.de/,1
+950,"Weingarten, Joe",Weingarten,male,1962,Dr.,West,RP,ISCED 8,2470,Verwaltungswissenschaftler,Managerinnen,19. WP,http://mdb.joe-weingarten.de/,1
+951,"Weiser, Mathias",Weiser,male,1986,NA,Ost,SN,ISCED 7,1313,Kaufmännischer Leiterin,Managerinnen,21. WP,NA,0
+952,"Weisgerber, Anja",Weisgerber,female,1976,Dr.,West,BY,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,18. WP,https://anja-weisgerber.de/,1
+953,"Weishaupt, Saskia",Weishaupt,female,1993,NA,West,BY,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.saskia-weishaupt.de/,1
+954,"Weiss, Claudia",C. Weiss,female,1975,NA,Ost,ST,ISCED 4,2419,Referentin,soziokulturelle (Semi-)Professionen,21. WP,claudiaweiss-bernburg.de,1
+955,"Weiss, Maria-Lena",M. Weiss,female,1981,Dr.,West,BW,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://marialenaweiss.de/,1
+956,"Weiss, Sabine",S. Weiss,female,1958,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,17. WP,https://www.sabine-weiss.de/,1
+957,"Wellenreuth, Igo",Wellenreuth,male,1959,NA,West,BW,ISCED 7,2422,Richterin,soziokulturelle (Semi-)Professionen,15. WP,https://www.ingo-wellenreuther.de/,1
+958,"Wendorf, Sven",Wendorf,male,1972,NA,West,SH,ISCED 4,3431,Verwaltungsfachangestellter,Büroangestellte,21. WP,NA,0
+959,"Wenzel, Stefan",Wenzel,male,1962,NA,West,NI,ISCED 7,2419,Referentin für Verkehrspolitik,Managerinnen,20. WP,https://stefan-wenzel.de/,1
+960,"Werner, Lena",Werner,female,1994,NA,West,RP,ISCED 6,2419,Projektmanagerin,Managerinnen,20. WP,https://lena-werner.spd.de/,1
+961,"Werstig, Nicole",Werstig,female,1967,NA,West,NRW,ISCED 7,3419,Fundraiserin,soziokulturelle (Semi-)Professionen,20. WP,https://www.nicole-westig.de/,1
+962,"Westphal, Bernd",Westphal,male,1960,NA,West,NI,ISCED 4,3116,Chemielaborantin,technische Professionen,18. WP,https://www.bernd-westphal.de/,1
+963,"Weyel, Harald",Weyel,male,1959,Prof. Dr.,West,NRW,ISCED 8,2310,Professorin der Betriebswirtschaft,soziokulturelle (Semi-)Professionen,20. WP,https://harald-weyel.de/,1
+964,"Whittaker, Kai",Whittaker,male,1985,NA,West,BW,ISCED 7,2441,Wirtschaftswissenschaftlerin,Managerinnen,18. WP,https://www.whittaker.de/,1
+965,"Widmann-Mauz, Anette",Widmann-Mauz,female,1966,NA,West,BW,ISCED 3,1110,MdB,Managerinnen,14. WP,https://www.widmann-mauz.de/,1
+966,"Wiegelmann, Johannes Thomas Maria",Wiegelmann,male,1993,NA,West,HE,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://www.johanneswiegelmann.de/,1
+967,"Wiehle, Wolfgang",Wiehle,male,1964,NA,West,BY,ISCED 7,2139,Informatikerin,technische Professionen,19. WP,https://www.wolfgang-wiehle.de/,1
+968,"Wiener, Klaus",Wiener,male,1962,Dr.,West,NRW,ISCED 8,2441,Volkswirtin,Managerinnen,20. WP,https://klauswiener.de/,1
+969,"Wiese, Dirk",Wiese,male,1983,NA,West,NRW,ISCED 7,2429,Juristin,soziokulturelle (Semi-)Professionen,18. WP,https://www.dirkwiese.de/,1
+970,"Wiesmann, Bettina Margarethe",Wiesmann,female,1966,NA,West,HE,ISCED 7,2419,Unternehmenberaterin,Managerinnen,19. WP,https://www.bettina-wiesmann.de/ueber-mich_p_33.html,1
+971,"Willkomm, Katharina",Willkomm,female,1987,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://www.katharina-willkomm.de/,1
+972,"Willnat, Christin",Willnat,female,1986,NA,Ost,BB,ISCED 6,2444,Übersetzerin,soziokulturelle (Semi-)Professionen,21. WP,https://christin-willnat.dielinke-brandenburg.de/,1
+973,"Willsch, Klaus-Peter",Willsch,male,1961,NA,West,HE,ISCED 6,2441,Volkswirtin,Managerinnen,14. WP,https://www.klaus-peter-willsch.de/,1
+974,"Winkel, Johannes",Winkel,male,1991,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://www.johanneswinkel.de/,1
+975,"Winkelmeier-Becker, Elisabeth",Winkelmeier-Becker,female,1962,NA,West,NRW,ISCED 7,2422,Richterin,soziokulturelle (Semi-)Professionen,16. WP,https://www.elisabeth-winkelmeier-becker.de/,1
+976,"Winkler, Tobias",Winkler,male,1978,NA,West,BY,ISCED 7,2419,Büroleiterin Europäisches Parlament,soziokulturelle (Semi-)Professionen,20. WP,https://winkler-tobias.de/,1
+977,"Winklmann, Tina",Winklmann,female,1980,NA,West,BY,ISCED 4,8231,Verfahrensmechanikerin für Kunststoff-und Kautschuktechnik,Produktionsarbeiterinnen,20. WP,http://tina-winklmann.info/,1
+978,"Wirth, Christian",Wirth,male,1963,Dr.,West,NRW,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,19. WP,https://christian-wirth.info/,1
+979,"Wissing, Volker",Wissing,male,1970,Dr.,West,NRW,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,15. WP,https://www.volker-wissing.de/,1
+980,"Wissler, Janine",Wissler,female,1981,NA,West,HE,ISCED 7,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://www.janine-wissler.de/,1
+981,"Witt, Uwe",Witt,male,1959,NA,West,SH,ISCED 6,2412,Personalbetriebswirtin,Büroangestellte,20. WP,https://uwewitt.com/,1
+982,"Wittmann, Mechthilde",Wittmann,female,1967,NA,West,BY,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,20. WP,https://www.mechthilde-wittmann.de/,1
+983,"Wolf, Alexander",Wolf,male,1967,Dr.,West,HH,ISCED 8,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,wolf-afd.de,1
+984,"Wollmann, Herbert",Wollmann,male,1951,Dr.,Ost,ST,ISCED 8,2221,Ärztin,soziokulturelle (Semi-)Professionen,20. WP,https://dr-wollmann-stadtrat.de/,1
+985,"Wulf, Mareike",Wulf,female,1979,NA,West,NI,ISCED 7,2442,Sozialwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://mareikewulf.de/,1
+986,"Wundrak, Joachim",Wundrak,male,1955,NA,West,NI,ISCED 6,100,Soldatin,no class,20. WP,https://joachimwundrak.com/,1
+987,"Yüksel, Gülistan",G. Yüksel,female,1962,NA,West,NRW,ISCED 4,3228,Apothenhelferin / PKA,Dienstleistungsarbeiterinnen,18. WP,https://www.guelistan-yueksel.de/,1
+988,"Yüksel, Serdar",S. Yüksel,male,1973,NA,West,NRW,ISCED 6,2230,Krankenpfleger,soziokulturelle (Semi-)Professionen,21. WP,serdar-yueksel.de,1
+989,"Zaum, Christian",Zaum,male,1969,NA,West,NRW,ISCED 7,2320,Lehrerin,soziokulturelle (Semi-)Professionen,21. WP,NA,0
+990,"Zerbin, Daniel",Zerbin,male,1973,Prof. Dr.,West,NRW,ISCED 8,2442,Kriminalwissenschaftler,soziokulturelle (Semi-)Professionen,21. WP,https://daniel-zerbin.de/,1
+991,"Zerr, Anne",Zerr,female,1993,NA,West,BW,ISCED 7,1142,Gewerkschaftssekretärin,Managerinnen,21. WP,https://anne-zerr.de/,1
+992,"Zeulner, Emmi",Zeulner,female,1987,NA,West,BY,ISCED 6,3231,Gesundheits- und Krankenpflegerin,soziokulturelle (Semi-)Professionen,18. WP,https://emmi-zeulner.de/,1
+993,"Ziegler, Kay-Uwe",Ziegler,male,1963,NA,Ost,ST,ISCED 6,1312,"Kauffrau, Geschäfstführerin",Managerinnen,20. WP,kay-uwe-ziegler.de,1
+994,"Ziemiak, Paul",Ziemiak,male,1985,NA,West,NRW,ISCED 3,1141,Generalsekretär der CDU,Managerinnen,19. WP,https://www.paul-ziemiak.de/,1
+995,"Zierke, Stefan",Zierke,male,1970,NA,Ost,BB,ISCED 4,7222,Werkzeugmacherin,Produktionsarbeiterinnen,18. WP,https://www.stefan-zierke.de/,1
+996,"Zimmer, Diana",Zimmer,female,1998,NA,West,BW,ISCED 6,3419,Betriebswirtin,soziokulturelle (Semi-)Professionen,21. WP,diana-zimmer.de,1
+997,"Zimmermann, Jens",Zimmermann,male,1981,Dr.,West,HE,ISCED 8,2419,Diplom-Kaufmann,soziokulturelle (Semi-)Professionen,18. WP,https://www.jens-zimmermann.org/,1
+998,"Zippelius, Nicolas",Zippelius,male,1987,NA,West,BW,ISCED 6,2443,Politikwissenschaftlerin,soziokulturelle (Semi-)Professionen,20. WP,https://nicolas-zippelius.de/,1
+999,"Zirwes, Jörg",Zirwes,male,1968,NA,West,RP,ISCED 4,100,Soldatin,no class,21. WP,NA,0
+1000,"Zobel, Vanessa",Zobel,female,1988,NA,West,NI,ISCED 4,4212,Bankkauffrau,soziokulturelle (Semi-)Professionen,21. WP,https://www.vanessazobel-mdb.de/,1
+1001,"von Zons, Ulrich",von Zons,male,1968,NA,West,NRW,ISCED 7,2421,Rechtsanwältin,soziokulturelle (Semi-)Professionen,21. WP,https://ulrichvonzons.de/,1
+1002,"Zorn, Armand",Zorn,male,1988,NA,West,HE,ISCED 7,2419,Unternehmensberaterin,Managerinnen,20. WP,https://www.armandzorn.de/,1
+1003,"Zschau, Katrin",Zschau,female,1976,NA,Ost,MV,ISCED 7,1142,Landesgeschäftsführerin,Managerinnen,20. WP,https://katrin-zschau.de/,1
